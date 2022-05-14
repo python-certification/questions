@@ -1,0 +1,6 @@
+::Check digits::What string method can you use to check if string is a number? {
+=isdigit()
+~digits()
+~numeric()
+=isdecimal()
+}

@@ -1,0 +1,6 @@
+::Capitalize string::What string method can you use to capitalize first character? {
+=capitalize()
+~uppercase()
+~cap()
+~firstup()
+}
