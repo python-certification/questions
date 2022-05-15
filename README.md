@@ -2,7 +2,7 @@
 
 List of questions that will be used in Python Certification exam.
 
-The questions are in https://docs.moodle.org/400/en/GIFT_format format.
+The questions are in [Moodle GIFT format](https://docs.moodle.org/400/en/GIFT_format).
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
