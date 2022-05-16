@@ -1,0 +1,6 @@
+::Return Values::How do you return back a value in a python function? {
+=return myVar
+~return.value_type(myVar)
+~return(myVar)
+~myVar.return()
+}
