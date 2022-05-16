@@ -1,0 +1,7 @@
+::Call A Function::How do you call (use) a function in Python? {
+=function_name(*args)
+~use function_name(*args)
+~use(function_name(*args))
+~function_name.call(*args)
+~call(function_name(*args))
+}
