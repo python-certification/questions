@@ -1,0 +1,9 @@
+::Examples of Data Structures::Select all examples of data structures. {
+~xml
+=lists
+=trees
+~yaml
+=hashtables
+~json
+~bush table
+}
