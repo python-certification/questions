@@ -2,7 +2,22 @@
 
 List of questions that will be used in Python Certification exam.
 
-## Quick Links
+# Categories
+
+- Expressions
+- Exceptions
+- Types
+- Strings
+- Functions
+- Object oriented
+- Control flow
+- Data structures
+- Concurrency
+- Modules - std lib
+- New features in python 3.10
+- New features in python 3.11
+    
+# Quick Links
 - [Moodle GIFT File Docs](https://docs.moodle.org/400/en/GIFT_format)
 - [Moodle Converter](http://text2gift.atwebpages.com/Text2GiftConverter.html)
 
