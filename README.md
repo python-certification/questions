@@ -21,8 +21,9 @@ List of questions that will be used in Python Certification exam.
 - [Moodle GIFT File Docs](https://docs.moodle.org/400/en/GIFT_format)
 - [Moodle Converter](http://text2gift.atwebpages.com/Text2GiftConverter.html)
 
-
-The questions are in [Moodle GIFT format](https://docs.moodle.org/400/en/GIFT_format).
+# Recommended VS Code Extention
+- [Gift Format Pack](https://marketplace.visualstudio.com/items?itemName=ethan-ou.vscode-gift-pack)
+- [Gift Format Preview](https://marketplace.visualstudio.com/items?itemName=ethan-ou.vscode-gift-preview)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
