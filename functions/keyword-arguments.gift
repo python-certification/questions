@@ -1,0 +1,7 @@
+::Keyword Arguments::What is true about Keyword Arguments in Python? {
+=It does not matter what order you list the arguments when calling the function as 
+long as you set the augumet equal to the argument name.
+~You have to list the arguments in the function exactly the same way as the function was defined.
+~To call the function, you only have to use the first three letters of the keyword argumet name, (Ex: Argumnet Name: user_name, Call Function: use="Bob").
+~Just another word for arguments in a function.
+}

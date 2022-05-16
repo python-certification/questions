@@ -1,0 +1,7 @@
+::Arbitrary Keyword Arguments::What is a Arbitrary Keyword Argument in Python? {
+=KWARGS is a way to use keyword arguments in a function if you do now know how many keyword 
+arguents are going to be given when the functin is called.
+~Another word for regular Arbitrary Arguments.
+~A placeholder for when your function does not use any arguments.
+~An error handeler in python for operating function embeded in a class.
+}
