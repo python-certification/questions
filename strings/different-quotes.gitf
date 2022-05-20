@@ -3,6 +3,7 @@
 =s = 'The capital of Argentina is Buenos Aires'
 =s = "The capital of Argentina is Buenos Aires"
 =s = f"The capital of Argentina is Buenos Aires"
+~s = X"The capital of Argentina is Buenos Aires"
 =s = '''The capital of Argentina is Buenos Aires'''
 =s = """The capital of Argentina is Buenos Aires""""
 }
