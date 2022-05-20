@@ -1,0 +1,5 @@
+//Python versions: 3.6 3.7 3.8 3.9 3.10
+::Concatenating a string::What is the value of s?
+s = "The capital of Austria is " + "Vienna." {
+=The capital of Austria is Vienna.
+}
