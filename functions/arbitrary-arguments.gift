@@ -1,6 +1,6 @@
 ::Arbitrary Arguments::What is a Arbitrary Argument in Python? {
-=A way pass aruguments in a function if the total ammount of arguments given will be unknown, (*args[0], *args[1]).
+=A way pass arguments in a function if the total amount of arguments given will be unknown, (*args[0], *args[1]).
 ~Arguments listed in a function when called, (myFunction("Bob", "16", "01/01/1111")).
-~Arguments in a function that have to be set equal to a exisiting varuable, (myFunction(name="Bob", age="16", bday="01/01/1111"))
-~Random aruguemnts passed into a function that will be ignored later on.
+~Arguments in a function that have to be set equal to a existing variable, (myFunction(name="Bob", age="16", bday="01/01/1111"))
+~Random arguments passed into a function that will be ignored later on.
 }
