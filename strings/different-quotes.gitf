@@ -1,0 +1,8 @@
+//Python versions: 3.6 3.7 3.8 3.9 3.10
+::Different ways of creating a string::Which of the following will create valid string {
+=s = 'The capital of Argentina is Buenos Aires'
+=s = "The capital of Argentina is Buenos Aires"
+=s = f"The capital of Argentina is Buenos Aires"
+=s = '''The capital of Argentina is Buenos Aires'''
+=s = """The capital of Argentina is Buenos Aires""""
+}
