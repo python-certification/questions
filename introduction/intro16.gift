@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: f1c7e273-1b79-48bd-837b-180e7bf2ffce
+// Python versions: 3.10 3.11
+Is it possible to link a Python program to code written in C?{
+=Yes; the C code can be in a form of a dynamically or a statically linked library.
+~No, it is impossible.
+~Yes, but the C code must be provided in a form of a dynamically linked library.
+~Yes, but C code must be provided in a form of statically linked library.
+}
+

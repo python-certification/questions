@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 71c194f0-cab8-456d-affd-068d1f3a4ef6
+// Python versions: 3.10 3.11
+Which keyword can be used in any place in Python code to tell interpreter “to do nothing” and move to next instruction{
+~skip
+~continue
+~next
+=pass
+}
+

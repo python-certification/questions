@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b9156b02-3a16-4eaf-9c30-e05f8c6a4597
+// Python versions: 3.10 3.11
+What is a correct syntax to output "Hello World" in Python?{
+=print("Hello World")
+~echo("Hello World");
+~echo "Hello World"
+~p("Hello World")
+}
+

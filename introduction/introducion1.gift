@@ -1,0 +1,181 @@
+Which of the following statements is true?{
+~Python 3 is a newer version, but it is backward compatible with Python 2.
+=Python 3 is a newer version, but it is not backward compatible with Python 2.
+~A Python 2 program can always run on a Python 3 interpreter.
+~A Python 3 program can always run on a Python 2 interpreter.
+}
+
+A Python line comment begins with ________.{
+~//
+~/*
+=\#
+~$$
+}
+
+________ is interpreted.{ 
+=Python
+~C++
+~Ada
+~Pascal
+}
+
+How do you insert comments in Python code?{
+=\#This is a comment
+~/*This is a comment*/
+~//This is a comment
+~ //This is a comment\#
+}
+ 
+What is used to define a block of code (body of loop, function etc.) in Python? {
+~Curly braces
+~Parenthesis
+=Indentation
+~Quotation
+}
+ 
+Are there tools available to help find bugs, or perform static analysis?{
+~Yes, PyErrs.
+=Yes, PyChecker and Pylint.
+~No, you must find the bugs on your own.
+~Yes, PyStats.
+}
+
+A Python paragraph comment uses the style ________.{
+~// comments //
+~/* comments */
+=''' comments '''
+~/\# comments \#/
+}
+ 
+What does the expression string1 + string2 do?{
+~Repeats string1 string2 times (string2 must be in numeric format).
+=Concatenates string1 and string2.
+~It's a syntax error.
+~Adds string1 to string2 (both must be in numeric format).
+}
+
+Python was created by ____________.{
+~James Gosling
+~Steve Jobs
+=Guido van Rossum
+~Google
+}
+
+________ is an object-oriented programming language.{
+~Java
+~C++
+~Python
+=All the above
+}
+
+Standard Python implementation can import libraries written in which of the following languages? Select all that apply{
+=C/C++ 
+~Java
+~React
+~C\#
+~Golang
+~Javascript
+}
+
+What does REPL mean in Python?{
+~Robustly Executed Python Language 
+~Read, Execute, Python, Loop
+~Realtime Evaluated Python Language
+=Read, Evaluate, Print, Loop
+}
+ 
+To start Python from the command prompt, use the command ________.{
+~execute python
+~run python
+=python
+~go python
+}
+ 
+What is the correct file extension for Python files?{
+~.pyth
+~.pt
+~.pyt
+=.py
+}
+ 
+Which of the following is correct?{
+~Comments are for programmers for better understanding of the program.
+~Python Interpreter ignores comment.
+~You can write multi-line comments in Python using triple quotes, either ''' or """.
+=All the above
+}
+
+Is it possible to link a Python program to code written in C?{
+=Yes; the C code can be in a form of a dynamically or a statically linked library.
+~No, it is impossible.
+~Yes, but the C code must be provided in a form of a dynamically linked library.
+~Yes, but C code must be provided in a form of statically linked library.
+}
+
+Which of the following is correct?{
+~Python Interpreter ignores comment.
+~Comments are for programmers for better understanding of the program.
+~You can write multi-line comments in Python using triple quotes, either ''' or """.
+=All of the above
+} 
+
+Which of the following statements is true?{
+~Python is an interpreted language.
+~Python is a high level programming language.
+~Python is an object-oriented language.
+=All of the above.
+} 
+
+Is it possible to check for more than one error in one except line?{
+=Yes, if the exception types are enclosed in parentheses.
+~No, it is not possible.
+~Yes, if the exception types are enclosed in square brackets.
+~Yes, if the exception types are enclosed in curly braces.
+}
+
+In Python, a syntax error is detected by the ________ at _________.{
+~compiler/at compile time
+=interpreter/at runtime
+~compiler/at runtime
+~interpreter/at compile time
+}
+
+What is a correct syntax to output "Hello World" in Python?{
+=print("Hello World")
+~echo("Hello World");
+~echo "Hello World"
+~p("Hello World")
+}
+
+Python syntax is case-sensitive.{T}
+ 
+Which of these should you include in order to pass variables to a script?{
+~from sys import getarg 
+~from system import argv
+~from sys import args
+=from sys import argv
+}
+
+Python is compiled language. {F}
+
+A ___________ error does not cause the program to abort, but produces incorrect results.{
+~syntax
+~runtime
+=logical
+} 
+ 
+In Python, 'Hello', is the same as "Hello"{T}
+
+To run python script file named test.py, use the command ________.{
+~execute python test.py
+~run python test.py
+=python test.py 
+~go python test.py
+}
+
+Which keyword can be used in any place in Python code to tell interpreter “to do nothing” and move to next instruction{
+~skip
+~continue
+~next
+=pass
+}

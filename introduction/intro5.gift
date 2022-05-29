@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 36e7c7b4-7fc8-4490-a2b5-137090bca09c
+// Python versions: 3.10 3.11
+
+What is used to define a block of code (body of loop, function etc.) in Python? {
+~Curly braces
+~Parenthesis
+=Indentation
+~Quotation
+}
+

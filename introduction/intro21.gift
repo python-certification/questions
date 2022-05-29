@@ -1,0 +1,19 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 6baa4d20-2c37-4e30-94ac-3a9dd7ea4928
+// Python versions: 3.10 3.11
+Python is compiled language. {F}
+A ___________ error does not cause the program to abort, but produces incorrect results.{
+~syntax
+~runtime
+=logical
+}
+
+In Python, 'Hello', is the same as "Hello"{T}
+To run python script file named test.py, use the command ________.{
+~execute python test.py
+~run python test.py
+=python test.py
+~go python test.py
+}
+

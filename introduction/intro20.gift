@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 56c185b7-043e-4511-a2e8-36e34c764e39
+// Python versions: 3.10 3.11
+Python syntax is case-sensitive.{T}
+
+Which of these should you include in order to pass variables to a script?{
+~from sys import getarg
+~from system import argv
+~from sys import args
+=from sys import argv
+}
+

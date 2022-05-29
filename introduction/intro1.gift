@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 5063a41d-da35-4a2a-a380-eb57dfb0bd24
+// Python versions: 3.10 3.11
+Which of the following statements is true?{
+~Python 3 is a newer version, but it is backward compatible with Python 2.
+=Python 3 is a newer version, but it is not backward compatible with Python 2.
+~A Python 2 program can always run on a Python 3 interpreter.
+~A Python 3 program can always run on a Python 2 interpreter.
+}
+

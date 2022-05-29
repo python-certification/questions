@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 381c2d41-2aea-4571-91db-717a2fbf9cbb
+// Python versions: 3.10 3.11
+In Python, a syntax error is detected by the ________ at _________.{
+~compiler/at compile time
+=interpreter/at runtime
+~compiler/at runtime
+~interpreter/at compile time
+}
+

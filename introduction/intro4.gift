@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: df0af41a-ae81-4da2-8d33-80a64e7a3f0b
+// Python versions: 3.10 3.11
+How do you insert comments in Python code?{
+=\#This is a comment
+~/*This is a comment*/
+~//This is a comment
+~ //This is a comment\#
+}
+

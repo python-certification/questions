@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 6b49b4cf-334a-47a6-b0fd-91405d1277bb
+// Python versions: 3.10 3.11
+
+Which of the following is correct?{
+~Comments are for programmers for better understanding of the program.
+~Python Interpreter ignores comment.
+~You can write multi-line comments in Python using triple quotes, either ''' or """.
+=All the above
+}
+

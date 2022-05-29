@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 178651bf-57a7-494a-9260-b924aad0c9b6
+// Python versions: 3.10 3.11
+A Python paragraph comment uses the style ________.{
+~// comments //
+~/* comments data-structures/ functions/ introduction/ strings/
+=''' comments '''
+~/\# comments \#/
+}
+

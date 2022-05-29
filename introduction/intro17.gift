@@ -1,0 +1,23 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 07a0daff-6d86-4ce9-8d53-0cc3e24d85e7
+// Python versions: 3.10 3.11
+Which of the following is correct?{
+~Python Interpreter ignores comment.
+~Comments are for programmers for better understanding of the program.
+~You can write multi-line comments in Python using triple quotes, either ''' or """.
+=All of the above
+}
+Which of the following statements is true?{
+~Python is an interpreted language.
+~Python is a high level programming language.
+~Python is an object-oriented language.
+=All of the above.
+}
+Is it possible to check for more than one error in one except line?{
+=Yes, if the exception types are enclosed in parentheses.
+~No, it is not possible.
+~Yes, if the exception types are enclosed in square brackets.
+~Yes, if the exception types are enclosed in curly braces.
+}
+

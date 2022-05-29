@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 53bd68bf-8898-4936-b3a2-b2c56976c5ba
+// Python versions: 3.10 3.11
+
+Are there tools available to help find bugs, or perform static analysis?{
+~Yes, PyErrs.
+=Yes, PyChecker and Pylint.
+~No, you must find the bugs on your own.
+~Yes, PyStats.
+}
+

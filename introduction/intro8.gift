@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9be1193d-da2c-48f5-8ca7-52eba9d919f1
+// Python versions: 3.10 3.11
+
+What does the expression string1 + string2 do?{
+~Repeats string1 string2 times (string2 must be in numeric format).
+=Concatenates string1 and string2.
+~It's a syntax error.
+~Adds string1 to string2 (both must be in numeric format).
+}
+
