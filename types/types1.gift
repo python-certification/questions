@@ -1,0 +1,337 @@
+Which of these in not a core data type? {
+~Lists
+~Dictionary
+~Tuples
+=Class
+}
+
+What is the type of inf?{
+~Boolean
+~Integer
+=Float
+~Complex
+} 
+
+Select all immutable basic data types\:{ 
+~Dictionary
+=String
+=Integer
+~Set
+=Float
+~List
+=Tuple
+}
+
+What is the output of the following code?
+print(type(lambda\:None)){
+~<class 'NoneType'>
+~<class 'tuple'>
+~<class 'type'>
+=<class 'function'>
+~<class 'bool'>
+}
+ 
+What does \~5 evaluate to?{
+~-5
+~-7
+=-6
+~-4
+}
+
+What is the return value of trunc()?{
+=int
+~bool
+~float
+~None
+}
+
+What is the output of the following code?
+print(type([2,3])){
+~<class 'tuple'>
+~<class 'int'>
+~<class 'set'>
+~<class 'complex'>
+=<class 'list'>
+}
+ 
+What is the result of round(0.5) - round(-0.5){
+~1.0 
+~2.0
+=0.0
+~None of the mentioned
+}
+
+What error occurs when you execute the following Python code snippet?
+dog \= cat 
+{
+~SyntaxError
+=NameError
+~ValueError
+~TypeError
+}
+
+What gets printed?
+def x()\: pass
+print(type(x()))
+{
+~<class 'function'>
+~<class 'tuple'>
+=<class 'NoneType'>
+~<class 'str'>
+~<class 'type'>
+}
+
+What is the return type of function id?{
+=int
+~float
+~bool
+~dict
+}
+ 
+ What will be the output of the following Python code snippet?
+def example(x)
+x \= x + '2'
+x \= x*2 {
+=indentation Error 
+~cannot perform mathematical operation on strings
+~hello2
+~hello2hello2
+}
+
+In order to execute an operation over arguments of different data types,
+convert all of them to the same type beforehand.{
+~True
+=False
+}
+
+Select all valid basic data types in Python 3
+{
+~Double
+=String
+=Integer
+~Boolean
+=Float
+=Decimal
+~Union
+=Complex number
+} 
+
+What gets printed?
+print(type(2/3))
+{
+~<class 'int'>
+~<class 'number'>
+=<class 'float'>
+~<class 'double'>
+~<class 'tuple'>
+}
+ 
+What data type is the object below?
+P \= [2,22,'pyton,2']
+{
+=list 
+~dictionary
+~array
+~tuple
+}
+
+In order to store values in terms
+ of key and value which core data type is used.
+{
+~list
+~tuple
+~class
+~dictionary
+}
+
+Only immutable data types can be used as keys for dictionaries in Python.
+ True or False?{
+~True
+=False
+ }
+ 
+What gets printed?
+p \= "abb"
+q \= 2
+print(p + q){
+~abb
+~abb abb
+~abb 2
+~2
+=Error
+}
+
+ 
+What should the below code print?
+print(type(2J)){
+=<class 'complex'>
+~<class 'unicode'>
+~<class 'int'>
+~<class 'float'>
+~<class 'dict'>
+ }
+
+What is the output of print 0.2 + 0.3 \=\= 0.5?{
+=True
+~False
+~Error
+ }
+
+Given a function that does not return any value,
+ What value is thrown by default when executed in shell.{
+~int
+~bool
+~void
+=None
+}
+
+Which of the following data types can be used as keys in dictionaries in Python? Select all that apply
+List
+ {
+~Set
+~Integer
+~String
+~Dictionary
+=Any type of value
+}
+ 
+In Python types are directly interpreted by the compiler, so check the following operation to be performed.
+Objective is to make sure a has a integer value, select all that apply (Python 3.xx)
+Objective is to make sure a has a integer value, select all that apply (Python 3.xx){
+~a = 15 // 3
+~a = int(15 / 3)
+~a = 15 % 3
+=All of the mentioned
+}
+ 
+Which of the following is incorrect?
+{
+~float('inf')
+~float('nan')
+~float('56'+'78')
+=float('12+34')
+}
+ 
+Strings in Python should be en-quoted in double quotation marks (“). True or False?{
+~True
+=False
+}
+
+What gets printed
+Captionless Image
+axa{}
+print(type(axa))
+
+{
+~<class 'set'>
+=<class 'dict'>
+~<class 'list'>
+~<class 'tuple'>
+~<class 'object'>
+}
+
+Which of the following can be used as a dictionary key?
+list
+{ 
+~set
+~dictionary
+=tuple
+~None of the above
+}
+ 
+What does 3 ^ 8 evaluate to?
+{
+~81 
+~24
+=11
+~5
+}
+ 
+If x and y are strings, which of the following is equivalent to [x] + [y] ?
+{
+~[x].extend([y])
+=[x,y]
+~[x + y]
+~[x].append(y)
+}
+
+Select all numeric data types in Python
+String
+ {
+=Integer
+~Double
+=Float
+=Complex number
+}
+ 
+Boolean type is a subtype of Integer data type in Python{
+=True
+~False
+ }
+
+What does \~\~\~\~\~\~6 evaluate to?
+{
+=6
+~-5
+~-11
+~11
+}
+ 
+Complex numbers in Python have real and imaginary parts.
+ In Python they are represented as\:
+{
+~One Integer and one floating point number
+=Each is floating point number
+~Each is Integer
+~Both are strings
+}
+ 
+Which of the following is incorrect?
+{
+~a = 0b101
+~a = 0x4f5
+~a = 19023
+=a = 03964
+}
+ 
+Which of the following will run without errors?
+{
+=round(45.8)
+~round(6352.898,2,5)
+~round()
+~round(7463.123,2,1)
+}
+
+List in Python can hold elements of same type only. True or False?
+{
+~True
+=False
+}
+
+ 
+Which of the following results in a SyntaxError?
+{
+~‘”Once upon a time…”, she said.’
+~“He said, ‘Yes!'”
+=‘3\’
+~”’That’s okay”’
+}
+ 
+Which of the following is not a complex number?
+{
+~a = 2 + 3j
+~a = complex(2, 3)
+=a = 2 + 3l
+~a = 2 + 3J
+}
+ 
+What gets printed?
+axx \= (5,6,7)
+print(type(axx))
+{
+~<class 'int'> 
+~<class 'list'>
+=<class 'tuple'>
+~<class 'dict'>
+~<class 'set'>
+}
