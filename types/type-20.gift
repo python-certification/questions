@@ -1,0 +1,14 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 285404cf-3c5c-40b6-bc49-0c5a0cd8528f
+// Python versions: 3.10 3.11
+
+What should the below code print?
+print(type(2J)){
+=&lt;class 'complex'&gt;
+~&lt;class 'unicode'&gt;
+~&lt;class 'int'&gt;
+~&lt;class 'float'&gt;
+~&lt;class 'dict'&gt;
+}
+

@@ -1,0 +1,10 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0a220cac-f73e-44da-af08-9aad3295fc20
+// Python versions: 3.10 3.11
+In order to execute an operation over arguments of different data types,
+convert all of them to the same type beforehand.{
+~True
+=False
+}
+

@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0aacf755-26c0-43e3-b3eb-931b2d8d81db
+// Python versions: 3.10 3.11
+What gets printed
+axa\{\}
+print(type(axa))
+{
+~&lt;class 'set'&gt;
+=&lt;class 'dict'&gt;
+~&lt;class 'list'&gt;
+~&lt;class 'tuple'&gt;
+~&lt;class 'object'&gt;
+}
+

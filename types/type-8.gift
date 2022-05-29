@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 919192db-861b-4fec-882d-a86d81693be7
+// Python versions: 3.10 3.11
+
+What is the result of round(0.5) - round(-0.5){
+~1.0
+~2.0
+=0.0
+~None of the mentioned
+}
+

@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 117c0a0c-fce7-4eea-be98-75eca863627a
+// Python versions: 3.10 3.11
+
+What gets printed?
+axx \= (5,6,7)
+print(type(axx))
+{
+~&lt;class 'int'&gt;
+~&lt;class 'list'&gt;
+=&lt;class 'tuple'&gt;
+~&lt;class 'dict'&gt;
+~&lt;class 'set'&gt;
+}
+

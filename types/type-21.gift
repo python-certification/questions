@@ -1,0 +1,10 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c1c728de-d197-4e9f-bf2d-7d0149f39659
+// Python versions: 3.10 3.11
+What is the output of print 0.2 + 0.3 \=\= 0.5?{
+=True
+~False
+~Error
+}
+

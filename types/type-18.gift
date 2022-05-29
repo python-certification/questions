@@ -1,0 +1,10 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0dc634b6-f6e9-47ce-b3f3-f3b8021a2a8d
+// Python versions: 3.10 3.11
+Only immutable data types can be used as keys for dictionaries in Python.
+True or False?{
+~True
+=False
+}
+

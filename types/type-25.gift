@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 292a7dd0-7a45-429d-9300-2357be75ee4f
+// Python versions: 3.10 3.11
+
+Which of the following is incorrect?
+{
+~float('inf')
+~float('nan')
+~float('56'+'78')
+=float('12+34')
+}
+

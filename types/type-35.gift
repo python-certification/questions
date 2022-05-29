@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 90c7289f-ba08-4dc4-ad6c-afdc70915276
+// Python versions: 3.10 3.11
+
+Which of the following is incorrect?
+{
+~a = 0b101
+~a = 0x4f5
+~a = 19023
+=a = 03964
+}
+

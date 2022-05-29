@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c64d7904-49e3-41bf-baa1-a834745a63bd
+// Python versions: 3.10 3.11
+
+What gets printed?
+p \= "abb"
+q \= 2
+print(p + q){
+~abb
+~abb abb
+~abb 2
+~2
+=Error
+}
+

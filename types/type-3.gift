@@ -1,0 +1,14 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 050bedd0-58bf-48d6-a3d2-81679c3f8b4a
+// Python versions: 3.10 3.11
+Select all immutable basic data types\:{
+~Dictionary
+=String
+=Integer
+~Set
+=Float
+~List
+=Tuple
+}
+

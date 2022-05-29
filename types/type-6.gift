@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 8d510156-fa13-42f1-8967-7109924a9f0a
+// Python versions: 3.10 3.11
+What is the return value of trunc()?{
+=int
+~bool
+~float
+~None
+}
+

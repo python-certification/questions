@@ -1,0 +1,10 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9b657d57-8d14-49a0-a7c5-8167ab810703
+// Python versions: 3.10 3.11
+
+Boolean type is a subtype of Integer data type in Python{
+=True
+~False
+}
+

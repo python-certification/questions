@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1792871a-36b9-4e00-b22c-f19a2b178453
+// Python versions: 3.10 3.11
+Select all valid basic data types in Python 3
+{
+~Double
+=String
+=Integer
+~Boolean
+=Float
+=Decimal
+~Union
+=Complex number
+}
+

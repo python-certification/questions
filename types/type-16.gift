@@ -1,0 +1,14 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 49d7d779-dd15-4926-8c54-32527851d63c
+// Python versions: 3.10 3.11
+
+What data type is the object below?
+P \= [2,22,'pyton,2']
+{
+=list
+~dictionary
+~array
+~tuple
+}
+

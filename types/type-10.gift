@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3c7a89cd-172a-45d9-95f7-3e00dbf6aa38
+// Python versions: 3.10 3.11
+What gets printed?
+def x()\: pass
+print(type(x()))
+{
+~&lt;class 'function'&gt;
+~&lt;class 'tuple'&gt;
+=&lt;class 'NoneType'&gt;
+~&lt;class 'str'&gt;
+~&lt;class 'type'&gt;
+}
+

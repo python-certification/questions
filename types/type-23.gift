@@ -1,0 +1,14 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3d5f9e81-f950-47df-a10f-a4927cb721b4
+// Python versions: 3.10 3.11
+Which of the following data types can be used as keys in dictionaries in Python? Select all that apply
+List
+{
+~Set
+~Integer
+~String
+~Dictionary
+=Any type of value
+}
+

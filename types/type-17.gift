@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 53f93c2a-8f07-4ceb-a1b6-b021b8b37e81
+// Python versions: 3.10 3.11
+In order to store values in terms
+of key and value which core data type is used.
+{
+~list
+~tuple
+~class
+~dictionary
+}
+

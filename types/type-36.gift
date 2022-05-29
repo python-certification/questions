@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d0807b7a-b847-4b6e-86d6-d3f42dc886ee
+// Python versions: 3.10 3.11
+
+Which of the following will run without errors?
+{
+=round(45.8)
+~round(6352.898,2,5)
+~round()
+~round(7463.123,2,1)
+}
+

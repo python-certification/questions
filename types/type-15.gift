@@ -1,0 +1,14 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d99e6b38-a667-4c5a-9172-f31aaed41eac
+// Python versions: 3.10 3.11
+What gets printed?
+print(type(2/3))
+{
+~&lt;class 'int'&gt;
+~&lt;class 'number'&gt;
+=&lt;class 'float'&gt;
+~&lt;class 'double'&gt;
+~&lt;class 'tuple'&gt;
+}
+

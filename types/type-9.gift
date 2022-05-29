@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0810d312-762f-4dbf-a6b3-2e384f95a144
+// Python versions: 3.10 3.11
+What error occurs when you execute the following Python code snippet?
+dog \= cat
+{
+~SyntaxError
+=NameError
+~ValueError
+~TypeError
+}
+

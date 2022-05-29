@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 09f7175f-6bac-4eef-9819-030b4d34106f
+// Python versions: 3.10 3.11
+
+What will be the output of the following Python code snippet?
+def example(x)
+x \= x + '2'
+x \= x*2 {
+=indentation Error
+~cannot perform mathematical operation on strings
+~hello2
+~hello2hello2
+}
+

@@ -1,0 +1,14 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 225dec0c-5ab3-4c4e-8293-2c3debc1b8af
+// Python versions: 3.10 3.11
+
+In Python types are directly interpreted by the compiler, so check the following operation to be performed.
+Objective is to make sure a has a integer value, select all that apply (Python 3.xx)
+Objective is to make sure a has a integer value, select all that apply (Python 3.xx){
+~a = 15 // 3
+~a = int(15 / 3)
+~a = 15 % 3
+=All of the mentioned
+}
+

@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 63e57463-b38d-4881-a9c7-189259e17d2d
+// Python versions: 3.10 3.11
+Which of the following can be used as a dictionary key?
+list
+{
+~set
+~dictionary
+=tuple
+~None of the above
+}
+

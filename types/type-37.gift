@@ -1,0 +1,10 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 6fdde3bb-7946-4bcb-b87c-9f0318bd9e3d
+// Python versions: 3.10 3.11
+List in Python can hold elements of same type only. True or False?
+{
+~True
+=False
+}
+

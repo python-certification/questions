@@ -24,11 +24,11 @@ Select all immutable basic data types\:{
 
 What is the output of the following code?
 print(type(lambda\:None)){
-~<class 'NoneType'>
-~<class 'tuple'>
-~<class 'type'>
-=<class 'function'>
-~<class 'bool'>
+~&lt;class 'NoneType'&gt;
+~&lt;class 'tuple'&gt;
+~&lt;class 'type'&gt;
+=&lt;class 'function'&gt;
+~&lt;class 'bool'&gt;
 }
  
 What does \~5 evaluate to?{
@@ -47,11 +47,11 @@ What is the return value of trunc()?{
 
 What is the output of the following code?
 print(type([2,3])){
-~<class 'tuple'>
-~<class 'int'>
-~<class 'set'>
-~<class 'complex'>
-=<class 'list'>
+~&lt;class 'tuple'&gt;
+~&lt;class 'int'&gt;
+~&lt;class 'set'&gt;
+~&lt;class 'complex'&gt;
+=&lt;class 'list'&gt;
 }
  
 What is the result of round(0.5) - round(-0.5){
@@ -74,11 +74,11 @@ What gets printed?
 def x()\: pass
 print(type(x()))
 {
-~<class 'function'>
-~<class 'tuple'>
-=<class 'NoneType'>
-~<class 'str'>
-~<class 'type'>
+~&lt;class 'function'&gt;
+~&lt;class 'tuple'&gt;
+=&lt;class 'NoneType'&gt;
+~&lt;class 'str'&gt;
+~&lt;class 'type'&gt;
 }
 
 What is the return type of function id?{
@@ -119,11 +119,11 @@ Select all valid basic data types in Python 3
 What gets printed?
 print(type(2/3))
 {
-~<class 'int'>
-~<class 'number'>
-=<class 'float'>
-~<class 'double'>
-~<class 'tuple'>
+~&lt;class 'int'&gt;
+~&lt;class 'number'&gt;
+=&lt;class 'float'&gt;
+~&lt;class 'double'&gt;
+~&lt;class 'tuple'&gt;
 }
  
 What data type is the object below?
@@ -148,7 +148,7 @@ Only immutable data types can be used as keys for dictionaries in Python.
  True or False?{
 ~True
 =False
- }
+}
  
 What gets printed?
 p \= "abb"
@@ -164,18 +164,18 @@ print(p + q){
  
 What should the below code print?
 print(type(2J)){
-=<class 'complex'>
-~<class 'unicode'>
-~<class 'int'>
-~<class 'float'>
-~<class 'dict'>
- }
+=&lt;class 'complex'&gt;
+~&lt;class 'unicode'&gt;
+~&lt;class 'int'&gt;
+~&lt;class 'float'&gt;
+~&lt;class 'dict'&gt;
+}
 
 What is the output of print 0.2 + 0.3 \=\= 0.5?{
 =True
 ~False
 ~Error
- }
+}
 
 Given a function that does not return any value,
  What value is thrown by default when executed in shell.{
@@ -218,16 +218,15 @@ Strings in Python should be en-quoted in double quotation marks (“). True or F
 }
 
 What gets printed
-Captionless Image
-axa{}
+axa\{\}
 print(type(axa))
 
 {
-~<class 'set'>
-=<class 'dict'>
-~<class 'list'>
-~<class 'tuple'>
-~<class 'object'>
+~&lt;class 'set'&gt;
+=&lt;class 'dict'&gt;
+~&lt;class 'list'&gt;
+~&lt;class 'tuple'&gt;
+~&lt;class 'object'&gt;
 }
 
 Which of the following can be used as a dictionary key?
@@ -267,7 +266,7 @@ String
 Boolean type is a subtype of Integer data type in Python{
 =True
 ~False
- }
+}
 
 What does \~\~\~\~\~\~6 evaluate to?
 {
@@ -329,9 +328,9 @@ What gets printed?
 axx \= (5,6,7)
 print(type(axx))
 {
-~<class 'int'> 
-~<class 'list'>
-=<class 'tuple'>
-~<class 'dict'>
-~<class 'set'>
+~&lt;class 'int'&gt; 
+~&lt;class 'list'&gt;
+=&lt;class 'tuple'&gt;
+~&lt;class 'dict'&gt;
+~&lt;class 'set'&gt;
 }

@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1b6561e6-e6cc-466c-a478-25c6164aad17
+// Python versions: 3.10 3.11
+
+Which of the following results in a SyntaxError?
+{
+~‘”Once upon a time…”, she said.’
+~“He said, ‘Yes!'”
+=‘3\’
+~”’That’s okay”’
+}
+

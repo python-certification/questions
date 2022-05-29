@@ -1,0 +1,14 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d17f4af4-16ad-4f15-b51f-3976aa7b9543
+// Python versions: 3.10 3.11
+
+Complex numbers in Python have real and imaginary parts.
+In Python they are represented as\:
+{
+~One Integer and one floating point number
+=Each is floating point number
+~Each is Integer
+~Both are strings
+}
+

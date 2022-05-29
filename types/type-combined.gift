@@ -1,0 +1,516 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9bc18e33-bd3a-48da-99d3-4062a007ce59
+// Python versions: 3.10 3.11
+Which of these in not a core data types {
+~Lists
+~Dictionary
+~Tuples
+=Class
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 8c5acfd2-0c20-454a-b452-b09df5ae5bbb
+// Python versions: 3.10 3.11
+What is the type of inf?{
+~Boolean
+~Integer
+=Float
+~Complex
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 050bedd0-58bf-48d6-a3d2-81679c3f8b4a
+// Python versions: 3.10 3.11
+Select all immutable basic data types\:{
+~Dictionary
+=String
+=Integer
+~Set
+=Float
+~List
+=Tuple
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 6ad31662-cdcf-4037-b0f4-9803598099f3
+// Python versions: 3.10 3.11
+What is the output of the following code?
+print(type(lambda\:None)){
+~&lt;class 'NoneType'&gt;
+~&lt;class 'tuple'&gt;
+~&lt;class 'type'&gt;
+=&lt;class 'function'&gt;
+~&lt;class 'bool'&gt;
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 28de3fc3-5a9a-4731-9261-40010d58dc88
+// Python versions: 3.10 3.11
+
+What does \~5 evaluate to?{
+~-5
+~-7
+=-6
+~-4
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 8d510156-fa13-42f1-8967-7109924a9f0a
+// Python versions: 3.10 3.11
+What is the return value of trunc()?{
+=int
+~bool
+~float
+~None
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b0363c9e-dbb7-4940-bdb0-88f3066a3193
+// Python versions: 3.10 3.11
+What is the output of the following code?
+print(type([2,3])){
+~&lt;class 'tuple'&gt;
+~&lt;class 'int'&gt;
+~&lt;class 'set'&gt;
+~&lt;class 'complex'&gt;
+=&lt;class 'list'&gt;
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 919192db-861b-4fec-882d-a86d81693be7
+// Python versions: 3.10 3.11
+
+What is the result of round(0.5) - round(-0.5){
+~1.0
+~2.0
+=0.0
+~None of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0810d312-762f-4dbf-a6b3-2e384f95a144
+// Python versions: 3.10 3.11
+What error occurs when you execute the following Python code snippet?
+dog \= cat
+{
+~SyntaxError
+=NameError
+~ValueError
+~TypeError
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3c7a89cd-172a-45d9-95f7-3e00dbf6aa38
+// Python versions: 3.10 3.11
+What gets printed?
+def x()\: pass
+print(type(x()))
+{
+~&lt;class 'function'&gt;
+~&lt;class 'tuple'&gt;
+=&lt;class 'NoneType'&gt;
+~&lt;class 'str'&gt;
+~&lt;class 'type'&gt;
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: a75992b4-5597-43eb-9d9f-a3679559f950
+// Python versions: 3.10 3.11
+What is the return type of function id?{
+=int
+~float
+~bool
+~dict
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 09f7175f-6bac-4eef-9819-030b4d34106f
+// Python versions: 3.10 3.11
+
+What will be the output of the following Python code snippet?
+def example(x)
+x \= x + '2'
+x \= x*2 {
+=indentation Error
+~cannot perform mathematical operation on strings
+~hello2
+~hello2hello2
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0a220cac-f73e-44da-af08-9aad3295fc20
+// Python versions: 3.10 3.11
+In order to execute an operation over arguments of different data types,
+convert all of them to the same type beforehand.{
+~True
+=False
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1792871a-36b9-4e00-b22c-f19a2b178453
+// Python versions: 3.10 3.11
+Select all valid basic data types in Python 3
+{
+~Double
+=String
+=Integer
+~Boolean
+=Float
+=Decimal
+~Union
+=Complex number
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d99e6b38-a667-4c5a-9172-f31aaed41eac
+// Python versions: 3.10 3.11
+What gets printed?
+print(type(2/3))
+{
+~&lt;class 'int'&gt;
+~&lt;class 'number'&gt;
+=&lt;class 'float'&gt;
+~&lt;class 'double'&gt;
+~&lt;class 'tuple'&gt;
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 49d7d779-dd15-4926-8c54-32527851d63c
+// Python versions: 3.10 3.11
+
+What data type is the object below?
+P \= [2,22,'pyton,2']
+{
+=list
+~dictionary
+~array
+~tuple
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 53f93c2a-8f07-4ceb-a1b6-b021b8b37e81
+// Python versions: 3.10 3.11
+In order to store values in terms
+of key and value which core data type is used.
+{
+~list
+~tuple
+~class
+~dictionary
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0dc634b6-f6e9-47ce-b3f3-f3b8021a2a8d
+// Python versions: 3.10 3.11
+Only immutable data types can be used as keys for dictionaries in Python.
+True or False?{
+~True
+=False
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c64d7904-49e3-41bf-baa1-a834745a63bd
+// Python versions: 3.10 3.11
+
+What gets printed?
+p \= "abb"
+q \= 2
+print(p + q){
+~abb
+~abb abb
+~abb 2
+~2
+=Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 285404cf-3c5c-40b6-bc49-0c5a0cd8528f
+// Python versions: 3.10 3.11
+
+What should the below code print?
+print(type(2J)){
+=&lt;class 'complex'&gt;
+~&lt;class 'unicode'&gt;
+~&lt;class 'int'&gt;
+~&lt;class 'float'&gt;
+~&lt;class 'dict'&gt;
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c1c728de-d197-4e9f-bf2d-7d0149f39659
+// Python versions: 3.10 3.11
+What is the output of print 0.2 + 0.3 \=\= 0.5?{
+=True
+~False
+~Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 4ad0c4f9-ab80-4780-9203-5e081a7de798
+// Python versions: 3.10 3.11
+Given a function that does not return any value,
+What value is thrown by default when executed in shell.{
+~int
+~bool
+~void
+=None
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3d5f9e81-f950-47df-a10f-a4927cb721b4
+// Python versions: 3.10 3.11
+Which of the following data types can be used as keys in dictionaries in Python? Select all that apply
+List
+{
+~Set
+~Integer
+~String
+~Dictionary
+=Any type of value
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 225dec0c-5ab3-4c4e-8293-2c3debc1b8af
+// Python versions: 3.10 3.11
+
+In Python types are directly interpreted by the compiler, so check the following operation to be performed.
+Objective is to make sure a has a integer value, select all that apply (Python 3.xx)
+Objective is to make sure a has a integer value, select all that apply (Python 3.xx){
+~a = 15 // 3
+~a = int(15 / 3)
+~a = 15 % 3
+=All of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 292a7dd0-7a45-429d-9300-2357be75ee4f
+// Python versions: 3.10 3.11
+
+Which of the following is incorrect?
+{
+~float('inf')
+~float('nan')
+~float('56'+'78')
+=float('12+34')
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 4179403f-9836-4bac-857e-5070a3ab1912
+// Python versions: 3.10 3.11
+
+Strings in Python should be en-quoted in double quotation marks (“). True or False?{
+~True
+=False
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0aacf755-26c0-43e3-b3eb-931b2d8d81db
+// Python versions: 3.10 3.11
+What gets printed
+axa\{\}
+print(type(axa))
+{
+~&lt;class 'set'&gt;
+=&lt;class 'dict'&gt;
+~&lt;class 'list'&gt;
+~&lt;class 'tuple'&gt;
+~&lt;class 'object'&gt;
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 63e57463-b38d-4881-a9c7-189259e17d2d
+// Python versions: 3.10 3.11
+Which of the following can be used as a dictionary key?
+list
+{
+~set
+~dictionary
+=tuple
+~None of the above
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 03ce55b3-7c96-4d55-ae42-f8e6cbde2d3f
+// Python versions: 3.10 3.11
+
+What does 3 ^ 8 evaluate to?
+{
+~81
+~24
+=11
+~5
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d41c2ab2-c573-4d0f-9a21-f48694827c4a
+// Python versions: 3.10 3.11
+
+If x and y are strings, which of the following is equivalent to [x] + [y] ?
+{
+~[x].extend([y])
+=[x,y]
+~[x + y]
+~[x].append(y)
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9301a1cb-5346-4288-a6e2-a73c2f09202c
+// Python versions: 3.10 3.11
+Select all numeric data types in Python
+String
+{
+=Integer
+~Double
+=Float
+=Complex number
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9b657d57-8d14-49a0-a7c5-8167ab810703
+// Python versions: 3.10 3.11
+
+Boolean type is a subtype of Integer data type in Python{
+=True
+~False
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: f0feeacc-d5ba-49f4-b98b-420ccce0f69e
+// Python versions: 3.10 3.11
+What does \~\~\~\~\~\~6 evaluate to?
+{
+=6
+~-5
+~-11
+~11
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d17f4af4-16ad-4f15-b51f-3976aa7b9543
+// Python versions: 3.10 3.11
+
+Complex numbers in Python have real and imaginary parts.
+In Python they are represented as\:
+{
+~One Integer and one floating point number
+=Each is floating point number
+~Each is Integer
+~Both are strings
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 90c7289f-ba08-4dc4-ad6c-afdc70915276
+// Python versions: 3.10 3.11
+
+Which of the following is incorrect?
+{
+~a = 0b101
+~a = 0x4f5
+~a = 19023
+=a = 03964
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d0807b7a-b847-4b6e-86d6-d3f42dc886ee
+// Python versions: 3.10 3.11
+
+Which of the following will run without errors?
+{
+=round(45.8)
+~round(6352.898,2,5)
+~round()
+~round(7463.123,2,1)
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 6fdde3bb-7946-4bcb-b87c-9f0318bd9e3d
+// Python versions: 3.10 3.11
+List in Python can hold elements of same type only. True or False?
+{
+~True
+=False
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1b6561e6-e6cc-466c-a478-25c6164aad17
+// Python versions: 3.10 3.11
+
+Which of the following results in a SyntaxError?
+{
+~‘”Once upon a time…”, she said.’
+~“He said, ‘Yes!'”
+=‘3\’
+~”’That’s okay”’
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 012924a6-a64f-4769-92bd-5dfcebd8e97a
+// Python versions: 3.10 3.11
+
+Which of the following is not a complex number?
+{
+~a = 2 + 3j
+~a = complex(2, 3)
+=a = 2 + 3l
+~a = 2 + 3J
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 117c0a0c-fce7-4eea-be98-75eca863627a
+// Python versions: 3.10 3.11
+
+What gets printed?
+axx \= (5,6,7)
+print(type(axx))
+{
+~&lt;class 'int'&gt;
+~&lt;class 'list'&gt;
+=&lt;class 'tuple'&gt;
+~&lt;class 'dict'&gt;
+~&lt;class 'set'&gt;
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: f6301c9a-b6dd-4c16-a539-f378fe01f17d
+// Python versions: 3.10 3.11

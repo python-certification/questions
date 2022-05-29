@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 012924a6-a64f-4769-92bd-5dfcebd8e97a
+// Python versions: 3.10 3.11
+
+Which of the following is not a complex number?
+{
+~a = 2 + 3j
+~a = complex(2, 3)
+=a = 2 + 3l
+~a = 2 + 3J
+}
+

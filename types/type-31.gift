@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9301a1cb-5346-4288-a6e2-a73c2f09202c
+// Python versions: 3.10 3.11
+Select all numeric data types in Python
+String
+{
+=Integer
+~Double
+=Float
+=Complex number
+}
+

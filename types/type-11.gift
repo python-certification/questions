@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: a75992b4-5597-43eb-9d9f-a3679559f950
+// Python versions: 3.10 3.11
+What is the return type of function id?{
+=int
+~float
+~bool
+~dict
+}
+

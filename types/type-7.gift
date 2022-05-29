@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b0363c9e-dbb7-4940-bdb0-88f3066a3193
+// Python versions: 3.10 3.11
+What is the output of the following code?
+print(type([2,3])){
+~&lt;class 'tuple'&gt;
+~&lt;class 'int'&gt;
+~&lt;class 'set'&gt;
+~&lt;class 'complex'&gt;
+=&lt;class 'list'&gt;
+}
+

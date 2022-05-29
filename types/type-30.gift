@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d41c2ab2-c573-4d0f-9a21-f48694827c4a
+// Python versions: 3.10 3.11
+
+If x and y are strings, which of the following is equivalent to [x] + [y] ?
+{
+~[x].extend([y])
+=[x,y]
+~[x + y]
+~[x].append(y)
+}
+

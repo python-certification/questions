@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 6ad31662-cdcf-4037-b0f4-9803598099f3
+// Python versions: 3.10 3.11
+What is the output of the following code?
+print(type(lambda\:None)){
+~&lt;class 'NoneType'&gt;
+~&lt;class 'tuple'&gt;
+~&lt;class 'type'&gt;
+=&lt;class 'function'&gt;
+~&lt;class 'bool'&gt;
+}
+

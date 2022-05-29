@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 4ad0c4f9-ab80-4780-9203-5e081a7de798
+// Python versions: 3.10 3.11
+Given a function that does not return any value,
+What value is thrown by default when executed in shell.{
+~int
+~bool
+~void
+=None
+}
+
