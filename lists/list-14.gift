@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ac5cce45-75d8-4a15-a7cc-5ec885122db7
+// Python versions: 3.10 3.11
+What is list("pqrs")?{
+=['p', 'q', 'r', 's'] 
+~['pq']
+~['rs']
+~['pqrs']
+}
+

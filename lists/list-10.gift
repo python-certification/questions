@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: f1d7ad14-54d7-47e0-99ff-06d600b58ac1
+// Python versions: 3.10 3.11
+ Let list1 \= [3, 4, 5, 20, 5, 25, 1, 3], what is list1 after list1.sort()?{
+~[3, 4, 5, 20, 5, 25, 1, 3]
+=[1, 3, 3, 4, 5, 5, 20, 25]
+~[25, 20, 5, 5, 4, 3, 3, 1]
+~[1, 3, 4, 5, 20, 5, 25, 3]
+}
+

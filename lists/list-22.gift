@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: f41000a5-8590-4585-bf06-32933015c418
+// Python versions: 3.10 3.11
+ 
+"Welcome to Python".split() is ________{
+=["Welcome", "to", "Python"]
+~("Welcome", "to", "Python")
+~\{"Welcome", "to", "Python"\}
+~"Welcome", "to", "Python"
+}
+

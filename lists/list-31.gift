@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7f6d7e60-c269-4994-9382-4e52c9433253
+// Python versions: 3.10 3.11
+ 
+Let list1 \= [3, 2, 5, 10, 5, 24, 1, 3], what is min(list1)?{
+~5
+~4
+~8
+~25
+=1
+}
+

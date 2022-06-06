@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2031fb78-8995-461f-b1f9-542650caf457
+// Python versions: 3.10 3.11
+Let list1 \= [0, 3, 2], what is sum(list1)?{
+=5
+~4
+~6
+~2
+~1
+}
+

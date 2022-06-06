@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 799bf7c6-8992-47a8-989d-a25e86b25563
+// Python versions: 3.10 3.11
+ 
+What is the output when we execute list(“hello”)?{
+=[‘h’, ‘e’, ‘l’, ‘l’, ‘o’]
+~[‘hello’]
+~[‘llo’]
+~[‘olleh’]
+}
+

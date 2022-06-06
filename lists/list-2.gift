@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 81a278e8-363b-4373-919a-4e9ef2ee99e4
+// Python versions: 3.10 3.11
+Let list1 \=  [3, 4, 5, 18, 5, 22, 1, 2], what is len(list1)?{
+~6
+~7
+=8
+~5
+`4
+}
+

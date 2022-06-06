@@ -1,0 +1,9 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: cd70ec57-27eb-45d4-b101-efd1fc30be1b
+// Python versions: 3.10 3.11
+list1 \= [11, 2, 23] and list2 \= [11, 2, 2], list1 < list2 is ________{
+~True
+=False
+}
+

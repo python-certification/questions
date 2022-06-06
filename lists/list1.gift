@@ -45,12 +45,12 @@ What is the output when we execute list(“hello”)?{
 }
 
  __________ creates a list.{
-=list1 = list()
-~list1 = []
-~list1 = list([12, 4, 4])
-~list1 = [12, 4, 4]
-~list1 = [1, "3", "red"]
-} 
+=list1 \= list()
+~list1 \= []
+~list1 \= list([12, 4, 4])
+~list1 \= [12, 4, 4]
+~list1 \= [1, "3", "red"]
+}
 
 Let list1 \= [3, 4, 5, 20, 5, 25, 1, 3], what is list1.index(5)?{
 ~0
@@ -64,7 +64,7 @@ What is list("a\#b\#c\#d".split('\#'))?{
 ~['a b c d']
 ~['a\#b\#c\#d']
 ~['abcd']
- }
+}
 
  Let list1 \= [3, 4, 5, 20, 5, 25, 1, 3], what is list1 after list1.sort()?{
 ~[3, 4, 5, 20, 5, 25, 1, 3]
@@ -85,7 +85,7 @@ To insert 5 to the third position in list1, use _______.{
 ~list1.insert(2, 5)
 ~list1.add(3, 5)
 ~list1.append(3, 5)
- }
+}
 
 Let list1 \= [1, 3, 2, 4, 5, 2, 1, 0], Which of the following is correct?{
 =print(list1[0])
@@ -174,7 +174,7 @@ Let list1 \= [2, 3, 4], What is list1 * 2?{
 ~("Welcome", "to", "Python")
 ~\{"Welcome", "to", "Python"\}
 ~"Welcome", "to", "Python"
- }
+}
 
 To add 5 to the end of list1, use _______.{
 ~list1.add(5) 
@@ -214,7 +214,7 @@ Let list1 \= [3, 4, 5, 20, 5, 25, 1, 3], what is list1 after list1.extend([34, 5
 ~[25, 20, 5, 5, 4, 3, 3, 1, 34, 5]
 ~[1, 3, 4, 5, 20, 5, 25, 3, 34, 5]
 ~[3, 1, 25, 5, 20, 5, 4, 3, 34, 5]
- }
+}
 
 Let list1 \= [0, 3, 2], what is sum(list1)?{
 =5

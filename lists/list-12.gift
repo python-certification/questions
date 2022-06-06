@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: f7739741-2a48-4a62-a1cb-dec3fef81734
+// Python versions: 3.10 3.11
+ 
+To insert 5 to the third position in list1, use _______.{
+=list1.insert(3, 5)
+~list1.insert(2, 5)
+~list1.add(3, 5)
+~list1.append(3, 5)
+}
+

@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b1a0bfa6-eef4-4f73-92fc-c2257a57ce33
+// Python versions: 3.10 3.11
+ 
+Let list1 \= [0.5 * a for a in range(0, 4)], list1 is ________{
+~[0, 1, 2, 3]
+~[0, 1, 2, 3, 4]
+=[0.0, 0.5, 1.0, 1.5]
+~[0.0, 0.5, 1.0, 1.5, 2.0]
+}
+

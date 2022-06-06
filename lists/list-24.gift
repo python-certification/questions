@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9387cafa-afb7-4215-89da-9ad779a6dc30
+// Python versions: 3.10 3.11
+ 
+To remove string "red" from list1, use _______.{
+=list1.remove("red")
+~list1.remove(red)
+~list1.removeAll("red")
+~list1.removeOne("red")
+}
+

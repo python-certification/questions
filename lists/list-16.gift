@@ -1,0 +1,18 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: edf2e62f-ea5a-40c0-af23-74415783b642
+// Python versions: 3.10 3.11
+What Will be The output Of the following code snippet?
+def x(value, values)
+    v \= 1
+    values[0] \= 33
+y \= 3
+v [1,2,3]
+x(y, v)
+print(y,v[0]){ 
+~1 1 
+~1 33
+~3 1
+=3 33
+}
+

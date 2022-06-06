@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 64385d44-9ead-410e-aeeb-fa065d4969f4
+// Python versions: 3.10 3.11
+ 
+To shuffle list1, use _______.{
+~list1.shuffle()
+~shuffle(list1)
+=random.shuffle(list1)
+~random.shuffleList(list1)
+}
+

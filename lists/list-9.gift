@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b39198b2-1587-4eb2-8c35-8a46e5df84fc
+// Python versions: 3.10 3.11
+ 
+What is list("a\#b\#c\#d".split('\#'))?{
+=['a', 'b', 'c', 'd']
+~['a b c d']
+~['a\#b\#c\#d']
+~['abcd']
+}
+

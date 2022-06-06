@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: f65eaf24-9b35-4959-be9c-20e40722838b
+// Python versions: 3.10 3.11
+ 
+Let list1 \= [1, 3, 2, 4, 5, 2, 1, 0], What is list1[\:-1]?{
+~0
+=[1, 3, 2, 4, 5, 2, 1]
+~[1, 3, 2, 4, 5, 2]
+~[1, 3, 2, 4, 5, 2, 1, 0]
+}
+

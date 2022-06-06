@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3a3d64f5-a838-47ab-a226-be338273f767
+// Python versions: 3.10 3.11
+To add 5 to the end of list1, use _______.{
+~list1.add(5) 
+=list1.append(5)
+~list1.addLast(5)
+~list1.addEnd(5)
+}
+

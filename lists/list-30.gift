@@ -1,0 +1,18 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ec8b2e6f-306e-4b80-9e50-3f10d88626ff
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following code snippet?
+def x(i, values \= [])
+    values.append(i)
+    return values
+x(2)
+x(3)
+y \= x(4){
+~[2] [3] [4]
+~1 2 3
+=[2, 3, 4]
+~[2] [2, 3] [2, 3, 4]
+}
+
