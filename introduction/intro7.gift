@@ -4,7 +4,7 @@
 // Python versions: 3.10 3.11
 A Python paragraph comment uses the style ________.{
 ~// comments //
-~/* comments data-structures/ functions/ introduction/ strings/
+~/* comments */
 =''' comments '''
 ~/\# comments \#/
 }
