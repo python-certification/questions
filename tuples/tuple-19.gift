@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3338e1d9-0a6a-4827-aede-66d77d1bde2b
+// Python versions: 3.10 3.11
+ 
+Suppose p \= (1, 2, 4, 3), which of the following Python code is incorrect?{
+~print(p[3])
+=p[3] \= 45
+~print(max(p))
+~print(len(p))
+}
+

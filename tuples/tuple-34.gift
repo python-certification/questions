@@ -1,0 +1,14 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 93990965-d903-4d55-8310-9ce55863ead2
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+p \= (2,3)
+2 * p{
+=(2, 3, 2, 3)
+~[2, 3, 2, 3]
+~(2, 2, 3, 3)
+~[2, 2, 3, 3]
+}
+

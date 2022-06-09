@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ae1747a4-bcf6-4c2e-b182-9cdf82bf915c
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+import collections
+x \= collections.namedtuple('x',['i','j'])
+obj \= x(i\=2,j\=5)
+obj{
+=x(i\=2, j\=5) 
+~obj(i\=2, j\=5)
+~(2,5)
+~An exception is thrown
+}
+

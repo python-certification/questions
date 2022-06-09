@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 68dff351-fb8d-4e31-a139-16a3d6e5b1cb
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+my_tuple \= (2,3,4,5)
+my_tuple.append( (6,7,8) )
+print len(my_tuple){
+~1
+~2
+~5
+=Error
+}
+

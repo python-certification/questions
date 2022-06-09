@@ -1,0 +1,14 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: eb8b81a6-6431-4feb-986c-26cc0174abaf
+// Python versions: 3.10 3.11
+ 
+Is the following Python code valid?
+x \= 1,2,3,4
+x{
+~Yes, 1 is printed
+~Yes, [1,2,3,4] is printed
+~No, too many values to unpack
+=Yes, (1,2,3,4) is printed
+}
+

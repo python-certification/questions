@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: dbdc0907-b856-4a52-87a4-155ba2e36cfc
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+x\=(3,4,2,6)
+x.sort()
+x{
+~(2,3,4,6)
+~(3,4,2,6)
+~None
+=Error, tuple has no attribute sort
+}
+

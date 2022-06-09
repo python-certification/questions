@@ -1,0 +1,552 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 5014a3ff-8535-4348-8268-a84877e29555
+// Python versions: 3.10 3.11
+Is the following Python code valid?
+x \= (0, 1, 2)
+y \= ('X', 'Y', 'Z')
+z \= zip(x, y)
+print(z) {
+=Yes, z will be ((0, 1, 2),('X','Y','Z'))
+~Yes, z will be ((1,2,3),('X','Y','Z'))
+~No because tuples are immutable
+~No because the syntax for zip function isn't valid
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2fd647eb-27de-43e3-9076-bee485202c96
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+color \= ("Red", "Green", "Blue")
+color[0] \= "yellow"
+print(color){
+~("Yellow", "Green", "Blue")
+='tuple' object does not support item assignment
+~("Red", "Green", "Blue")
+~None
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b226baae-6557-4549-912b-c1efc9941d2a
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+x\=(1,2,3)
+sum(x,3) {
+~Too many arguments for sum() method
+~The method sum() doesn't exist for tuples
+~12
+=9
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1c4fc52d-eb9d-44e2-baed-a9eff35735c3
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+print(any((False,False,False))) {
+~(False, False, False)
+=False
+~True
+~None
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: dbdc0907-b856-4a52-87a4-155ba2e36cfc
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+x\=(3,4,2,6)
+x.sort()
+x{
+~(2,3,4,6)
+~(3,4,2,6)
+~None
+=Error, tuple has no attribute sort
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1314bff2-f9f0-4c26-a7c8-9e107cd72114
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+x\=(2,3,(5,6))
+y\=(2,3,(4,5))
+(x < y){
+=False
+~True
+~Error, < operator is not valid for tuples
+~Error, < operator is valid for tuples but not if there are sub-tuples
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 137944b4-c629-46ea-88b4-f949de7363a4
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+alpha \= ("a", "g", "f")
+print(alpha[-1]){
+~g
+~a
+=f
+~None
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ecff7a7f-1dd0-4cbc-ac0f-0e88104a4661
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+d \= \{"jimmy"\:45,"jack"\:40\}
+d["jimmy"]{
+~40
+=45
+~“jimmy”
+~“jack”
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: eb8b81a6-6431-4feb-986c-26cc0174abaf
+// Python versions: 3.10 3.11
+ 
+Is the following Python code valid?
+x \= 1,2,3,4
+x{
+~Yes, 1 is printed
+~Yes, [1,2,3,4] is printed
+~No, too many values to unpack
+=Yes, (1,2,3,4) is printed
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 4dcbeca2-7acf-47fb-b638-a6634fbf14cb
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+x\=(0,2,3,4,5)
+y\=slice(0,2)
+x[y]{
+~Invalid syntax for slicing
+~[0,2]
+~(0, 1)
+=(0, 2)
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2d609f5d-7ce7-477c-8fad-60defa742925
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+p\=(2,3,5,4)
+p[1\:4]{
+~(1, 2, 4)
+~(2, 4, 3)
+=(3, 5, 4)
+~(1, 2)
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ae1747a4-bcf6-4c2e-b182-9cdf82bf915c
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+import collections
+x \= collections.namedtuple('x',['i','j'])
+obj \= x(i\=2,j\=5)
+obj{
+=x(i\=2, j\=5) 
+~obj(i\=2, j\=5)
+~(2,5)
+~An exception is thrown
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b2c90a16-bf67-4574-aeb2-c23e7c0c3752
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+x\=(5,6,7,8)
+del(x[2]){
+~Now, a\=(1,2,4)
+~Now, a\=(1,3,4)
+~Now a\=(3,4)
+=Error as tuple is immutable
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2da69d55-8965-4a73-9fa6-49ba547fefff
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+x1 \= ("apple",)
+x2 \= ("mango",)
+x3 \= x1 + x2
+print(x3) {
+~(apple, mango)
+=('apple', 'mango')
+~('apple''mango')
+~None
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c8c66c85-412a-4108-b4ac-0848b079fba0
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+alpha \= ("a","g","f")
+print(alpha[1]){
+~f
+=g
+~a
+~None
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 6a4a73b5-b6b6-4b7f-99bb-c1fbe037c943
+// Python versions: 3.10 3.11
+ 
+What type of data is\: x\=[(1,1),(2,4),(3,9)]?{
+~Array of tuples
+=List of tuples
+~Tuples of lists
+~Invalid type
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c0d4f3c8-3faa-4831-a535-44d0a7e974f6
+// Python versions: 3.10 3.11
+Is the following Python code valid?
+x\=(1,2,3,4)
+del x{
+~No because tuple is immutable
+~Yes, first element in the tuple is deleted
+=Yes, the entire tuple is deleted
+~No, invalid syntax for del method
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 41a3641a-fdf5-4eff-8100-d291c2ccc6f3
+// Python versions: 3.10 3.11
+Which of the following is a Python tuple?{
+~[1, 2, 3]
+=(1, 2, 3)
+~\{1, 2, 3\}
+~&lt;1, 2, 3&gt;
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3338e1d9-0a6a-4827-aede-66d77d1bde2b
+// Python versions: 3.10 3.11
+ 
+Suppose p \= (1, 2, 4, 3), which of the following Python code is incorrect?{
+~print(p[3])
+=p[3] \= 45
+~print(max(p))
+~print(len(p))
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2a5ac04d-f8c5-441f-bc83-08d2e94f14ea
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+subject \= ("English", "Science", "Bengali", "History")
+for word in subject\:
+printf(f"I like to read \{word\}") {
+=I like to read English
+I like to read Science
+I like to read Bengali
+I like to read History
+~I like to read Bengali
+I like to read English
+I like to read History
+I like to read Science
+~I like to read All
+~None of these above
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 5137127b-f51a-4ace-98a6-21342fee5e82
+// Python versions: 3.10 3.11
+If x\=(1,2,3,4), x[1\:-1] is _________{
+~Error, tuple slicing doesn't exist
+~[2,3]
+~(2,3,4)
+=(2,3)
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 68dff351-fb8d-4e31-a139-16a3d6e5b1cb
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+my_tuple \= (2,3,4,5)
+my_tuple.append( (6,7,8) )
+print len(my_tuple){
+~1
+~2
+~5
+=Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: cea02d81-8f82-40b0-b83c-3d606f975252
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+print(any((False,True,False))){
+=True
+~(False, True, False)
+~False
+~None
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 48c74f31-c856-41a2-b22b-8013ac565f66
+// Python versions: 3.10 3.11
+ 
+Tuples can't be made keys of a dictionary. {FALSE}
+ 
+What will be the output of the following Python code?
+print(min((45,5,75)))
+{
+~(min - 5)
+=5
+~Error
+~None of these above
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 5ee3b17f-694e-4dd4-bf6f-94673e0931d4
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+print(max((45,5,75))){
+~(max - 75)
+=75
+~Error
+~None of these above
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 253078a4-5447-4f04-8941-4210324d4c23
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+numberGames \= \{\}
+numberGames[(2,4,6)] \= 14
+numberGames[(6,4,2)] \= 16
+numberGames[(2,4)] \= 18
+sum \= 0
+for x in numberGames\:
+&nbsp;&nbsp;&nbsp;&nbsp;sum +\=  numberGames[x]
+print(len(numberGames)+sum)
+{
+~30
+~24
+=51
+~12
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7541c4b3-aecb-4e39-ad8e-875fe2b79bbe
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+x\=("Check")*3{
+~('Check','Check','Check')
+ ~* Operator not valid for tuples
+=('CheckCheckCheck')
+~Syntax error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7006bbad-3635-47e2-b318-44497fde2c90
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+x \= [(3,4),(2,3),(4,9)]
+{
+=[(2, 3), (3, 4), (4, 9)] 
+~[(2,3),(3,2),(4,9)]
+~Error because tuples are immutable
+~Error, tuple has no sort attribute
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 5c168c25-b9d3-439e-9810-773963bf2fca
+// Python versions: 3.10 3.11
+What is the data type of (1)?{
+~Tuple
+=Integer
+~List
+~Both tuple and integer
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 34f72972-830e-4fce-9bfa-9831046ee248
+// Python versions: 3.10 3.11
+ 
+Is the following Python code valid?
+x \= (2,3,4)
+y \= x.update(4,){
+~Yes, x\=(1,2,3,4) and y\=(1,2,3,4)
+~Yes, a\=(2,3,4) and b\=(1,2,3,4)
+=No because tuples are immutable
+~No because wrong syntax for update() method
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 98e244e6-97be-4845-a853-62519db8cf61
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+x \= ("Python","Tutorial")
+print("Web" in x) {
+~True
+=False
+~Error
+~None
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 20e0fa0c-1baf-4ed0-a843-279f7947cb22
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+x \= ('check',)
+n \= 2
+for i in range(int(n))\
+&nbsp;&nbsp;&nbsp;&nbsp;x \= (x,)
+&nbsp;&nbsp;&nbsp;&nbsp;print(x){
+~Error, tuples are immutable
+=(('check',),)
+((('check',),),)
+~(('check',)'check',)
+~(('check',)'check',)
+((('check',)'check',)'check',)
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2fb6dad5-da3e-49c5-b225-5e67e5e7261a
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+p1 \= (2,3,5,4)
+p2 \= (2,3,4,5)
+p1 < p2{
+~True
+=False
+~Error
+~None
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 93990965-d903-4d55-8310-9ce55863ead2
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+p \= (2,3)
+2 * p{
+=(2, 3, 2, 3)
+~[2, 3, 2, 3]
+~(2, 2, 3, 3)
+~[2, 2, 3, 3]
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 72f0e017-8685-4a60-8c45-99bf489f06cb
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+x \= (2,3)
+y \= (4,5)
+z \= x+y
+z {
+~(4,5) 
+=(2, 3, 4, 5)
+~Error as tuples are immutable
+~None
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: a5597dde-fb16-44f3-ba00-5525e1dc342c
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+x,y \= 6,8
+x,y \= y,x
+x,y{
+~(6,8) 
+~Invalid syntax
+=(8,6)
+~Nothing is printed
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d099311d-0ff2-4596-8cc0-9ce38756378e
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+fruit \= ("apple", "orange", "apple", "cherry", "apple")
+print(fruit.count("apple")){
+~5
+~2
+=3
+~None
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: da2a3fe5-c871-4797-8b5e-c0b6bb8716fa
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+p \= (2,3,4,5)
+p[1\:-1]{
+~(1, 2)
+~(1, 2, 4)
+=(3, 4)
+~(2, 4, 3)
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b93004ec-c850-48da-aeb6-6cc68fd78795
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+p \= (2,3,5,4,8,9)
+[p[y] for y in range(0, len(p),2)]{
+~[2, 3, 9] 
+~[2, 3, 5, 4, 8, 9]
+~(2, 4, 8)
+=[2, 5, 8]
+}

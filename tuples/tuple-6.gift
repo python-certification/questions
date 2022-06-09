@@ -1,0 +1,14 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1314bff2-f9f0-4c26-a7c8-9e107cd72114
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+x\=(2,3,(5,6))
+y\=(2,3,(4,5))
+(x < y){
+=False
+~True
+~Error, < operator is not valid for tuples
+~Error, < operator is valid for tuples but not if there are sub-tuples
+}
+

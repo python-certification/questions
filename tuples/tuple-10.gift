@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 4dcbeca2-7acf-47fb-b638-a6634fbf14cb
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+x\=(0,2,3,4,5)
+y\=slice(0,2)
+x[y]{
+~Invalid syntax for slicing
+~[0,2]
+~(0, 1)
+=(0, 2)
+}
+

@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 48c74f31-c856-41a2-b22b-8013ac565f66
+// Python versions: 3.10 3.11
+ 
+Tuples can't be made keys of a dictionary. {FALSE}
+ 
+What will be the output of the following Python code?
+print(min((45,5,75)))
+{
+~(min - 5)
+=5
+~Error
+~None of these above
+}
+

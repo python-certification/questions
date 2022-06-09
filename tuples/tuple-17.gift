@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c0d4f3c8-3faa-4831-a535-44d0a7e974f6
+// Python versions: 3.10 3.11
+Is the following Python code valid?
+x\=(1,2,3,4)
+del x{
+~No because tuple is immutable
+~Yes, first element in the tuple is deleted
+=Yes, the entire tuple is deleted
+~No, invalid syntax for del method
+}
+

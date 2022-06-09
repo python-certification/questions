@@ -1,0 +1,14 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: da2a3fe5-c871-4797-8b5e-c0b6bb8716fa
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+p \= (2,3,4,5)
+p[1\:-1]{
+~(1, 2)
+~(1, 2, 4)
+=(3, 4)
+~(2, 4, 3)
+}
+

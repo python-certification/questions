@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 6a4a73b5-b6b6-4b7f-99bb-c1fbe037c943
+// Python versions: 3.10 3.11
+ 
+What type of data is\: x\=[(1,1),(2,4),(3,9)]?{
+~Array of tuples
+=List of tuples
+~Tuples of lists
+~Invalid type
+}
+

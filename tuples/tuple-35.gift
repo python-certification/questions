@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 72f0e017-8685-4a60-8c45-99bf489f06cb
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+x \= (2,3)
+y \= (4,5)
+z \= x+y
+z {
+~(4,5) 
+=(2, 3, 4, 5)
+~Error as tuples are immutable
+~None
+}
+

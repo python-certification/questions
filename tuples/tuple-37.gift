@@ -1,0 +1,14 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d099311d-0ff2-4596-8cc0-9ce38756378e
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+fruit \= ("apple", "orange", "apple", "cherry", "apple")
+print(fruit.count("apple")){
+~5
+~2
+=3
+~None
+}
+

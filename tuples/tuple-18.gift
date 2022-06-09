@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 41a3641a-fdf5-4eff-8100-d291c2ccc6f3
+// Python versions: 3.10 3.11
+Which of the following is a Python tuple?{
+~[1, 2, 3]
+=(1, 2, 3)
+~\{1, 2, 3\}
+~&lt;1, 2, 3&gt;
+}
+

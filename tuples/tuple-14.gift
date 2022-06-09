@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2da69d55-8965-4a73-9fa6-49ba547fefff
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+x1 \= ("apple",)
+x2 \= ("mango",)
+x3 \= x1 + x2
+print(x3) {
+~(apple, mango)
+=('apple', 'mango')
+~('apple''mango')
+~None
+}
+

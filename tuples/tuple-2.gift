@@ -1,0 +1,14 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2fd647eb-27de-43e3-9076-bee485202c96
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+color \= ("Red", "Green", "Blue")
+color[0] \= "yellow"
+print(color){
+~("Yellow", "Green", "Blue")
+='tuple' object does not support item assignment
+~("Red", "Green", "Blue")
+~None
+}
+

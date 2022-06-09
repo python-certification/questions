@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 5137127b-f51a-4ace-98a6-21342fee5e82
+// Python versions: 3.10 3.11
+If x\=(1,2,3,4), x[1\:-1] is _________{
+~Error, tuple slicing doesn't exist
+~[2,3]
+~(2,3,4)
+=(2,3)
+}
+

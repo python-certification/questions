@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 5014a3ff-8535-4348-8268-a84877e29555
+// Python versions: 3.10 3.11
+Is the following Python code valid?
+x \= (0, 1, 2)
+y \= ('X', 'Y', 'Z')
+z \= zip(x, y)
+print(z) {
+=Yes, z will be ((0, 1, 2),('X','Y','Z'))
+~Yes, z will be ((1,2,3),('X','Y','Z'))
+~No because tuples are immutable
+~No because the syntax for zip function isn't valid
+}
+

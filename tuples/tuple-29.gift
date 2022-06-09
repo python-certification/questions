@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 5c168c25-b9d3-439e-9810-773963bf2fca
+// Python versions: 3.10 3.11
+What is the data type of (1)?{
+~Tuple
+=Integer
+~List
+~Both tuple and integer
+}
+

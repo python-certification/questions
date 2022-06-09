@@ -1,0 +1,21 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2a5ac04d-f8c5-441f-bc83-08d2e94f14ea
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+subject \= ("English", "Science", "Bengali", "History")
+for word in subject\:
+printf(f"I like to read \{word\}") {
+=I like to read English
+I like to read Science
+I like to read Bengali
+I like to read History
+~I like to read Bengali
+I like to read English
+I like to read History
+I like to read Science
+~I like to read All
+~None of these above
+}
+

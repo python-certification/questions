@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: cea02d81-8f82-40b0-b83c-3d606f975252
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+print(any((False,True,False))){
+=True
+~(False, True, False)
+~False
+~None
+}
+

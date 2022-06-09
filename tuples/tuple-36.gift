@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: a5597dde-fb16-44f3-ba00-5525e1dc342c
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+x,y \= 6,8
+x,y \= y,x
+x,y{
+~(6,8) 
+~Invalid syntax
+=(8,6)
+~Nothing is printed
+}
+

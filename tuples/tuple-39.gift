@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b93004ec-c850-48da-aeb6-6cc68fd78795
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+p \= (2,3,5,4,8,9)
+[p[y] for y in range(0, len(p),2)]{
+~[2, 3, 9] 
+~[2, 3, 5, 4, 8, 9]
+~(2, 4, 8)
+=[2, 5, 8]
+}

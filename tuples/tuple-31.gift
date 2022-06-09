@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 98e244e6-97be-4845-a853-62519db8cf61
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+x \= ("Python","Tutorial")
+print("Web" in x) {
+~True
+=False
+~Error
+~None
+}
+
