@@ -1,0 +1,77 @@
+// Origin: Gabor Guta
+// License: https://creativecommons.org/licenses/by-nc/4.0
+// Python versions: 3.10 3.11
+What is a function decorator?{
+~A special runtime processed comment
+=A reference to a function, which can modify the behavior of the original function
+~No such concept in Python
+}
+
+What can be the "x" in "for i in x" statement (select the most specific definition)?{
+=An expression returning an iterable object
+~A generator function
+~A range() expression or a sequence data structure 
+}
+
+What can be the maximal value of the int type?{
+~2,147,483,647 (maximum signed 32 bit value)
+~9,223,372,036,854,775,807 (maximum signed 64 bit value)
+=arbitrary large (which fits into the memory)
+}
+What is the superclass of class A?
+\n```\nclass A:\n  pass\n```
+{
+~nothing
+~None
+=object
+}
+
+What is printed by the code below?
+\n```i=5\ndef a():\n  print(i)\n  i=10\na()\nprint(i)\n```
+{
+~5, then 5
+~5, then 10
+=error message
+}
+
+What has to be written to the dotted line to make the code print 2?
+\n```a=1\ndef s():\n  ...\n  a=2\ns()\nprint(a)\n```
+{
+="global a"
+~"nonlocal a"
+~leave empty
+~both "global a" and "nonlocal a" are correct
+}
+
+Which type cannot be a key in a dictionary data structure?
+{
+~int
+~b) str
+~c) tuple
+=d) set
+}
+
+What will be printed by the code below?
+\n```a=2\nb="10"\nprint(a+b)\n```
+{
+~"210"
+~"12"
+=error message
+}
+
+What will be the result of the expression below?
+\n```[2**i for i in range(10) if i > 5]\n```
+{
+~[64, 128, 256, 512]
+~[64, 128, 256, 512, 1024]
+~nothing, for and if statement cannot be placed into a list
+}
+
+What will be printed by the code below?
+\n```class A:\n  def f(self):\n    print('A', end="")\n\nclass B(A):\n  def f(self):\n    super().f()\n    print('B', end="")\n\nclass C(A):\n  def f(self):\n    super().f()\n    print('C', end="")\n\nclass D(B,C):\n  def f(self):\n    super().f()\n    print('D', end="")\n\nd=D()\nd.f()\n```
+{
+~ABD
+~ACD
+=ACBD
+}
+
