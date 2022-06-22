@@ -3,15 +3,18 @@
 // ID: 02187f01-e63f-4ca9-bfc2-8b9ee31211d1
 // Python versions: 3.10 3.11
  
-What Will be The output Of the following code snippet?
+What Will be The output Of the following code snippet?<br/>
+<code>
 myList \= [1,3,3,3,3,1]
 max \= myList[0]
 indexOfMax \= 0
 for x in range(1,len(myList))\:
-    if myList[x] > max
-        if myList[x]
-        indexOfMax \= x
-print(indexOfMax) {
+&nbsp;&nbsp;&nbsp;&nbsp;if myList[x] > max
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;max \= myList[x]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;indexOfMax \= x
+print(indexOfMax)
+</code>
+{
 ~0 
 =1
 ~2
