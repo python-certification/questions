@@ -3,12 +3,14 @@
 // ID: d377db44-56c2-41b5-a237-f97a637d58c7
 // Python versions: 3.10 3.11
  
-What will be the output of the following code snippet?
+What will be the output of the following code snippet?<br/>
+<code>
 myList \= [0,1,2,3,4,5]
 for x in range (1,5)\:
-    myList[x - 1] \= myList[x - 1]
+&nbsp;&nbsp;&nbsp;&nbsp;myList[x - 1] \= myList[x]
 for i in range (0,5)\:
-    print(myList[x], end \= " "){
+&nbsp;&nbsp;&nbsp;&nbsp;print(myList[x], end \= " ")
+</code>{
 ~2 3 4 5 6 1
 ~1 1 2 3 4 5
 ~6 1 2 3 4 5
