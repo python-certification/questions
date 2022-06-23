@@ -2,11 +2,15 @@
 // License: Creative Commons Attribution 4.0 International
 // ID: 7006bbad-3635-47e2-b318-44497fde2c90
 // Python versions: 3.10 3.11
-What will be the output of the following Python code?
+What will be the output of the following Python code?<br/>
+<code>
 x \= [(3,4),(2,3),(4,9)]
+x.sort()
+x
+</code>
 {
-=[(2, 3), (3, 4), (4, 9)] 
-~[(2,3),(3,2),(4,9)]
+=[(2,3),(3,4),(4,9)] 
+~[(3,4),(2,3),(4,9)]
 ~Error because tuples are immutable
 ~Error, tuple has no sort attribute
 }
