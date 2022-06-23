@@ -2,9 +2,11 @@
 // License: Creative Commons Attribution 4.0 International
 // ID: 137944b4-c629-46ea-88b4-f949de7363a4
 // Python versions: 3.10 3.11
-What will be the output of the following Python code?
+What will be the output of the following Python code?<br/>
+<code>
 alpha \= ("a", "g", "f")
-print(alpha[-1]){
+print(alpha[-1])
+</code>{
 ~g
 ~a
 =f

@@ -3,10 +3,12 @@
 // ID: 2a5ac04d-f8c5-441f-bc83-08d2e94f14ea
 // Python versions: 3.10 3.11
  
-What will be the output of the following Python code?
+What will be the output of the following Python code?<br/>
+<code>
 subject \= ("English", "Science", "Bengali", "History")
 for word in subject\:
-printf(f"I like to read \{word\}") {
+&nbsp;&nbsp;&nbsp;&nbsp;printf(f"I like to read \{word\}")
+</code>{
 =I like to read English
 I like to read Science
 I like to read Bengali
@@ -18,4 +20,3 @@ I like to read Science
 ~I like to read All
 ~None of these above
 }
-

@@ -3,9 +3,11 @@
 // ID: 2d609f5d-7ce7-477c-8fad-60defa742925
 // Python versions: 3.10 3.11
  
-What will be the output of the following Python code?
+What will be the output of the following Python code?<br/>
+<code>
 p\=(2,3,5,4)
-p[1\:4]{
+p[1\:4]
+</code>{
 ~(1, 2, 4)
 ~(2, 4, 3)
 =(3, 5, 4)

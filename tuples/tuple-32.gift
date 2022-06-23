@@ -3,12 +3,14 @@
 // ID: 20e0fa0c-1baf-4ed0-a843-279f7947cb22
 // Python versions: 3.10 3.11
  
-What will be the output of the following Python code?
+What will be the output of the following Python code?<br/>
+<code>
 x \= ('check',)
 n \= 2
 for i in range(int(n))\
 &nbsp;&nbsp;&nbsp;&nbsp;x \= (x,)
-&nbsp;&nbsp;&nbsp;&nbsp;print(x){
+&nbsp;&nbsp;&nbsp;&nbsp;print(x)
+</code>{
 ~Error, tuples are immutable
 =(('check',),)
 ((('check',),),)

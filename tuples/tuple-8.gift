@@ -3,9 +3,11 @@
 // ID: ecff7a7f-1dd0-4cbc-ac0f-0e88104a4661
 // Python versions: 3.10 3.11
  
-What will be the output of the following Python code?
+What will be the output of the following Python code?<br/>
+<code>
 d \= \{"jimmy"\:45,"jack"\:40\}
-d["jimmy"]{
+d["jimmy"]
+</code>{
 ~40
 =45
 ~“jimmy”

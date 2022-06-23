@@ -3,10 +3,12 @@
 // ID: dbdc0907-b856-4a52-87a4-155ba2e36cfc
 // Python versions: 3.10 3.11
  
-What will be the output of the following Python code?
+What will be the output of the following Python code?<br/>
+<code>
 x\=(3,4,2,6)
 x.sort()
-x{
+x
+</code>{
 ~(2,3,4,6)
 ~(3,4,2,6)
 ~None

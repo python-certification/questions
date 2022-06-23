@@ -3,12 +3,14 @@
 // ID: 1c9630ef-1b58-453d-ac8a-20d7ac0ef24f
 // Python versions: 3.10 3.11
  
-What will be the output of the following code snippet?
+What will be the output of the following code snippet?<br/>
+<code>
 def x(values)\:
-    values[0] \= 33
+&nbsp;&nbsp;&nbsp;&nbsp;values[0] \= 33
 v \= [1,2,3]
 x(v)
-print(v){
+print(v)
+</code>{
 ~[1, 2, 3, 33]
 ~[1, 2, 3]
 ~[1, 33]

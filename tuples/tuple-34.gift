@@ -3,9 +3,11 @@
 // ID: 93990965-d903-4d55-8310-9ce55863ead2
 // Python versions: 3.10 3.11
  
-What will be the output of the following Python code?
+What will be the output of the following Python code?<br/>
+<code>
 p \= (2,3)
-2 * p{
+2 * p
+</code>{
 =(2, 3, 2, 3)
 ~[2, 3, 2, 3]
 ~(2, 2, 3, 3)

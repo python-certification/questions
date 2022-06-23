@@ -3,8 +3,8 @@
 // ID: 1c4fc52d-eb9d-44e2-baed-a9eff35735c3
 // Python versions: 3.10 3.11
  
-What will be the output of the following Python code?
-print(any((False,False,False))) {
+What will be the output of the following Python code?<br/>
+<code>print(any((False,False,False)))</code>{
 ~(False, False, False)
 =False
 ~True

@@ -3,10 +3,12 @@
 // ID: a5597dde-fb16-44f3-ba00-5525e1dc342c
 // Python versions: 3.10 3.11
  
-What will be the output of the following Python code?
+What will be the output of the following Python code?<br/>
+<code>
 x,y \= 6,8
 x,y \= y,x
-x,y{
+x,y
+</code>{
 ~(6,8) 
 ~Invalid syntax
 =(8,6)

@@ -3,8 +3,10 @@
 // ID: 5ee3b17f-694e-4dd4-bf6f-94673e0931d4
 // Python versions: 3.10 3.11
  
-What will be the output of the following Python code?
-print(max((45,5,75))){
+What will be the output of the following Python code?<br/>
+<code>
+print(max((45,5,75)))
+</code>{
 ~(max - 75)
 =75
 ~Error

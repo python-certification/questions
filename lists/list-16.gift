@@ -2,14 +2,16 @@
 // License: Creative Commons Attribution 4.0 International
 // ID: edf2e62f-ea5a-40c0-af23-74415783b642
 // Python versions: 3.10 3.11
-What Will be The output Of the following code snippet?
+What Will be The output Of the following code snippet?<br/>
+<code>
 def x(value, values)
-    v \= 1
-    values[0] \= 33
+&nbsp;&nbsp;&nbsp;&nbsp;v \= 1
+&nbsp;&nbsp;&nbsp;&nbsp;values[0] \= 33
 y \= 3
 v [1,2,3]
 x(y, v)
-print(y,v[0]){ 
+print(y,v[0])
+</code>{ 
 ~1 1 
 ~1 33
 ~3 1

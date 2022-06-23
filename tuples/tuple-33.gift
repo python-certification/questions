@@ -3,10 +3,12 @@
 // ID: 2fb6dad5-da3e-49c5-b225-5e67e5e7261a
 // Python versions: 3.10 3.11
  
-What will be the output of the following Python code?
+What will be the output of the following Python code?<br/>
+<code>
 p1 \= (2,3,5,4)
 p2 \= (2,3,4,5)
-p1 < p2{
+p1 < p2
+</code>{
 ~True
 =False
 ~Error

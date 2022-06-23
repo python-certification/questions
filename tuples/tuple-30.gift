@@ -3,9 +3,11 @@
 // ID: 34f72972-830e-4fce-9bfa-9831046ee248
 // Python versions: 3.10 3.11
  
-Is the following Python code valid?
+Is the following Python code valid?<br/>
+<code>
 x \= (2,3,4)
-y \= x.update(4,){
+y \= x.update(4,)
+</code>{
 ~Yes, x\=(1,2,3,4) and y\=(1,2,3,4)
 ~Yes, a\=(2,3,4) and b\=(1,2,3,4)
 =No because tuples are immutable

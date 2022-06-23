@@ -2,9 +2,11 @@
 // License: Creative Commons Attribution 4.0 International
 // ID: b226baae-6557-4549-912b-c1efc9941d2a
 // Python versions: 3.10 3.11
-What will be the output of the following Python code?
+What will be the output of the following Python code?<br/>
+<code>
 x\=(1,2,3)
-sum(x,3) {
+sum(x,3)
+</code>{
 ~Too many arguments for sum() method
 ~The method sum() doesn't exist for tuples
 ~12

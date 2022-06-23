@@ -5,8 +5,10 @@
  
 Tuples can't be made keys of a dictionary. {FALSE}
  
-What will be the output of the following Python code?
+What will be the output of the following Python code?<br/>
+<code>
 print(min((45,5,75)))
+</code>
 {
 ~(min - 5)
 =5

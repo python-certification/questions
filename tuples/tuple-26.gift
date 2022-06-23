@@ -3,7 +3,8 @@
 // ID: 253078a4-5447-4f04-8941-4210324d4c23
 // Python versions: 3.10 3.11
  
-What will be the output of the following Python code?
+What will be the output of the following Python code?<br/>
+<code>
 numberGames \= \{\}
 numberGames[(2,4,6)] \= 14
 numberGames[(6,4,2)] \= 16
@@ -12,6 +13,7 @@ sum \= 0
 for x in numberGames\:
 &nbsp;&nbsp;&nbsp;&nbsp;sum +\=  numberGames[x]
 print(len(numberGames)+sum)
+</code>
 {
 ~30
 ~24
