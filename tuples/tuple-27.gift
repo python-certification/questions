@@ -3,8 +3,11 @@
 // ID: 7541c4b3-aecb-4e39-ad8e-875fe2b79bbe
 // Python versions: 3.10 3.11
  
-What will be the output of the following Python code?
-x\=("Check")*3{
+What will be the output of the following Python code?<br/>
+<code>
+x\=("Check")*3
+x
+</code>{
 ~('Check','Check','Check')
  ~* Operator not valid for tuples
 =('CheckCheckCheck')
