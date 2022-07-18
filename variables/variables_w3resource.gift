@@ -1,0 +1,357 @@
+In Python if a variable is assigned a value anywhere within the function's body, it's assumed to be a local unless explicitly declared as global.
+{
+=True
+~False
+}
+
+Which of the following cannot be a variable?
+{
+~__init__
+=in
+~it
+~on
+}
+
+What Python built-in function returns the unique number assigned to an object\:
+{
+~refnum()
+=id()
+~ref()
+~identity()
+}
+
+What is the output of the following code?
+var_test \= "Jhons" * 3 * 2
+print(var_test)
+{
+~JhonsJhonsJhonsJhons
+~Jhons
+=JhonsJhonsJhonsJhonsJhonsJhons
+Syntax Error
+}
+
+Which of the following is not a keyword?
+{
+=eval
+~assert
+~nonlocal
+~pass
+}
+
+Which of the following is not a variable?
+{
+~on
+~__init__
+~it
+=in
+}
+
+How to swap two variables in one line ?
+{
+~x \= y
+~x ^\= y ^\= x ^\= y
+=x, y \= y, x
+~(x ^\= y), (y ^\= x), (x ^\= y)
+}
+
+Which of the following are Python reserved words (keywords)\:
+{
+~default
+~and
+~goto
+=class
+~None
+}
+
+What is the output of the following code?
+var1 \= 15
+var2 \= 25
+var3 \= "30"
+print(var1 + var2 + var3)
+{
+~70
+~63
+~152530
+=TypeError\: unsupported operand type(s) for +\: 'int' and 'str'
+}
+ 
+What is the output of the following code?
+xx \= 15
+
+if True\:
+&nbsp;&nbsp;xx \= 25
+
+print(xx)
+{
+=25
+~15
+~Error
+~None
+}
+
+Which of the following is an invalid statement?
+{
+~num \= 1,000,000
+=x y z \= 1 2 3
+~x,y,z \= 1, 2, 3
+~x_y_z \= 1,000,000
+}
+
+Output of print(f"Python \{3 + .2\}")
+{
+~3.2
+~3+.2
+~Shows error
+=Python 3.2
+}
+
+What is the output of the following code?
+def var_test()\:
+&nbsp;&nbsp;xx \= 99
+&nbsp;&nbsp;return xx
+var_test()
+print(xx)
+{
+~0 
+~70
+=Error
+~None
+}
+ 
+Which of the following cannot be a variable ?
+{
+~_name_
+=def
+~at
+~on
+}
+ 
+Which of the following is an invalid variable?
+{
+~odd_num_1
+=1_odd_num
+~num
+}
+ 
+From the execution of the statements  n \= 300,  m \= n how many objects and references will be created?                                                  
+{
+~Two objects, two references
+=One object, two references
+~Two objects, one reference
+~One object, one reference
+}
+ 
+Is Python case sensitive when dealing with identifiers?
+{
+=Yes
+~No
+~machine dependent
+~None of the above
+}
+
+Which of the following are valid Python variable names\:
+{
+~ver1.3
+~return
+=home_address
+=route66
+=Age
+~4square
+}
+ 
+Which of the following statements assigns the value 100 to the variable x in Python\:
+{
+~let x \= 100
+ ~x \:\= 100
+~x ← 100
+=x \= 100
+~x << 100
+}
+ 
+In Python, a variable must be declared before it is assigned a value\:
+{
+~True
+=False
+}
+ 
+What is the maximum possible length of an identifier or an attribute ?
+{
+~32
+~64
+=79
+~Any length
+~Other
+}
+ 
+Which of the following is not a keyword?
+{
+~pass
+~class
+=max
+~def
+}
+ 
+Which of the following is true for variable names in Python?
+{
+~all private members must have leading and trailing underscores
+~underscore and ampersand are the only two special characters allowed
+=unlimited length
+~none of the mentioned
+}
+ 
+All keywords available in Python are in
+{
+~Uppercase
+~Lowercase
+=Both uppercase and lowercase
+~CamelCase
+}
+
+Select the correct output of the following code.
+x \= 15
+x \= "Python"
+print(x)
+{
+=Python
+~15
+~Blank
+}
+
+What is the output of the following code?
+xx \= 15
+
+def var_test()\:
+&nbsp;&nbsp;xx \= 25
+var_test()
+print(xx)
+{
+~25
+=15
+~Error
+~None
+}
+ 
+What is the output of the following code?
+xx \= 25
+if False\:
+&nbsp;&nbsp;xx \= 75
+
+def var_test()\:
+&nbsp;&nbsp;if True\:
+&nbsp;&nbsp;&nbsp;&nbsp;xx \= 35
+print(var_test())
+{
+~25
+~75
+~35
+=None
+}
+ 
+What is the maximum possible length of an identifier?
+{
+~31 characters
+~63 characters
+=79 characters
+~None of the above
+}
+ 
+In Python, a variable may be assigned a value of one type, but later it can assigned a value of a different type\:
+{
+=True
+~False
+}
+
+Which of the following is an invalid variable?
+{
+~_var_
+=1var
+~_var_1
+~All the above
+}
+ 
+Which of the following is valid ?
+{
+~_var \= 'python'
+~__var \= 'python'
+~_name_ \= 'python'
+=All the above
+}
+ 
+Is Python case sensitive while dealing with identifiers?
+{
+=Yes
+~No
+~OS dependent
+~None of the above
+}
+
+What is the output of the following code?
+def var_test()\:
+&nbsp;&nbsp;b \= 63
+&nbsp;&nbsp;return b
+
+print(var_test())
+{
+~0
+=63
+~Error
+~None
+}
+ 
+Which of the following is an invalid statement?
+{
+~a_b_c \= 100
+~abc =\ 100, 'python'
+=a b c \= 1 00
+~a, b, c \= 1, 0, 0
+}
+ 
+All keywords in Python are in _________
+{
+~Lower case
+~Upper case
+=None of the mentioned
+~Capitalized
+}
+ 
+Which of the following is not a keyword?
+{
+=open
+ ~lambda
+~is
+~except
+}
+
+Why are local variable names beginning with an underscore discouraged?
+{
+=they are used to indicate a private variables of a class
+~they confuse the interpreter
+~they are used to indicate global variables
+~they slow down execution
+}
+
+What is the output of the following code?
+a \= 75
+def var_test()\:
+&nbsp;&nbsp;return a
+
+print(var_test())
+{
+=75
+~0
+~Error
+~None
+}
+
+What is the output of the following code?
+xx \= 50
+def var_test()\:
+&nbsp;&nbsp;xx \= 100
+&nbsp;&nbsp;return x
+print(var_test())
+{
+~50
+=100
+~Error
+~None
+}
