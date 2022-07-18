@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7e1f08f5-228e-447f-87b3-fc1b4ae56696
+// Python versions: 3.10 3.11
+Why are local variable names beginning with an underscore discouraged?
+{
+=they are used to indicate a private variables of a class
+~they confuse the interpreter
+~they are used to indicate global variables
+~they slow down execution
+}
+

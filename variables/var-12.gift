@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: db4341fe-aa07-4003-993d-60f6addd842c
+// Python versions: 3.10 3.11
+Output of print(f"Python \{3 + .2\}")
+{
+~3.2
+~3+.2
+~Shows error
+=Python 3.2
+}
+

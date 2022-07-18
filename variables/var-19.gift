@@ -1,0 +1,14 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: aed91ba0-2414-457c-87c5-999818239da1
+// Python versions: 3.10 3.11
+ 
+Which of the following statements assigns the value 100 to the variable x in Python\:
+{
+~let x \= 100
+ ~x \:\= 100
+~x ← 100
+=x \= 100
+~x << 100
+}
+

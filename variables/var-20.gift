@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 96fca5c8-8e43-4147-a3a0-fcc592d83601
+// Python versions: 3.10 3.11
+ 
+In Python, a variable must be declared before it is assigned a value\:
+{
+~True
+=False
+}
+

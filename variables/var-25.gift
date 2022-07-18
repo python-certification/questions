@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7f3452f8-aed3-4c79-a492-7858c8eef2d3
+// Python versions: 3.10 3.11
+Select the correct output of the following code.
+<br/><code>
+x \= 15
+x \= "Python"
+print(x)
+</code>
+{
+=Python
+~15
+~Blank
+}
+

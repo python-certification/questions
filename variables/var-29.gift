@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 6df062c2-343c-4590-8bef-d92ada5a3a2f
+// Python versions: 3.10 3.11
+ 
+In Python, a variable may be assigned a value of one type, but later it can assigned a value of a different type\:
+{
+=True
+~False
+}
+

@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9d516aa7-10f3-4938-93a9-2f81de96c480
+// Python versions: 3.10 3.11
+ 
+Which of the following is valid ?
+{
+~_var \= 'python'
+~__var \= 'python'
+~_name_ \= 'python'
+=All the above
+}
+

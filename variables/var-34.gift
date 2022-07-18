@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: a326efa3-218a-455d-8b77-47cbf7a012b4
+// Python versions: 3.10 3.11
+ 
+Which of the following is an invalid statement?
+{
+~a_b_c \= 100
+~abc =\ 100, 'python'
+=a b c \= 1 00
+~a, b, c \= 1, 0, 0
+}
+

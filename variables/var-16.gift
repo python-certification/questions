@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9c3d2fa1-5c9e-486d-b71f-a6ca20a8d018
+// Python versions: 3.10 3.11
+ 
+From the execution of the statements  n \= 300,  m \= n how many objects and references will be created?                                                  
+{
+~Two objects, two references
+=One object, two references
+~Two objects, one reference
+~One object, one reference
+}
+

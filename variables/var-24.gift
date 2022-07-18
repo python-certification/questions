@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 919bb3e7-bacf-4a16-8bb0-6786c1acf78f
+// Python versions: 3.10 3.11
+ 
+All keywords available in Python are in
+{
+~Uppercase
+~Lowercase
+=Both uppercase and lowercase
+~CamelCase
+}
+

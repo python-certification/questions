@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b87e2d5a-f81e-42a3-b144-dfafc9d2e693
+// Python versions: 3.10 3.11
+ 
+Is Python case sensitive when dealing with identifiers?
+{
+=Yes
+~No
+~machine dependent
+~None of the above
+}
+

@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 4ee4470e-87fa-4228-ba26-1730bd9896e6
+// Python versions: 3.10 3.11
+ 
+Which of the following is true for variable names in Python?
+{
+~all private members must have leading and trailing underscores
+~underscore and ampersand are the only two special characters allowed
+=unlimited length
+~none of the mentioned
+}
+

@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 8d547bd8-5b66-40dd-9391-21ddef41619a
+// Python versions: 3.10 3.11
+What is the output of the following code?
+<br/><code>
+var_test \= "Jhons" * 3 * 2
+print(var_test)
+</code>
+{
+~JhonsJhonsJhonsJhons
+~Jhons
+=JhonsJhonsJhonsJhonsJhonsJhons
+Syntax Error
+}
+

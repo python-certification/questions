@@ -1,0 +1,546 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: cd563d19-4075-491e-acdd-0bb324bd90f1
+// Python versions: 3.10 3.11
+In Python if a variable is assigned a value anywhere within the function's body, it's assumed to be a local unless explicitly declared as global.
+{
+=True
+~False
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 69cd2499-36d9-43ba-9ede-0628f9297f8f
+// Python versions: 3.10 3.11
+Which of the following cannot be a variable?
+{
+~__init__
+=in
+~it
+~on
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9bff2ff7-556e-49e2-b09e-c6407d156a1d
+// Python versions: 3.10 3.11
+What Python built-in function returns the unique number assigned to an object\:
+{
+~refnum()
+=id()
+~ref()
+~identity()
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 8d547bd8-5b66-40dd-9391-21ddef41619a
+// Python versions: 3.10 3.11
+What is the output of the following code?
+<br/><code>
+var_test \= "Jhons" * 3 * 2
+print(var_test)
+</code>
+{
+~JhonsJhonsJhonsJhons
+~Jhons
+=JhonsJhonsJhonsJhonsJhonsJhons
+Syntax Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ee2123d2-a2f0-4931-a082-33e514749c8c
+// Python versions: 3.10 3.11
+Which of the following is not a keyword?
+{
+=eval
+~assert
+~nonlocal
+~pass
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1c2a6347-f306-41e7-a86b-e6215c9662d0
+// Python versions: 3.10 3.11
+Which of the following is not a variable?
+{
+~on
+~__init__
+~it
+=in
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d8f5cec7-2add-452d-bd4b-0bcb811035eb
+// Python versions: 3.10 3.11
+How to swap two variables in one line ?
+{
+~x \= y
+~x ^\= y ^\= x ^\= y
+=x, y \= y, x
+~(x ^\= y), (y ^\= x), (x ^\= y)
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: f0d5dd8e-dd66-479e-8699-337c90cb87bc
+// Python versions: 3.10 3.11
+Which of the following are Python reserved words (keywords)\:
+{
+~default
+~and
+~goto
+=class
+~None
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e5571c73-2421-412f-a1f9-d7f039cfd0d3
+// Python versions: 3.10 3.11
+What is the output of the following code?
+<br/><code>
+var1 \= 15
+var2 \= 25
+var3 \= "30"
+print(var1 + var2 + var3)
+</code>
+{
+~70
+~63
+~152530
+=TypeError\: unsupported operand type(s) for +\: 'int' and 'str'
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2799b349-dc30-438c-aacd-2b7f9bab898f
+// Python versions: 3.10 3.11
+ 
+What is the output of the following code?
+<br/><code>
+xx \= 15
+if True\:
+&nbsp;&nbsp;xx \= 25
+print(xx)
+</code>
+{
+=25
+~15
+~Error
+~None
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: a6063f96-b313-47f4-9183-28b85b8c903a
+// Python versions: 3.10 3.11
+Which of the following is an invalid statement?
+{
+~num \= 1,000,000
+=x y z \= 1 2 3
+~x,y,z \= 1, 2, 3
+~x_y_z \= 1,000,000
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: db4341fe-aa07-4003-993d-60f6addd842c
+// Python versions: 3.10 3.11
+Output of print(f"Python \{3 + .2\}")
+{
+~3.2
+~3+.2
+~Shows error
+=Python 3.2
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ad4d7dc6-0a92-4a19-88a4-daab68e11b9f
+// Python versions: 3.10 3.11
+What is the output of the following code?
+<br/><code>
+def var_test()\:
+&nbsp;&nbsp;xx \= 99
+&nbsp;&nbsp;return xx
+var_test()
+print(xx)
+</code>
+{
+~0 
+~70
+=Error
+~None
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1c64ed90-e499-4860-916d-f0e89182272b
+// Python versions: 3.10 3.11
+ 
+Which of the following cannot be a variable ?
+{
+~_name_
+=def
+~at
+~on
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0227efa9-3e5f-44e8-bfe5-a221bf9357cd
+// Python versions: 3.10 3.11
+ 
+Which of the following is an invalid variable?
+{
+~odd_num_1
+=1_odd_num
+~num
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9c3d2fa1-5c9e-486d-b71f-a6ca20a8d018
+// Python versions: 3.10 3.11
+ 
+From the execution of the statements  n \= 300,  m \= n how many objects and references will be created?                                                  
+{
+~Two objects, two references
+=One object, two references
+~Two objects, one reference
+~One object, one reference
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b87e2d5a-f81e-42a3-b144-dfafc9d2e693
+// Python versions: 3.10 3.11
+ 
+Is Python case sensitive when dealing with identifiers?
+{
+=Yes
+~No
+~machine dependent
+~None of the above
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 858f0ed4-d90e-41ae-b034-c999f61fa7ff
+// Python versions: 3.10 3.11
+Which of the following are valid Python variable names\:
+{
+~ver1.3
+~return
+=home_address
+=route66
+=Age
+~4square
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: aed91ba0-2414-457c-87c5-999818239da1
+// Python versions: 3.10 3.11
+ 
+Which of the following statements assigns the value 100 to the variable x in Python\:
+{
+~let x \= 100
+ ~x \:\= 100
+~x ← 100
+=x \= 100
+~x << 100
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 96fca5c8-8e43-4147-a3a0-fcc592d83601
+// Python versions: 3.10 3.11
+ 
+In Python, a variable must be declared before it is assigned a value\:
+{
+~True
+=False
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 45cd4f5a-7d83-40fd-8477-8543839eb7fa
+// Python versions: 3.10 3.11
+ 
+What is the maximum possible length of an identifier or an attribute ?
+{
+~32
+~64
+=79
+~Any length
+~Other
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 93c99c4e-86f6-48c5-8a16-6477d4c5a1e1
+// Python versions: 3.10 3.11
+ 
+Which of the following is not a keyword?
+{
+~pass
+~class
+=max
+~def
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 4ee4470e-87fa-4228-ba26-1730bd9896e6
+// Python versions: 3.10 3.11
+ 
+Which of the following is true for variable names in Python?
+{
+~all private members must have leading and trailing underscores
+~underscore and ampersand are the only two special characters allowed
+=unlimited length
+~none of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 919bb3e7-bacf-4a16-8bb0-6786c1acf78f
+// Python versions: 3.10 3.11
+ 
+All keywords available in Python are in
+{
+~Uppercase
+~Lowercase
+=Both uppercase and lowercase
+~CamelCase
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7f3452f8-aed3-4c79-a492-7858c8eef2d3
+// Python versions: 3.10 3.11
+Select the correct output of the following code.
+<br/><code>
+x \= 15
+x \= "Python"
+print(x)
+</code>
+{
+=Python
+~15
+~Blank
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: aca5d3f2-0828-45a5-b0fa-0598da80a9e2
+// Python versions: 3.10 3.11
+What is the output of the following code?
+<br/><code>
+xx \= 15
+def var_test()\:
+&nbsp;&nbsp;xx \= 25
+var_test()
+print(xx)
+</code>
+{
+~25
+=15
+~Error
+~None
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 27126f59-bea8-4446-ad6f-1eaba69ca320
+// Python versions: 3.10 3.11
+ 
+What is the output of the following code?
+<br/><code>
+xx \= 25
+if False\:
+&nbsp;&nbsp;xx \= 75
+def var_test()\:
+&nbsp;&nbsp;if True\:
+&nbsp;&nbsp;&nbsp;&nbsp;xx \= 35
+print(var_test())
+</code>
+{
+~25
+~75
+~35
+=None
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: bf04dc47-78f6-4b59-9456-ae94bd4c1bf9
+// Python versions: 3.10 3.11
+ 
+What is the maximum possible length of an identifier?
+{
+~31 characters
+~63 characters
+=79 characters
+~None of the above
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 6df062c2-343c-4590-8bef-d92ada5a3a2f
+// Python versions: 3.10 3.11
+ 
+In Python, a variable may be assigned a value of one type, but later it can assigned a value of a different type\:
+{
+=True
+~False
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 018dbb1e-5b5c-4135-bce1-0fedde99d316
+// Python versions: 3.10 3.11
+Which of the following is an invalid variable?
+{
+~_var_
+=1var
+~_var_1
+~All the above
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9d516aa7-10f3-4938-93a9-2f81de96c480
+// Python versions: 3.10 3.11
+ 
+Which of the following is valid ?
+{
+~_var \= 'python'
+~__var \= 'python'
+~_name_ \= 'python'
+=All the above
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: a7ed070f-0235-401d-ac8f-61d7157bc8b1
+// Python versions: 3.10 3.11
+ 
+Is Python case sensitive while dealing with identifiers?
+{
+=Yes
+~No
+~OS dependent
+~None of the above
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2bc528d1-914d-40c9-9e2f-308d20b55915
+// Python versions: 3.10 3.11
+What is the output of the following code?
+<br/><code>
+def var_test()\:
+&nbsp;&nbsp;b \= 63
+&nbsp;&nbsp;return b
+print(var_test())
+</code>
+{
+~0
+=63
+~Error
+~None
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: a326efa3-218a-455d-8b77-47cbf7a012b4
+// Python versions: 3.10 3.11
+ 
+Which of the following is an invalid statement?
+{
+~a_b_c \= 100
+~abc =\ 100, 'python'
+=a b c \= 1 00
+~a, b, c \= 1, 0, 0
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: fd1dbacc-06a6-4038-a61c-faea03522f36
+// Python versions: 3.10 3.11
+ 
+All keywords in Python are in _________
+{
+~Lower case
+~Upper case
+=None of the mentioned
+~Capitalized
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 898157be-d091-4c7c-8ad9-0d04873503f3
+// Python versions: 3.10 3.11
+ 
+Which of the following is not a keyword?
+{
+=open
+ ~lambda
+~is
+~except
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7e1f08f5-228e-447f-87b3-fc1b4ae56696
+// Python versions: 3.10 3.11
+Why are local variable names beginning with an underscore discouraged?
+{
+=they are used to indicate a private variables of a class
+~they confuse the interpreter
+~they are used to indicate global variables
+~they slow down execution
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 205124f4-511e-4dd0-9401-400504b359d9
+// Python versions: 3.10 3.11
+What is the output of the following code?
+<br/><code>
+a \= 75
+def var_test()\:
+&nbsp;&nbsp;return a
+print(var_test())
+</code>
+{
+=75
+~0
+~Error
+~None
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 5d50aa16-1897-4dee-8a13-88821621be16
+// Python versions: 3.10 3.11
+What is the output of the following code?
+<br/><code>
+xx \= 50
+def var_test()\:
+&nbsp;&nbsp;xx \= 100
+&nbsp;&nbsp;return x
+print(var_test())
+</code>
+{
+~50
+=100
+~Error
+~None
+}

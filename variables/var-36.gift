@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 898157be-d091-4c7c-8ad9-0d04873503f3
+// Python versions: 3.10 3.11
+ 
+Which of the following is not a keyword?
+{
+=open
+ ~lambda
+~is
+~except
+}
+

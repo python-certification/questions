@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ee2123d2-a2f0-4931-a082-33e514749c8c
+// Python versions: 3.10 3.11
+Which of the following is not a keyword?
+{
+=eval
+~assert
+~nonlocal
+~pass
+}
+

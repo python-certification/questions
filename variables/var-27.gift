@@ -1,0 +1,22 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 27126f59-bea8-4446-ad6f-1eaba69ca320
+// Python versions: 3.10 3.11
+ 
+What is the output of the following code?
+<br/><code>
+xx \= 25
+if False\:
+&nbsp;&nbsp;xx \= 75
+def var_test()\:
+&nbsp;&nbsp;if True\:
+&nbsp;&nbsp;&nbsp;&nbsp;xx \= 35
+print(var_test())
+</code>
+{
+~25
+~75
+~35
+=None
+}
+

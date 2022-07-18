@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d8f5cec7-2add-452d-bd4b-0bcb811035eb
+// Python versions: 3.10 3.11
+How to swap two variables in one line ?
+{
+~x \= y
+~x ^\= y ^\= x ^\= y
+=x, y \= y, x
+~(x ^\= y), (y ^\= x), (x ^\= y)
+}
+

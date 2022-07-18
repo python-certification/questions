@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 018dbb1e-5b5c-4135-bce1-0fedde99d316
+// Python versions: 3.10 3.11
+Which of the following is an invalid variable?
+{
+~_var_
+=1var
+~_var_1
+~All the above
+}
+

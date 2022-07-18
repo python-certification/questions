@@ -1,0 +1,10 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: cd563d19-4075-491e-acdd-0bb324bd90f1
+// Python versions: 3.10 3.11
+In Python if a variable is assigned a value anywhere within the function's body, it's assumed to be a local unless explicitly declared as global.
+{
+=True
+~False
+}
+

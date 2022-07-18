@@ -1,0 +1,14 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 45cd4f5a-7d83-40fd-8477-8543839eb7fa
+// Python versions: 3.10 3.11
+ 
+What is the maximum possible length of an identifier or an attribute ?
+{
+~32
+~64
+=79
+~Any length
+~Other
+}
+

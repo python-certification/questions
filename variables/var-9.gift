@@ -1,0 +1,18 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e5571c73-2421-412f-a1f9-d7f039cfd0d3
+// Python versions: 3.10 3.11
+What is the output of the following code?
+<br/><code>
+var1 \= 15
+var2 \= 25
+var3 \= "30"
+print(var1 + var2 + var3)
+</code>
+{
+~70
+~63
+~152530
+=TypeError\: unsupported operand type(s) for +\: 'int' and 'str'
+}
+

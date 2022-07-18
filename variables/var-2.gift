@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 69cd2499-36d9-43ba-9ede-0628f9297f8f
+// Python versions: 3.10 3.11
+Which of the following cannot be a variable?
+{
+~__init__
+=in
+~it
+~on
+}
+

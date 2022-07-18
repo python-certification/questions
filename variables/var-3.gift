@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9bff2ff7-556e-49e2-b09e-c6407d156a1d
+// Python versions: 3.10 3.11
+What Python built-in function returns the unique number assigned to an object\:
+{
+~refnum()
+=id()
+~ref()
+~identity()
+}
+

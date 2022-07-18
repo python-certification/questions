@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: a6063f96-b313-47f4-9183-28b85b8c903a
+// Python versions: 3.10 3.11
+Which of the following is an invalid statement?
+{
+~num \= 1,000,000
+=x y z \= 1 2 3
+~x,y,z \= 1, 2, 3
+~x_y_z \= 1,000,000
+}
+

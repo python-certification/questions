@@ -1,0 +1,19 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2799b349-dc30-438c-aacd-2b7f9bab898f
+// Python versions: 3.10 3.11
+ 
+What is the output of the following code?
+<br/><code>
+xx \= 15
+if True\:
+&nbsp;&nbsp;xx \= 25
+print(xx)
+</code>
+{
+=25
+~15
+~Error
+~None
+}
+

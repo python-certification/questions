@@ -1,0 +1,19 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ad4d7dc6-0a92-4a19-88a4-daab68e11b9f
+// Python versions: 3.10 3.11
+What is the output of the following code?
+<br/><code>
+def var_test()\:
+&nbsp;&nbsp;xx \= 99
+&nbsp;&nbsp;return xx
+var_test()
+print(xx)
+</code>
+{
+~0 
+~70
+=Error
+~None
+}
+

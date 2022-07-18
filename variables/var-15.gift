@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0227efa9-3e5f-44e8-bfe5-a221bf9357cd
+// Python versions: 3.10 3.11
+ 
+Which of the following is an invalid variable?
+{
+~odd_num_1
+=1_odd_num
+~num
+}
+
