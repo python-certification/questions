@@ -1,0 +1,680 @@
+What will be the output of the following Python code snippet?
+<br/><code>
+x\=[2,5,4,6,3]
+y\=[4,2,6,3,5]
+x\=\=y
+set(x)\=\=set(y)
+</code>
+{ 
+~True<br/>False
+~False<br/>False
+=False<br/>True
+~True<br/>True
+}
+
+What will be the output of the following Python code?
+<br/><code>
+a1 \= \{2,3,4,9\}
+a2 \= \{4,5,6,7\}
+a1|a2
+a1.union(a2)
+</code>
+{
+~\{4\}<br/>\{2,3,4,5,6,7,9\} 
+~\{2,3,4,5,6,9\}<br/>\{2,3,4,5,6,9\} 
+~\{4\}<br/>\{4\}
+~\{2,3,4,5,6,7,9\}<br/>\{2,3,4,5,6,7,9\}
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+\{x**2 for x in range(3)\}
+</code>
+{
+~\{1, 4, 9\}
+~\{0, 1, 4, 9\}
+~Error
+=\{0, 1, 4\}
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+x\=set('pqr')
+x.add('mon')
+x.update(set(['m','n']))
+x
+</code>
+{
+~\{'pqr', 'm', 'n', 'mon'\}
+~\{'p', 'q', 'r', ['m', 'n'], 'mon\}
+=\{'m', 'n', 'q', 'p', 'mon', 'r'\}
+~\{'p', 'q', 'q', 'm', 'n', 's', 'a', 'n'\}
+}
+
+If we have two sets, s1 and s2, and we want to check if all the elements of s1 are present in s2 or not, we can use the function\:
+{
+~s2.issubset(s1)
+=s2.issuperset(s1)
+~s1.issuperset(s2)
+~s1.isset(s2)
+}
+
+What will be the output of the following Python code?
+<br/><code>
+x\=set()
+type(x)
+</code>
+{
+~&lt;'set'&gt;
+=&lt;class 'set'&gt;
+~set
+~class set
+}
+
+Input order is preserved in sets.
+{
+~True
+=False
+}
+
+What will be the output of the following Python code?
+<br/><code>
+x\=\{2,3,4\}
+\{f*2 for f in x|\{5,6\}\}
+</code>
+{
+~\{2,4,6\}
+~Error, set comprehensions aren't allowed
+=\{4, 6, 8, 10, 12\}
+~\{8,12\}
+}
+
+What will be the output of the following Python code?
+<br/><code>
+x\=\{2,3,4\}
+x.update(5)
+x
+</code>
+{
+~\{2, 3, 4, 5\}
+~\{2,3,4,5\}
+~\{5, 2, 3, 4\}
+=Error
+}
+
+What will be the output of the following Python code?
+<br/><code>
+x\=\{2,3,4\}
+x.intersection_update
+(\{3,4,5,6\})
+</code>
+{
+=\{3, 4\}
+~Error, duplicate item present in list
+~Error, no method called intersection_update for set data type
+~\{2,3,5\}
+}
+
+The _________ function removes the first element of a set and the last element of a list.{
+~remove
+=pop
+~discard
+~dispose
+}
+
+If x\=\{3,4,5\}, what happens when x.add(5) is executed?{
+~x\=\{3,3,4,5\}
+=x\=\{3,4,5\}
+~Error as there is no add function for set data type
+~Error as 5 already exists in the set
+}
+
+What will be the output of the following Python code?
+<br/><code>
+x\=\{4,5,6,7\}
+y\=\{6,7,9,10\}
+print(x^y)
+</code>
+{
+~\{4,5,6,7,9,10\}
+~\{6,7\}
+=\{4, 5, 9, 10\}
+=Error as unsupported operand type of set data type
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+x\=[2,3,4,5,3,'pq',4]
+set(x)
+x
+</code>
+{
+~\{2,3,4,5,3,'pq',4\}<br/>[2,3,4,5,3,'pq',4]
+=\{2,3,4,5,'pq'\}<br/>[2,3,4,5,3,'pq',4]
+~\{2,5,'pq'\}<br/>[2,5,'pq']
+~\{2,3,4,5,'pq'\}<br/>[2,3,4,5,'pq']
+}
+
+What will be the output of the following Python code?
+<br/><code>
+x\=\{1,3,5\}
+y\=\{2,4,6\}
+x+y
+</code>
+{
+~\{1,3,5,2,4\}
+~\{1,3,5,2,4,6\}
+~Error as the duplicate item 6 is present in both sets
+=Error as unsupported operand type(s) for +\: 'set' and 'set'
+}
+
+What will be the output of the following Python code?
+<br/><code>
+x\=set('mno')
+y\=set('pqr')
+y.intersection_update(x)
+print(x)
+print(y)
+</code>
+{
+~set()<br/>\{'p','q','r'\}
+~\{\}<br/>\{\}
+=\{'m','n','o'\}<br/>set()
+~set()<br/>set()
+}
+
+Is the following Python code valid?
+<br/><code>
+x\=\{2,3,4\}
+y\=\{2,3,4,5\}
+z\=x.issuperset(y)
+print(z)
+</code>
+{
+~False
+=True
+~Syntax error for issuperset() method
+~Error, no method called issuperset() exists
+}
+
+What will be the output of the following Python code?
+<br/><code>
+x\=\{5,6,7\}
+y\=\{7,8,9\}
+print(x|y)
+</code>
+{
+~Invalid operation 
+=\{5, 6, 7, 8, 9\}
+~\{5, 6, 8, 9\}
+~\{5\}
+}
+
+What will be the output of the following Python code?
+<br/><code>
+nums \= set([2,2,3,4,4,4,5,5])
+print(len(nums)) 
+</code>
+{
+~7 
+~Error, invalid syntax for formation of set
+=4
+~8
+} 
+
+Is the following Python code valid?
+<br/><code>
+x\=frozenset([3,4,5])
+x
+x.add(3)
+</code>
+{
+~Yes, now a is \{3,3,4,5\}
+=No, frozen set is immutable
+=No, invalid syntax for add method
+=Yes, now a is \{3,4,5\}
+}
+
+What will be the output of the following Python code?
+<br/><code>
+x\=\{4,7,8,8,9\}
+x
+</code>
+{
+~\{4, 7, 9\}
+=\{8, 9, 4, 7\}
+~\{4, 7, 8, 8, 9\}
+~Error
+}
+
+The output of the following code is\: class<'set'>
+<br/><code>
+type(\{\})
+</code>
+{
+=True
+~False
+} 
+
+Is the following Python code valid?
+<br/><code>
+x\=\{5,6,\{9,7\}\}
+print(x[2][0])
+</code>
+{
+~Yes, 7 is printed
+~Error, elements of a set can't be printed
+=Error, subsets aren't allowed
+~Yes, \{9,7\} is printed
+}
+
+What will be the output of the following Python code?
+<br/><code>
+x \= \{2,3,4\}
+y \= x.add(5)
+y
+</code>
+{
+~0
+~\{2,3,4,5\}
+~\{2,3,4\}
+=None
+}
+
+Which of these about a frozenset is not true?{
+=Mutable data type
+~Allows duplicate values
+~Data type with unordered values
+~Immutable data type
+}
+
+What will be the output of the following Python code?
+<br/><code>
+x1\=\{4,5\}
+x2\=\{2,3\}
+x3\=set()
+a\=0
+b\=0
+for a in x1\:
+&nbsp;&nbsp;for b in x2\:
+&nbsp;&nbsp;&nbsp;&nbsp;x3.add((a,b))
+&nbsp;&nbsp;&nbsp;&nbsp;a+\=1
+&nbsp;&nbsp;&nbsp;&nbsp;b+\=1
+print(x3)
+</code>
+{
+~\{(4, 5), (2, 3)\}
+~Error
+=\{(6, 3), (4, 2), (5, 2), (5, 3)\}
+~\{(4, 2), (5, 3)\}
+}
+
+What will be the output of the following Python code, if x1\= \{2, 3, 4\}?
+<br/><code>
+x1.issubset(x1)
+</code>
+{
+=True
+~Error
+~No output
+~False
+}
+
+Which of the following functions cannot be used on heterogeneous sets?{
+~pop
+~remove
+~update
+=sum
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+x\=set([2,3,4])
+x.union([5,6])
+x|([5,6])
+</code>
+{
+~\{2,3,4,5,6\}<br/>\{2,3,4,5,6\}
+~Error<br/>\{2,3,4,5,6\}
+=\{2,3,4,5,6\}<br/>Error
+~Error<br/>Error
+}
+
+What will be the output of the following Python code?
+<br/><code>
+a1\=\{2,3,4\}
+a2\=\{4,5,6,7\}
+a1.difference(a2)
+a2.difference(a1)
+</code>
+{
+=\{2,3\}<br/>\{5,6,7\}
+~\{2,3\}<br/>\{2,3\}
+~\{4,5,6\}<br/>\{2,3\}
+~\{4,5,6\}<br/>\{4,5,6\}
+}
+
+If x\=\{5,6,7,8\}, which of the following statements is false?{
+~print(len(x)) 
+~print(min(x))
+~x.remove(5)
+=x[2]\=45
+}
+
+What will be the output of the following Python code?
+<br/><code>
+x\=\{6,7,8\}
+y\=\{4,9,8\}
+x-y
+</code>
+{
+=\{6, 7\}
+~\{6\}
+~Error as unsupported operand type for set data type
+~Error as the duplicate item 6 is present in both sets
+}
+
+What will be the output of the following Python code?
+<br/><code>
+m\=set('pqrst')
+n\=set('xyzqs')
+m.difference_update(n)
+m
+n
+</code>
+{
+~\{'p','q','r','s','t'\}<br/>\{'x','y','z'\}
+=\{'t','r','p'\}<br/>\{'x','q','y','s','z'\}
+=\{'q','s'\}<br/>\{'q','s'\}
+~\{'p','r','t'\}<br/>\{'x','y','z'\}
+}
+
+What will be the output of the following Python code?
+<br/><code>
+x\=\{2,3,4\}
+y\=frozenset([4,5,6])
+x-y
+</code>
+{
+=\{2, 3\}
+~Error as difference between a set and frozenset can't be found out
+~Error as unsupported operand type for set data type
+~frozenset(\{2,3\})
+}
+
+The following Python code results in an error.
+<br/><code>
+a\=\{1,2,3,[4,5]\}
+</code>
+{
+=True
+~False
+}
+
+Write a list comprehension for number and its cube for\:
+<br/><code>
+a\=[2,3,4,5,6,7,8,9,10]
+</code>
+{
+=[x**3 for x in a]
+~[x^3 for x in a]
+~[x**3 in a]
+~[x^3 in a]
+}
+
+Which of these about a set is not true?{
+~Mutable data type
+~Allows duplicate values
+~Data type with unordered values
+=Immutable data type
+}
+
+What will be the output of the following Python code?
+<br/><code>
+x\=\{3,4,5,6\}
+y\=\{5,3,4,6\}
+x\=\=y
+</code>
+{
+=True
+~False
+}
+
+Which of the following is not the correct syntax for creating a set?{
+=set([[1,2],[3,4]])
+~set([1,2,2,3,4])
+~set((1,2,3,4))
+~\{1,2,3,4\}
+}
+
+What will be the output of the following Python code?
+<br/><code>
+x \= [3,3,4,5,5,5]
+y \= set(x)
+def test(lst)\:
+&nbsp;&nbsp;if lst in y\:
+&nbsp;&nbsp;&nbsp;&nbsp;return 1
+&nbsp;&nbsp;else\:
+&nbsp;&nbsp;&nbsp;&nbsp;return 0
+for i in filter(test, x)\:
+&nbsp;&nbsp;print(i,end\=" ")
+</code>
+{
+~3 3 4 
+~3 4 5
+=3 3 4 5 5 5
+~3 4 5 5 5
+}
+
+What will be the output of the following Python code?
+<br/><code>
+x\=\{2,3,4\}
+y\=x.copy()
+y.add(5)
+x
+</code>
+{
+~\{2,3,4,5\}
+=\{2, 3, 4\}
+~Error, invalid syntax for add
+~Error, copying of sets isn't allowed
+}
+
+Which of the following functions will return the symmetric difference between two sets, x and y?{
+~x | y
+=x ^ y
+~x & y
+~x - y
+}
+
+Set members must not be hashable.{
+~True
+=False
+}
+
+What will be the output of the following Python code?
+<br/><code>
+x\=\{6,5\}
+y\=\{2,3,5,6\}
+x<y
+</code>
+{
+~\{1,2\}
+=True
+~False
+~Invalid operation
+}
+
+What will be the output of the following Python code?
+<br/><code>
+x\=\{2,3,4\}
+y\=\{2,3,4\}
+z\=x.issubset(y)
+print(z)
+</code>
+{
+=True
+~Error, no method called issubset() exists
+~Syntax error for issubset() method
+~False
+}
+
+Which of the following statements is used to create an empty set?{
+~\{ \}
+=set()
+~[ ]
+~( )
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+s\=set('mno$pq')
+'m' in s
+</code>
+{
+=True
+~False
+~No output
+~Error
+}
+
+What will be the output of the following Python code?
+<br/><code>
+x\=\{2,3,4\}
+y\=x
+y.remove(3)
+x
+</code>
+{
+~\{2,3,4\}
+~Error, copying of sets isn't allowed
+=\{2, 4\}
+~Error, invalid syntax for remove
+}
+
+Which of the following lines of code will result in an error?{
+~s\=\{abs\}
+~s\=\{4, 'abc', (1,2)\}
+~s\=\{2, 2.2, 3, 'xyz'\}
+=s\=\{abc\}
+}
+
+What will be the output of the following Python code?
+<br/><code>
+s\=\{3,4\}
+s*3
+</code>
+{
+~Error as unsupported operand type for set data type
+=\{3,4,3,4,3,4\}
+~\{3,4\}
+~Error as multiplication creates duplicate elements which isn't allowed
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+for a in set ('xyz')\:
+&nbsp;&nbsp;print(a*2)
+</code>
+{
+=zz<br/>xx<br/>yy
+~xyz<br/>xyz
+~xxyyzz
+~xyzxyz
+}
+
+What will be the output of the following Python function?
+<br/><code>
+\{a for a in 'xyz'\}
+\{a*3 for a in 'xyz'\}
+</code>
+{
+~\{zyx\}<br/>xxx<br/>yyy<br/>zzz
+~xyz<br/>xyz xyz xyz
+=\{'z','y','x'\}<br/>\{'zzz','xxx','yyy'\}
+~\{'x','y','z'\}<br/>xyz<br/>xyz<br/>xyz
+}
+
+What will be the output of the following Python code?
+<br/><code>
+x\=\{7,8,9\}
+sum(x,7)
+</code>
+{
+~7
+=31
+~30
+~Invalid syntax for sum method, too many arguments
+}
+
+Set makes use of _______ , Dictionary makes use of ________{
+~keys, keys
+~key values, keys
+=keys, key values
+~key values, key values
+}
+
+What will be the output of the following Python code?
+<br/><code>
+x\=\{6>5, 0 , 5-5\}
+all(x)
+any(x)
+</code>
+{
+~True<br/>False
+=False<br/>True
+~True<br/>True
+~False<br/>False
+}
+
+What will be the output of the following Python code?
+<br/><code>
+x\=\{4,5,6\}
+x.update([2,3,4])
+x
+</code>
+{
+~Error, no method called update for set data type
+=\{2, 3, 4, 5, 6\}
+~Error, list can't be added to set
+~Error, duplicate item present in list
+}
+
+What will be the output of the following Python code?
+<br/><code>
+x\=\{1,2,3,4\}
+y\=\{3,4,5,6\}
+len(x+y)
+</code>
+{
+~4
+=Error, unsupported operand type(s) for +\: 'set' and 'set'
+~2
+~Nothing is displayed
+}
+
+What will be the output of the following Python code?
+<br/><code>
+a1\=\{2,3,4\}
+a2\=\{5,6,7\}
+a1.isdisjoint(a2)
+a2.isdisjoint(aa)
+</code>
+{
+~True<br/>False
+~False<br/>True
+=True<br/>True
+~False<br/>False
+}
+
+What is the syntax of the following Python code?
+<br/><code>
+x\=frozenset(set([7,8,9]))
+x
+</code>
+{
+~\{7,8,9\} 
+=frozenset(\{8, 9, 7\})
+~Error, not possible to convert set into frozenset
+~Syntax error
+}
