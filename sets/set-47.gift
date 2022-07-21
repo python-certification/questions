@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2fed62dd-3c2e-4aa3-8995-13e1abc7d137
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+s\=set('mno$pq')
+'m' in s
+</code>
+{
+=True
+~False
+~No output
+~Error
+}
+

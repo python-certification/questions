@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 35f099fa-05a7-4b68-8318-928e9eb0e357
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+x\=\{2,3,4\}
+y\=frozenset([4,5,6])
+x-y
+</code>
+{
+=\{2, 3\}
+~Error as difference between a set and frozenset can't be found out
+~Error as unsupported operand type for set data type
+~frozenset(\{2,3\})
+}
+

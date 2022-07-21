@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 4b482d18-7da1-44de-881f-d61601ff47e7
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+x\=\{6>5, 0 , 5-5\}
+all(x)
+any(x)
+</code>
+{
+~True<br/>False
+=False<br/>True
+~True<br/>True
+~False<br/>False
+}
+

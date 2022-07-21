@@ -1,0 +1,23 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7b638e80-1042-4ecb-9af0-530ec18bfb31
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+x \= [3,3,4,5,5,5]
+y \= set(x)
+def test(lst)\:
+&nbsp;&nbsp;if lst in y\:
+&nbsp;&nbsp;&nbsp;&nbsp;return 1
+&nbsp;&nbsp;else\:
+&nbsp;&nbsp;&nbsp;&nbsp;return 0
+for i in filter(test, x)\:
+&nbsp;&nbsp;print(i,end\=" ")
+</code>
+{
+~3 3 4 
+~3 4 5
+=3 3 4 5 5 5
+~3 4 5 5 5
+}
+

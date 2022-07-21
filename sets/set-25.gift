@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 653f3fdd-00e0-4452-bed2-8ce403d5784f
+// Python versions: 3.10 3.11
+Which of these about a frozenset is not true?{
+=Mutable data type
+~Allows duplicate values
+~Data type with unordered values
+~Immutable data type
+}
+

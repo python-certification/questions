@@ -1,0 +1,18 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: f7551b72-170d-4831-a2df-4318d38d0578
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+x\=\{2,3,4\}
+y\=x
+y.remove(3)
+x
+</code>
+{
+~\{2,3,4\}
+~Error, copying of sets isn't allowed
+=\{2, 4\}
+~Error, invalid syntax for remove
+}
+

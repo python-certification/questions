@@ -1,0 +1,9 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 17250533-5500-4f18-9f0f-8cb4e2e5b13d
+// Python versions: 3.10 3.11
+Set members must not be hashable.{
+~True
+=False
+}
+

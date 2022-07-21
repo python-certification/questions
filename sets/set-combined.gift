@@ -1,3 +1,7 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 28c172ff-e742-437c-9cb5-9b6f8df4479d
+// Python versions: 3.10 3.11
 What will be the output of the following Python code snippet?
 <br/><code>
 x\=[2,5,4,6,3]
@@ -12,6 +16,10 @@ set(x)\=\=set(y)
 ~True<br/>True
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 34c2b3b7-2734-4457-88f2-24bad67f6098
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 a1 \= \{2,3,4,9\}
@@ -26,6 +34,10 @@ a1.union(a2)
 ~\{2,3,4,5,6,7,9\}<br/>\{2,3,4,5,6,7,9\}
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0aac35ad-de53-4ad4-a360-b65818b042e3
+// Python versions: 3.10 3.11
 What will be the output of the following Python code snippet?
 <br/><code>
 \{x**2 for x in range(3)\}
@@ -37,6 +49,10 @@ What will be the output of the following Python code snippet?
 =\{0, 1, 4\}
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d2b712ce-7c1e-4e6e-82c6-e1df8ea73ce7
+// Python versions: 3.10 3.11
 What will be the output of the following Python code snippet?
 <br/><code>
 x\=set('pqr')
@@ -51,6 +67,10 @@ x
 ~\{'p', 'q', 'q', 'm', 'n', 's', 'a', 'n'\}
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7e27269f-1827-4016-a6dc-129554f7d076
+// Python versions: 3.10 3.11
 If we have two sets, s1 and s2, and we want to check if all the elements of s1 are present in s2 or not, we can use the function\:
 {
 ~s2.issubset(s1)
@@ -59,6 +79,10 @@ If we have two sets, s1 and s2, and we want to check if all the elements of s1 a
 ~s1.isset(s2)
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 73eb2651-7701-44de-abef-03fe09402029
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 x\=set()
@@ -71,12 +95,20 @@ type(x)
 ~class set
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 5dd50b8e-0663-4629-bb43-60a118adb673
+// Python versions: 3.10 3.11
 Input order is preserved in sets.
 {
 ~True
 =False
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 809ee293-208f-47a4-8764-d2f8ffb046c0
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 x\=\{2,3,4\}
@@ -89,6 +121,10 @@ x\=\{2,3,4\}
 ~\{8,12\}
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1d08d209-d9a4-4314-a652-54b23a5f6cf9
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 x\=\{2,3,4\}
@@ -102,6 +138,10 @@ x
 =Error
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1ad6bb85-5003-4a25-a45a-ab034ab26337
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 x\=\{2,3,4\}
@@ -115,6 +155,10 @@ x.intersection_update
 ~\{2,3,5\}
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0cf4101a-9d49-4618-976c-a73c0411edc8
+// Python versions: 3.10 3.11
 The _________ function removes the first element of a set and the last element of a list.{
 ~remove
 =pop
@@ -122,6 +166,10 @@ The _________ function removes the first element of a set and the last element o
 ~dispose
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e57b432f-641f-435b-834b-a445732f4bb7
+// Python versions: 3.10 3.11
 If x\=\{3,4,5\}, what happens when x.add(5) is executed?{
 ~x\=\{3,3,4,5\}
 =x\=\{3,4,5\}
@@ -129,6 +177,10 @@ If x\=\{3,4,5\}, what happens when x.add(5) is executed?{
 ~Error as 5 already exists in the set
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c0c8fe54-96fb-42c4-aab9-20a1959b76e3
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 x\=\{4,5,6,7\}
@@ -142,6 +194,10 @@ print(x^y)
 =Error as unsupported operand type of set data type
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 4193d3e7-a9f1-4671-a7e3-ef6b124f42cc
+// Python versions: 3.10 3.11
 What will be the output of the following Python code snippet?
 <br/><code>
 x\=[2,3,4,5,3,'pq',4]
@@ -155,6 +211,10 @@ x
 ~\{2,3,4,5,'pq'\}<br/>[2,3,4,5,'pq']
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c580045f-6c4d-4b4e-b3be-b0d9eb3cd0bd
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 x\=\{1,3,5\}
@@ -168,6 +228,10 @@ x+y
 =Error as unsupported operand type(s) for +\: 'set' and 'set'
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 4f001176-1bd9-4ead-a752-ab5f52202396
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 x\=set('mno')
@@ -183,6 +247,10 @@ print(y)
 ~set()<br/>set()
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3cfd3da2-c5c8-48cc-8075-82d56ca639d3
+// Python versions: 3.10 3.11
 Is the following Python code valid?
 <br/><code>
 x\=\{2,3,4\}
@@ -197,6 +265,10 @@ print(z)
 ~Error, no method called issuperset() exists
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b647d31a-44df-41b1-a429-84acbc94d6e8
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 x\=\{5,6,7\}
@@ -210,6 +282,10 @@ print(x|y)
 ~\{5\}
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 461f81cd-1211-438f-9b67-ec130af5888f
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 nums \= set([2,2,3,4,4,4,5,5])
@@ -222,6 +298,10 @@ print(len(nums))
 ~8
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 5dc6da7b-ebf2-4f07-9f31-cd4ef22647e7
+// Python versions: 3.10 3.11
 Is the following Python code valid?
 <br/><code>
 x\=frozenset([3,4,5])
@@ -235,6 +315,10 @@ x.add(3)
 =Yes, now a is \{3,4,5\}
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 74beff85-f745-480e-a3c9-0a4e6de1940d
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 x\=\{4,7,8,8,9\}
@@ -247,6 +331,10 @@ x
 ~Error
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e648ac11-01ef-40eb-88c3-2628db7eeda3
+// Python versions: 3.10 3.11
 The output of the following code is\: class<'set'>
 <br/><code>
 type(\{\})
@@ -256,6 +344,10 @@ type(\{\})
 ~False
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 519262bc-eaa9-418d-8d68-66559cfe6610
+// Python versions: 3.10 3.11
 Is the following Python code valid?
 <br/><code>
 x\=\{5,6,\{9,7\}\}
@@ -268,6 +360,10 @@ print(x[2][0])
 ~Yes, \{9,7\}is printed
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 36279eb4-cf7a-4c04-b466-634018f8c40d
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 x \= \{2,3,4\}
@@ -281,6 +377,10 @@ y
 =None
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 653f3fdd-00e0-4452-bed2-8ce403d5784f
+// Python versions: 3.10 3.11
 Which of these about a frozenset is not true?{
 =Mutable data type
 ~Allows duplicate values
@@ -288,6 +388,10 @@ Which of these about a frozenset is not true?{
 ~Immutable data type
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1ba970ad-9b65-427b-a85b-598c4eb100ad
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 x1\=\{4,5\}
@@ -309,6 +413,10 @@ print(x3)
 ~\{(4, 2), (5, 3)\}
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3cc0f953-8d9c-49b8-983e-6793b8977415
+// Python versions: 3.10 3.11
 What will be the output of the following Python code, if x1\= \{2, 3, 4\}?
 <br/><code>
 x1.issubset(x1)
@@ -320,6 +428,10 @@ x1.issubset(x1)
 ~False
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c1c3ddf8-5ad8-4679-8ce7-14d3ad1af65c
+// Python versions: 3.10 3.11
 Which of the following functions cannot be used on heterogeneous sets?{
 ~pop
 ~remove
@@ -327,6 +439,10 @@ Which of the following functions cannot be used on heterogeneous sets?{
 =sum
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 59040868-9ffb-457b-8a5a-9e8ccfbc4e09
+// Python versions: 3.10 3.11
 What will be the output of the following Python code snippet?
 <br/><code>
 x\=set([2,3,4])
@@ -340,6 +456,10 @@ x|([5,6])
 ~Error<br/>Error
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: fe259c80-5633-4da7-8b7f-33663c79d778
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 a1\=\{2,3,4\}
@@ -354,6 +474,10 @@ a2.difference(a1)
 ~\{4,5,6\}<br/>\{4,5,6\}
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ce94a94e-c375-48bc-972e-0d257011d358
+// Python versions: 3.10 3.11
 If x\=\{5,6,7,8\}, which of the following statements is false?{
 ~print(len(x)) 
 ~print(min(x))
@@ -361,6 +485,10 @@ If x\=\{5,6,7,8\}, which of the following statements is false?{
 =x[2]\=45
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e9404096-366d-4b93-b5af-eb0394a5c0e5
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 x\=\{6,7,8\}
@@ -374,6 +502,10 @@ x-y
 ~Error as the duplicate item 6 is present in both sets
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2727e5cf-513b-4a40-ac85-fd9757366425
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 m\=set('pqrst')
@@ -389,6 +521,10 @@ n
 ~\{'p','r','t'\}<br/>\{'x','y','z'\}
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 35f099fa-05a7-4b68-8318-928e9eb0e357
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 x\=\{2,3,4\}
@@ -402,6 +538,10 @@ x-y
 ~frozenset(\{2,3\})
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 45c0299e-fcd1-4024-8f0c-49b392dfe57a
+// Python versions: 3.10 3.11
 The following Python code results in an error.
 <br/><code>
 a\=\{1,2,3,[4,5]\}
@@ -411,6 +551,10 @@ a\=\{1,2,3,[4,5]\}
 ~False
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 06270bbe-68f9-499e-af18-efc71bfeda27
+// Python versions: 3.10 3.11
 Write a list comprehension for number and its cube for\:
 <br/><code>
 a\=[2,3,4,5,6,7,8,9,10]
@@ -422,6 +566,10 @@ a\=[2,3,4,5,6,7,8,9,10]
 ~[x^3 in a]
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: fecb0537-331d-44ff-9258-70bdcdf8fb00
+// Python versions: 3.10 3.11
 Which of these about a set is not true?{
 ~Mutable data type
 ~Allows duplicate values
@@ -429,6 +577,10 @@ Which of these about a set is not true?{
 =Immutable data type
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9fd83831-41fd-4cb6-b378-9ac5e4ded312
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 x\=\{3,4,5,6\}
@@ -440,6 +592,10 @@ x\=\=y
 ~False
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: bac90a20-b5ca-4ec3-bbe0-4d1d930740ea
+// Python versions: 3.10 3.11
 Which of the following is not the correct syntax for creating a set?{
 =set([[1,2],[3,4]])
 ~set([1,2,2,3,4])
@@ -447,6 +603,10 @@ Which of the following is not the correct syntax for creating a set?{
 ~\{1,2,3,4\}
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7b638e80-1042-4ecb-9af0-530ec18bfb31
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 x \= [3,3,4,5,5,5]
@@ -466,6 +626,10 @@ for i in filter(test, x)\:
 ~3 4 5 5 5
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 028231dc-fcca-4e0e-b5f3-a305e5810e82
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 x\=\{2,3,4\}
@@ -480,6 +644,10 @@ x
 ~Error, copying of sets isn't allowed
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 90d17384-7e94-4cb4-908e-648705f5c8d3
+// Python versions: 3.10 3.11
 Which of the following functions will return the symmetric difference between two sets, x and y?{
 ~x | y
 =x ^ y
@@ -487,11 +655,19 @@ Which of the following functions will return the symmetric difference between tw
 ~x - y
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 17250533-5500-4f18-9f0f-8cb4e2e5b13d
+// Python versions: 3.10 3.11
 Set members must not be hashable.{
 ~True
 =False
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: f8b20f64-d209-4ecd-8dde-709899f5fab5
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 x\=\{6,5\}
@@ -505,6 +681,10 @@ x&lt;y
 ~Invalid operation
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 35484b24-8a11-44d4-aee5-543d043f7404
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 x\=\{2,3,4\}
@@ -519,6 +699,10 @@ print(z)
 ~False
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c8f21f4a-18be-4e85-a39d-aeeed67b094f
+// Python versions: 3.10 3.11
 Which of the following statements is used to create an empty set?{
 ~\{ \}
 =set()
@@ -526,6 +710,10 @@ Which of the following statements is used to create an empty set?{
 ~( )
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2fed62dd-3c2e-4aa3-8995-13e1abc7d137
+// Python versions: 3.10 3.11
 What will be the output of the following Python code snippet?
 <br/><code>
 s\=set('mno$pq')
@@ -538,6 +726,10 @@ s\=set('mno$pq')
 ~Error
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: f7551b72-170d-4831-a2df-4318d38d0578
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 x\=\{2,3,4\}
@@ -552,6 +744,10 @@ x
 ~Error, invalid syntax for remove
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3c657e0b-6a18-4340-84ce-e7f841c28834
+// Python versions: 3.10 3.11
 Which of the following lines of code will result in an error?{
 ~s\=\{abs\}
 ~s\=\{4, 'abc', (1,2)\}
@@ -559,6 +755,10 @@ Which of the following lines of code will result in an error?{
 =s\=\{abc\}
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 08cbf595-2402-4606-b14a-6939a17a3362
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 s\=\{3,4\}
@@ -571,6 +771,10 @@ s*3
 ~Error as multiplication creates duplicate elements which isn't allowed
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b8eed8eb-6cfe-40fb-8657-b6caaebb0680
+// Python versions: 3.10 3.11
 What will be the output of the following Python code snippet?
 <br/><code>
 for a in set ('xyz')\:
@@ -583,6 +787,10 @@ for a in set ('xyz')\:
 ~xyzxyz
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 85caea88-7efc-4a4d-b234-e588dc37b07b
+// Python versions: 3.10 3.11
 What will be the output of the following Python function?
 <br/><code>
 \{a for a in 'xyz'\}
@@ -595,6 +803,10 @@ What will be the output of the following Python function?
 ~\{'x','y','z'\}<br/>xyz<br/>xyz<br/>xyz
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e0ed5758-a506-4809-a093-263d17cc4dcb
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 x\=\{7,8,9\}
@@ -607,6 +819,10 @@ sum(x,7)
 ~Invalid syntax for sum method, too many arguments
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 61c7e592-9585-4c89-874b-0c418517a215
+// Python versions: 3.10 3.11
 Set makes use of _______ , Dictionary makes use of ________{
 ~keys, keys
 ~key values, keys
@@ -614,6 +830,10 @@ Set makes use of _______ , Dictionary makes use of ________{
 ~key values, key values
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 4b482d18-7da1-44de-881f-d61601ff47e7
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 x\=\{6>5, 0 , 5-5\}
@@ -627,6 +847,10 @@ any(x)
 ~False<br/>False
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b1eec896-5acd-4210-b4ae-a586657f39d6
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 x\=\{4,5,6\}
@@ -640,6 +864,10 @@ x
 ~Error, duplicate item present in list
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 85439d75-2439-4565-8444-6890e011b6b5
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 x\=\{1,2,3,4\}
@@ -653,6 +881,10 @@ len(x+y)
 ~Nothing is displayed
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 98acce01-ef62-49da-9d44-3490a5a5c985
+// Python versions: 3.10 3.11
 What will be the output of the following Python code?
 <br/><code>
 a1\=\{2,3,4\}
@@ -667,6 +899,10 @@ a2.isdisjoint(aa)
 ~False<br/>False
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9789846b-b623-41cb-9227-fcd4f70b0763
+// Python versions: 3.10 3.11
 What is the syntax of the following Python code?
 <br/><code>
 x\=frozenset(set([7,8,9]))

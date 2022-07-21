@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7e27269f-1827-4016-a6dc-129554f7d076
+// Python versions: 3.10 3.11
+If we have two sets, s1 and s2, and we want to check if all the elements of s1 are present in s2 or not, we can use the function\:
+{
+~s2.issubset(s1)
+=s2.issuperset(s1)
+~s1.issuperset(s2)
+~s1.isset(s2)
+}
+

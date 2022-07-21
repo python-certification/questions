@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 59040868-9ffb-457b-8a5a-9e8ccfbc4e09
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+x\=set([2,3,4])
+x.union([5,6])
+x|([5,6])
+</code>
+{
+~\{2,3,4,5,6\}<br/>\{2,3,4,5,6\}
+~Error<br/>\{2,3,4,5,6\}
+=\{2,3,4,5,6\}<br/>Error
+~Error<br/>Error
+}
+

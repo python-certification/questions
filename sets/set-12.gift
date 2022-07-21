@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e57b432f-641f-435b-834b-a445732f4bb7
+// Python versions: 3.10 3.11
+If x\=\{3,4,5\}, what happens when x.add(5) is executed?{
+~x\=\{3,3,4,5\}
+=x\=\{3,4,5\}
+~Error as there is no add function for set data type
+~Error as 5 already exists in the set
+}
+

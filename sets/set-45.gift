@@ -1,0 +1,18 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 35484b24-8a11-44d4-aee5-543d043f7404
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+x\=\{2,3,4\}
+y\=\{2,3,4\}
+z\=x.issubset(y)
+print(z)
+</code>
+{
+=True
+~Error, no method called issubset() exists
+~Syntax error for issubset() method
+~False
+}
+

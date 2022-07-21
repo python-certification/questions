@@ -1,0 +1,19 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 4f001176-1bd9-4ead-a752-ab5f52202396
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+x\=set('mno')
+y\=set('pqr')
+y.intersection_update(x)
+print(x)
+print(y)
+</code>
+{
+~set()<br/>\{'p','q','r'\}
+~\{\}<br/>\{\}
+=\{'m','n','o'\}<br/>set()
+~set()<br/>set()
+}
+

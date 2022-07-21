@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3cc0f953-8d9c-49b8-983e-6793b8977415
+// Python versions: 3.10 3.11
+What will be the output of the following Python code, if x1\= \{2, 3, 4\}?
+<br/><code>
+x1.issubset(x1)
+</code>
+{
+=True
+~Error
+~No output
+~False
+}
+

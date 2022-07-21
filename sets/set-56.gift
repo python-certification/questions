@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b1eec896-5acd-4210-b4ae-a586657f39d6
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+x\=\{4,5,6\}
+x.update([2,3,4])
+x
+</code>
+{
+~Error, no method called update for set data type
+=\{2, 3, 4, 5, 6\}
+~Error, list can't be added to set
+~Error, duplicate item present in list
+}
+

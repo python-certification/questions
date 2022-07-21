@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9789846b-b623-41cb-9227-fcd4f70b0763
+// Python versions: 3.10 3.11
+What is the syntax of the following Python code?
+<br/><code>
+x\=frozenset(set([7,8,9]))
+x
+</code>
+{
+~\{7,8,9\}
+=frozenset(\{8, 9, 7\})
+~Error, not possible to convert set into frozenset
+~Syntax error
+}

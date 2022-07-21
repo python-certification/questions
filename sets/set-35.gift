@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 45c0299e-fcd1-4024-8f0c-49b392dfe57a
+// Python versions: 3.10 3.11
+The following Python code results in an error.
+<br/><code>
+a\=\{1,2,3,[4,5]\}
+</code>
+{
+=True
+~False
+}
+

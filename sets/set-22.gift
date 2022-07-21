@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e648ac11-01ef-40eb-88c3-2628db7eeda3
+// Python versions: 3.10 3.11
+The output of the following code is\: class<'set'>
+<br/><code>
+type(\{\})
+</code>
+{
+=True
+~False
+}
+

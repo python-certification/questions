@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 461f81cd-1211-438f-9b67-ec130af5888f
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+nums \= set([2,2,3,4,4,4,5,5])
+print(len(nums)) 
+</code>
+{
+~7 
+~Error, invalid syntax for formation of set
+=4
+~8
+}
+

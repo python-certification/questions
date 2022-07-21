@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0cf4101a-9d49-4618-976c-a73c0411edc8
+// Python versions: 3.10 3.11
+The _________ function removes the first element of a set and the last element of a list.{
+~remove
+=pop
+~discard
+~dispose
+}
+

@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 08cbf595-2402-4606-b14a-6939a17a3362
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+s\=\{3,4\}
+s*3
+</code>
+{
+~Error as unsupported operand type for set data type
+=\{3,4,3,4,3,4\}
+~\{3,4\}
+~Error as multiplication creates duplicate elements which isn't allowed
+}
+

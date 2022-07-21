@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 73eb2651-7701-44de-abef-03fe09402029
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+x\=set()
+type(x)
+</code>
+{
+~&lt;'set'&gt;
+=&lt;class 'set'&gt;
+~set
+~class set
+}
+

@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 85caea88-7efc-4a4d-b234-e588dc37b07b
+// Python versions: 3.10 3.11
+What will be the output of the following Python function?
+<br/><code>
+\{a for a in 'xyz'\}
+\{a*3 for a in 'xyz'\}
+</code>
+{
+~\{zyx\}<br/>xxx<br/>yyy<br/>zzz
+~xyz<br/>xyz xyz xyz
+=\{'z','y','x'\}<br/>\{'zzz','xxx','yyy'\}
+~\{'x','y','z'\}<br/>xyz<br/>xyz<br/>xyz
+}
+

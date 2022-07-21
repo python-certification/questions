@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e9404096-366d-4b93-b5af-eb0394a5c0e5
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+x\=\{6,7,8\}
+y\=\{4,9,8\}
+x-y
+</code>
+{
+=\{6, 7\}
+~\{6\}
+~Error as unsupported operand type for set data type
+~Error as the duplicate item 6 is present in both sets
+}
+

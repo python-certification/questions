@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 85439d75-2439-4565-8444-6890e011b6b5
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+x\=\{1,2,3,4\}
+y\=\{3,4,5,6\}
+len(x+y)
+</code>
+{
+~4
+=Error, unsupported operand type(s) for +\: 'set' and 'set'
+~2
+~Nothing is displayed
+}
+

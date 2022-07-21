@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c8f21f4a-18be-4e85-a39d-aeeed67b094f
+// Python versions: 3.10 3.11
+Which of the following statements is used to create an empty set?{
+~\{ \}
+=set()
+~[ ]
+~( )
+}
+

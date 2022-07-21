@@ -1,0 +1,19 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2727e5cf-513b-4a40-ac85-fd9757366425
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+m\=set('pqrst')
+n\=set('xyzqs')
+m.difference_update(n)
+m
+n
+</code>
+{
+~\{'p','q','r','s','t'\}<br/>\{'x','y','z'\}
+=\{'t','r','p'\}<br/>\{'x','q','y','s','z'\}
+=\{'q','s'\}<br/>\{'q','s'\}
+~\{'p','r','t'\}<br/>\{'x','y','z'\}
+}
+

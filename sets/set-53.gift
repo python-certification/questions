@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e0ed5758-a506-4809-a093-263d17cc4dcb
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+x\=\{7,8,9\}
+sum(x,7)
+</code>
+{
+~7
+=31
+~30
+~Invalid syntax for sum method, too many arguments
+}
+

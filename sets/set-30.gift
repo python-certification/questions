@@ -1,0 +1,18 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: fe259c80-5633-4da7-8b7f-33663c79d778
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+a1\=\{2,3,4\}
+a2\=\{4,5,6,7\}
+a1.difference(a2)
+a2.difference(a1)
+</code>
+{
+=\{2,3\}<br/>\{5,6,7\}
+~\{2,3\}<br/>\{2,3\}
+~\{4,5,6\}<br/>\{2,3\}
+~\{4,5,6\}<br/>\{4,5,6\}
+}
+

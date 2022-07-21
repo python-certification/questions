@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b8eed8eb-6cfe-40fb-8657-b6caaebb0680
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+for a in set ('xyz')\:
+&nbsp;&nbsp;print(a*2)
+</code>
+{
+=zz<br/>xx<br/>yy
+~xyz<br/>xyz
+~xxyyzz
+~xyzxyz
+}
+

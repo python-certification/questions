@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 519262bc-eaa9-418d-8d68-66559cfe6610
+// Python versions: 3.10 3.11
+Is the following Python code valid?
+<br/><code>
+x\=\{5,6,\{9,7\}\}
+print(x[2][0])
+</code>
+{
+~Yes, 7 is printed
+~Error, elements of a set can't be printed
+=Error, subsets aren't allowed
+~Yes, \{9,7\}is printed
+}
+

@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3c657e0b-6a18-4340-84ce-e7f841c28834
+// Python versions: 3.10 3.11
+Which of the following lines of code will result in an error?{
+~s\=\{abs\}
+~s\=\{4, 'abc', (1,2)\}
+~s\=\{2, 2.2, 3, 'xyz'\}
+=s\=\{abc\}
+}
+

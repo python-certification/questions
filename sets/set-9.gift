@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1d08d209-d9a4-4314-a652-54b23a5f6cf9
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+x\=\{2,3,4\}
+x.update(5)
+x
+</code>
+{
+~\{2, 3, 4, 5\}
+~\{2,3,4,5\}
+~\{5, 2, 3, 4\}
+=Error
+}
+

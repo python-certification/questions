@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 4193d3e7-a9f1-4671-a7e3-ef6b124f42cc
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+x\=[2,3,4,5,3,'pq',4]
+set(x)
+x
+</code>
+{
+~\{2,3,4,5,3,'pq',4\}<br/>[2,3,4,5,3,'pq',4]
+=\{2,3,4,5,'pq'\}<br/>[2,3,4,5,3,'pq',4]
+~\{2,5,'pq'\}<br/>[2,5,'pq']
+~\{2,3,4,5,'pq'\}<br/>[2,3,4,5,'pq']
+}
+

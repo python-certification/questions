@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b647d31a-44df-41b1-a429-84acbc94d6e8
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+x\=\{5,6,7\}
+y\=\{7,8,9\}
+print(x|y)
+</code>
+{
+~Invalid operation 
+=\{5, 6, 7, 8, 9\}
+~\{5, 6, 8, 9\}
+~\{5\}
+}
+

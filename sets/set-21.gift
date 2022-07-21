@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 74beff85-f745-480e-a3c9-0a4e6de1940d
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+x\=\{4,7,8,8,9\}
+x
+</code>
+{
+~\{4, 7, 9\}
+=\{8, 9, 4, 7\}
+~\{4, 7, 8, 8, 9\}
+~Error
+}
+

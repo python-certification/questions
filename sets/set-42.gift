@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 90d17384-7e94-4cb4-908e-648705f5c8d3
+// Python versions: 3.10 3.11
+Which of the following functions will return the symmetric difference between two sets, x and y?{
+~x | y
+=x ^ y
+~x & y
+~x - y
+}
+

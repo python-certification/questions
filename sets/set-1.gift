@@ -1,0 +1,18 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 28c172ff-e742-437c-9cb5-9b6f8df4479d
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+x\=[2,5,4,6,3]
+y\=[4,2,6,3,5]
+x\=\=y
+set(x)\=\=set(y)
+</code>
+{ 
+~True<br/>False
+~False<br/>False
+=False<br/>True
+~True<br/>True
+}
+

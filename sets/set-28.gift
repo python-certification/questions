@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c1c3ddf8-5ad8-4679-8ce7-14d3ad1af65c
+// Python versions: 3.10 3.11
+Which of the following functions cannot be used on heterogeneous sets?{
+~pop
+~remove
+~update
+=sum
+}
+

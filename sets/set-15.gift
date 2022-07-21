@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c580045f-6c4d-4b4e-b3be-b0d9eb3cd0bd
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+x\=\{1,3,5\}
+y\=\{2,4,6\}
+x+y
+</code>
+{
+~\{1,3,5,2,4\}
+~\{1,3,5,2,4,6\}
+~Error as the duplicate item 6 is present in both sets
+=Error as unsupported operand type(s) for +\: 'set' and 'set'
+}
+

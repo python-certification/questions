@@ -1,0 +1,18 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 98acce01-ef62-49da-9d44-3490a5a5c985
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+a1\=\{2,3,4\}
+a2\=\{5,6,7\}
+a1.isdisjoint(a2)
+a2.isdisjoint(aa)
+</code>
+{
+~True<br/>False
+~False<br/>True
+=True<br/>True
+~False<br/>False
+}
+

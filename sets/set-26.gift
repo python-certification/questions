@@ -1,0 +1,25 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1ba970ad-9b65-427b-a85b-598c4eb100ad
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+x1\=\{4,5\}
+x2\=\{2,3\}
+x3\=set()
+a\=0
+b\=0
+for a in x1\:
+&nbsp;&nbsp;for b in x2\:
+&nbsp;&nbsp;&nbsp;&nbsp;x3.add((a,b))
+&nbsp;&nbsp;&nbsp;&nbsp;a+\=1
+&nbsp;&nbsp;&nbsp;&nbsp;b+\=1
+print(x3)
+</code>
+{
+~\{(4, 5), (2, 3)\}
+~Error
+=\{(6, 3), (4, 2), (5, 2), (5, 3)\}
+~\{(4, 2), (5, 3)\}
+}
+

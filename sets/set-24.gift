@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 36279eb4-cf7a-4c04-b466-634018f8c40d
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+x \= \{2,3,4\}
+y \= x.add(5)
+y
+</code>
+{
+~0
+~\{2,3,4,5\}
+~\{2,3,4\}
+=None
+}
+

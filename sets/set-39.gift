@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: bac90a20-b5ca-4ec3-bbe0-4d1d930740ea
+// Python versions: 3.10 3.11
+Which of the following is not the correct syntax for creating a set?{
+=set([[1,2],[3,4]])
+~set([1,2,2,3,4])
+~set((1,2,3,4))
+~\{1,2,3,4\}
+}
+

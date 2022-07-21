@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0aac35ad-de53-4ad4-a360-b65818b042e3
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+\{x**2 for x in range(3)\}
+</code>
+{
+~\{1, 4, 9\}
+~\{0, 1, 4, 9\}
+~Error
+=\{0, 1, 4\}
+}
+

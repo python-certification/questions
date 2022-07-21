@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1ad6bb85-5003-4a25-a45a-ab034ab26337
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+x\=\{2,3,4\}
+x.intersection_update
+(\{3,4,5,6\})
+</code>
+{
+=\{3, 4\}
+~Error, duplicate item present in list
+~Error, no method called intersection_update for set data type
+~\{2,3,5\}
+}
+
