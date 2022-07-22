@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c447abfb-5855-4092-8185-707469857f7a
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print('pqqrppqpqq'.lstrip('pqq'))
+</code>
+{
+~error
+=rppqpqq
+=r
+=pqr
+}
+

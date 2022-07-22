@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 24735bfb-5f3d-48bf-822e-620b9da57987
+// Python versions: 3.10 3.11
+ 
+To concatenate two strings to a third what statements are applicable? {
+~s3 \= s1 . s2 
+~s3 \= s1.add(s2)
+=s3 \= s1.__add__(s2)
+~s3 \= s1 * s2
+}
+

@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e7aedfc1-34ef-4f1e-be54-851031f4d773
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("Python \{name1\}and \{name2\}".format(name1\='faa', name2\='bin'))
+</code>
+{
+=Python faa and bin
+~Python \{name1\}and \{name2\}
+~Error
+~Python and
+}
+

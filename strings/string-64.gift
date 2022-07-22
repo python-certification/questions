@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 501eb435-f5d9-4fc7-a6ea-e87723b70e26
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('2@ f'.isprintable())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+

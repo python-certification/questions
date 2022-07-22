@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0216801a-58e6-46b0-9b65-352e4704a6d0
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('The sum of \{0\}and \{1\} is \{2\}'.format(5. 12. 17))
+</code>
+{
+~Error
+=The sum of 5 and 12 is 17
+~The sum of 0 and 1 is 2
+~None of the mentioned
+}
+

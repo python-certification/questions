@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 450ad94c-7875-4a6a-b7b6-2aebc2701faa
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("mnopqr".find("op"))
+</code>
+{
+~True
+=2
+~3
+~None of the mentioned
+}
+

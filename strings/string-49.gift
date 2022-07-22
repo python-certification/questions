@@ -1,0 +1,24 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 020dc7ca-bb8f-4b17-9dda-bb6ece987072
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+class Name\:
+&nbsp;&nbsp;def __init__(self, firstName, mi, lastName)\:
+&nbsp;&nbsp;&nbsp;&nbsp;self.firstName \= firstName
+&nbsp;&nbsp;&nbsp;&nbsp;self.mi \= mi
+&nbsp;&nbsp;&nbsp;&nbsp;self.lastName \= lastName
+firstName \= "Robin"
+name \= Name(firstName, 'F', "Smith")
+firstName \= "Jack"
+name.lastName \= "Roy"
+print(name.firstName, name.lastName)
+</code>
+{
+~Jack Roy
+=Robin Roy
+~Jack Smith
+~Robin Smith
+}
+

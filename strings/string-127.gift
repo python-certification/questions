@@ -1,0 +1,18 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 4613dec1-1bee-4063-ba9a-6cc5457afa66
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+str1 \= 'python'
+str2 \= ','
+str3 \= 'string'
+str1[-1\:]
+</code>
+{
+~nthopy
+~python
+~h
+=n
+}
+

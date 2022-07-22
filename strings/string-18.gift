@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 075a4034-2b44-48b6-a7a9-37ee12ed82d3
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print("Python \{name1\}and \{name2\}".format('fff','bin'))
+</code>
+{
+~Python fff and bin
+~Python \{name1\}and \{name2\}
+=Error
+~Python and
+}
+

@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: aa768b64-81c1-4ea2-8313-5b83148ca9b2
+// Python versions: 3.10 3.11
+What will be the output of the following Python statement?(python 3.xx)
+<br/><code>
+print(format("Python","10s"), end \= '\#')
+print(format(100,"4d"), end \= '\#')
+print(format(900.666, "3.2f"))
+</code>
+{
+~Python\# 100\#900.66
+~Python\#100\# 900.67
+=Python \# 100\#900.67
+~Python\#100\#900.67
+}
+

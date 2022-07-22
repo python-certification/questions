@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 34f2cb1a-5096-4cf4-b474-07ec1ae52ce7
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('The sum of \{0\:b\}and \{1\:x\} is \{2\:o\}'.format(2. 12. 14))
+</code>
+{
+~The sum of 2 and 12 is 14
+=The sum of 10 and c is 16
+~The sum of 10 and a is c
+~Error
+}
+

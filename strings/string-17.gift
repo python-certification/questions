@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 73228b7e-e0f0-41e6-9e6e-cd92584c44d8
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print('\{0\:.2\}'.format(2/3))
+</code>
+{
+~0.677777
+=0.67
+~0.6777\:.2
+~Error
+}
+

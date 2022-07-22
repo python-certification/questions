@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: be664aad-8044-4060-9ac9-54a4ddec7e06
+// Python versions: 3.10 3.11
+ 
+What will be the output of the "hello" +1+2+3? {
+~hello123 
+~hello
+=Error
+~hello6
+}
+

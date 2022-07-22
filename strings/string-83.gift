@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c6929d55-4078-4a8f-a7c4-94b4d9c36824
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print('*', "pqrstv".center(7), '*')
+</code>
+{
+~* pqrstv*
+=* pqrstv *
+~*pqrstv*
+~* pqrstv *
+}
+

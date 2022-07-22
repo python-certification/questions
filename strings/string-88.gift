@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ee8f4da0-fbae-4714-b750-9840268e81c6
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("pqqrpqrprpqq".count('qq',1))
+</code>
+{
+=2
+~0
+~1
+~none of the mentioned
+}
+

@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: bcfc04ed-9241-4911-8e09-88bc6daac4c4
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print (r"\nworld)
+</code>
+{
+~a new line and world
+=\nworld
+~the letter r and then world
+~error
+}
+

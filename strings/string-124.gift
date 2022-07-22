@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 8839a475-639b-4a9a-b66d-5a38565e6d48
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python statement?
+<br/><code>
+"x" + "yz"
+</code>
+{
+~x 
+~yz
+~yzx
+=xyz
+}
+

@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: a030dcfb-19b0-4de3-a2a7-33baa05fe525
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+example \= "python"
+example.rfind("n")
+</code>
+{
+~4
+~3
+=5
+~0
+}
+

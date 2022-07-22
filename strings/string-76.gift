@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: f0c3219c-308e-49bf-9b8b-4264b9b35f19
+// Python versions: 3.10 3.11
+ 
+What will be displayed by print(ord('b') - ord('a'));? {
+=1
+~0
+~-1
+~2
+}
+

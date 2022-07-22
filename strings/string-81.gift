@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7e14a22f-df45-4c46-84ed-a044aad48840
+// Python versions: 3.10 3.11
+ What will be the output of the following Python code?
+<br/><code>
+print("Python \{0!r\}and \{0!s\}".format('fbb','bin'))
+</code>
+{
+~Python fbb and fbb
+=Python 'fbb' and fbb
+~Python fbb and 'bin'
+~Error
+}
+

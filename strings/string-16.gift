@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0ee42e4c-4d5f-4d42-88e2-10921a04fdff
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print("pq\trs\ttu".expandtabs(4))
+</code>
+{
+=pq rs tu
+~pqrstu
+~pq\trs\ttu
+~pq rs tu
+}
+

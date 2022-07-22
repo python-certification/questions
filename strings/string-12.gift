@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ba88dbfd-e462-4c0d-9a48-3c441b6cf2ae
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('Python Exercises'.istitle())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+

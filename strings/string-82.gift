@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 11774ca4-a66c-4313-8e3e-5ab677f0a68a
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python statement?
+<br/><code>
+print('x\95\x98')
+</code>
+{
+~Error
+~95<br/>98
+=x\95˜
+~\x95\x98
+}
+

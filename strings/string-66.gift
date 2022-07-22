@@ -1,0 +1,19 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 886af10a-4d60-4a85-bbdc-87ce713c88c5
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("S", end\=' ')
+print("R", end\=' ')
+print("Q", end\=' ')
+print("P", end\=' ')
+</code>
+{
+~SRQP
+=S R Q P
+~P Q R S
+~p q r s
+}
+

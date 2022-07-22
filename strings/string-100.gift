@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c3af0075-cebf-49c6-adbf-cc0a36bc5e3e
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('xy'.zfill(4))
+</code>
+{
+=00xy
+~x00y
+~xy00
+~x0y0
+}
+

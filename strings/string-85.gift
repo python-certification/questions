@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 347fd563-c9f8-4371-9770-0708d64a65f2
+// Python versions: 3.10 3.11
+ 
+What function do you use to read a string? {
+=input("Enter a string")
+~eval(input("Enter a string"))
+~enter("Enter a string")
+~eval(enter("Enter a string"))
+}
+

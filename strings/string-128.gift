@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2f21aeaa-3104-4500-8eca-968e5e10d75c
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('str1'.isidentifier())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+

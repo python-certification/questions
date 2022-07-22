@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3c969b44-95aa-4622-bf5c-627d75e96fe8
+// Python versions: 3.10 3.11
+ 
+The output of executing string.ascii_letters can also be achieved by\: {
+~string.ascii_lowercase_string.digits
+=string.ascii_lowercase+string.ascii_upercase
+~string.letters
+~string.lowercase_string.upercase
+}
+

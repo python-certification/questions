@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9c935935-c52b-4392-947b-b75edeacf8e4
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print("pqrstv".center(7,'1'))
+</code>
+{
+=1pqrstv
+~pqrstv1
+~pqrstv
+~error
+}
+

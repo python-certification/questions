@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: a61f5ee1-194c-4b3b-98bd-3239086e6491
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("mnopqr".center(0))
+</code>
+{
+~op
+=mnopqr
+~error
+~none of the mentioned
+}
+

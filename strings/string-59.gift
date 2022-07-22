@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b5d8e0e8-c9b2-4d96-8ce8-4d200ec0ce36
+// Python versions: 3.10 3.11
+ What will be the output of the following Python code snippet?
+<br/><code>
+print(''''''''.isspace())
+</code>
+{
+~True
+=False
+~None
+~Error
+}
+

@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ddbe1779-a4c6-46b3-ae7b-717ed4478fef
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print("pq\trs\ttv".expandtabs('+'))
+</code>
+{
+~pq+rs+tv
+~pq++++++++rs++++++++tv
+~pq rs tv
+=None of the mentioned
+}
+

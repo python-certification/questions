@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b60369c8-ac25-4c22-bd8d-2adaa436508c
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('__faa__'.isidentifier())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+

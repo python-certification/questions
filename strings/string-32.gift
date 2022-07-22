@@ -1,0 +1,22 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d983ab8f-ca5c-4451-9547-ba99efdb6ba5
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+class X\:
+&nbsp;&nbsp;def __init__(self, param)\:
+&nbsp;&nbsp;&nbsp;&nbsp;self.o1 \= param
+class Y(X)\:
+&nbsp;&nbsp;def __init__(self, param)\:
+&nbsp;&nbsp;&nbsp;&nbsp;self.o2 \= param
+obj \= Y(22)
+print "%d %d" % (obj.o1, obj.o2)
+</code>
+{
+~None None
+~None 22
+~22 None
+=Error is generated
+}
+

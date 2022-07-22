@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: bf0d72ee-b5de-4229-98f9-704b8450c9e6
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print('x'.maketrans('XYZ','234'))
+</code>
+{
+=\{88\: 50, 89\: 51, 90\: 52\}
+~\{80\: 50, 81\: 51, 82\: 52\}
+~432
+~234
+}
+

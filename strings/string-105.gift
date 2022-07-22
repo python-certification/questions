@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1e941156-f123-4f97-be01-2b05de602e3b
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('mnopqropstop'.split('op',2))
+</code>
+{
+=['mn', 'qr', 'stop']
+~['mn', 'qropstop']
+~['qropstop','mn' ]
+~none of the mentioned
+}
+

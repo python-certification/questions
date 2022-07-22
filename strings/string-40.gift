@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e98b8bbe-8639-438d-a87b-5052537e090f
+// Python versions: 3.10 3.11
+ 
+If a class defines the __str__(self) method, for an object obj for the class, you can use which command to invoke the __str__ method. {
+~obj.__str__()
+~str(obj)
+~print obj
+=all of the mentioned
+}
+

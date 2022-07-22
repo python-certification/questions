@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d2f3326c-c673-4996-a934-d2d39297c442
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("pqr XYZ".capitalize())
+</code>
+{
+~pqr xyz
+~PQR XYZ
+=Pqr xyz
+~Pqr Xyz
+}
+

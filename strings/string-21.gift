@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 6af18904-ce01-4f6f-814b-f19fc718b7eb
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print("abbcabcacabb".count('abb',2,11))
+</code>
+{
+~2
+=0
+~1
+~error
+}
+

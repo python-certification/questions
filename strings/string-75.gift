@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 42a7b467-7dd2-467a-b517-1ec538dfdbc0
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python statement?
+<br/><code>
+print(chr(ord('p')+1))
+</code>
+{
+~a
+=q
+~r
+~Q
+}
+

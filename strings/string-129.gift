@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2b3acf0a-e380-421d-9fce-42bc043d447e
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('15'.isnumeric())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+

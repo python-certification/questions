@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 90474c71-6780-4a15-acfa-2eb77ebe77be
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('xyz'.islower())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+

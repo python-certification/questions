@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3dccfc16-4bad-43a4-b678-0016293f42fe
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print('''
+\tboo'''.lstrip())
+</code>
+{
+~\tboo
+=boo
+~\boo
+~none of the mentioned
+}
+

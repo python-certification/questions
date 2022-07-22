@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 15cade9f-2f01-4b1f-97b2-8a110ca376a4
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print('zyx'.maketrans('xyz','234'))
+</code>
+{
+=\{120\: 50, 121\: 51, 122\: 52\}
+~\{97\: 49, 98\: 50, 99\: 51\}
+~\{100\: 50, 101\: 51, 102\: 52\}
+~234
+}
+

@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0ddfa653-3d0a-4a6a-9ab6-e6d6c43f34e9
+// Python versions: 3.10 3.11
+Suppose s is "\t\tWorld\n", what is s.strip()? {
+~\t\tworld\n
+~\t\tWorld\n
+~\t\tWORLD\n
+=World
+}
+

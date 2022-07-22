@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d0cc79ab-6383-44b3-9b1f-16076f1599ed
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print(''.isdigit())
+</code>
+{
+~True
+=False
+~None
+~Error
+}
+

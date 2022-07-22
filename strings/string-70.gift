@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3555f551-f733-4571-acf0-4c65d80014e1
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('Xy!4'.swapcase())
+</code>
+{
+~XY!@
+~xy12
+=xY!4
+~xY1@
+}
+

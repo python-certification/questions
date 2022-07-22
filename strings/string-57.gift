@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: dc3ecc8e-af47-404a-b4e5-05a538eee470
+// Python versions: 3.10 3.11
+ 
+To check whether string s1 contains another string s2, use _______ {
+=s1.__contains__(s2)
+~s2 in s1
+~s1.contains(s2)
+~si.in(s2)
+}
+

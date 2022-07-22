@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 545833b9-f41a-4f9c-87df-d0e53f967e62
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+str1\="redrose"
+str1[\:\:-1]
+</code>
+{
+=esorder
+~red
+~rose
+~redrose
+}
+

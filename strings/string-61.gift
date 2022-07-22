@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 652f9b27-452c-4043-b1c2-eb5dc0ed9c81
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("Python \{1\}and \{0\}".format('bin','fab'))
+</code>
+{
+~Python bin and fab
+=Python fab and bin
+=Error
+=None of the mentioned
+}
+

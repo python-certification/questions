@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: fee40cd5-caa4-4285-8ca8-36d78c01bd71
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print('2Xy@'.lower())
+</code>
+{
+~x
+=2xy@
+~xy
+~y
+}
+

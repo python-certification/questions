@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 85281f1d-2ced-479e-9731-0e5cb0250225
+// Python versions: 3.10 3.11
+What is "Hello".replace("l", "e")? {
+=Heeeo
+~Heelo
+~Heleo
+~None
+}
+

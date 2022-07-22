@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 346c2fc3-c745-40a4-a76d-7fa88c228dce
+// Python versions: 3.10 3.11
+Suppose x is 6 and y is 4, x + y is same as ________ {
+~x.__add(y)
+=x.__add__(y)
+~x.__Add(y)
+~x.__ADD(y)
+}
+

@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: bfc61ddb-39a5-48e5-adee-b3bba7feabe3
+// Python versions: 3.10 3.11
+The format function, when applied on a string returns ________ {
+~Error
+~int
+~bool
+=str
+}
+

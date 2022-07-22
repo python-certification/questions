@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9d9d408a-b723-4fd0-aad7-028f4126436b
+// Python versions: 3.10 3.11
+What will be the output of the following Python statement?
+<br/><code>
+chr(ord('P'))
+</code>
+{
+=P
+~p
+~Error
+~b
+}
+

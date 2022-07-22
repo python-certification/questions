@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 6207465c-4bb5-4611-8cf3-8cd3ec9b2bfa
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('+88'.zfill(4))
+</code>
+{
+~0+88
+~0088
+=+088
+~++88
+}
+

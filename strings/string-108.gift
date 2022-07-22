@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 19c5fc3c-958a-46f6-8c44-5efa931303d4
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print('pqppqqrppq'.lstrip('pqq'))
+</code>
+{
+=rppq
+~rq
+~rppqrqrp
+~none of the mentioned
+}
+

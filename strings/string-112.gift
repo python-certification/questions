@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e814b8cf-afa6-493a-a29e-44e135de6837
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("mnopqr".center(10,'12'))
+</code>
+{
+~12mnopqr12
+~mnopqr1212
+~1212mnopqr
+=error
+}
+

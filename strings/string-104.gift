@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c8119701-b81f-47cb-9dde-674c6f7e2b54
+// Python versions: 3.10 3.11
+<code>print(0xA + 0xB + 0xC)</code>\: {
+~0xA0xB0xC
+~Error
+~0x22
+=33
+}
+

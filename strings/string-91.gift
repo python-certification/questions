@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 8c4fe6a4-d050-4490-a86c-ecbafa12b150
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('pq\nrs\ntv'.splitlines())
+</code>
+{
+=['pq', 'rs', 'tv']
+~['pq\\n', 'rs\\n', 'tv\\n']
+~['pq\\n', 'rs\\n', 'tv']
+~['pq', 'rs', 'tv\\n']
+}
+

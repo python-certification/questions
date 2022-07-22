@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b781c059-1137-4b89-ae9e-092fc750a175
+// Python versions: 3.10 3.11
+What will be the output of the following Python statement?
+<br/><code>
+"pqrs"[2\:]
+</code>
+{
+~p
+~pq
+=rs
+~sr
+}
+

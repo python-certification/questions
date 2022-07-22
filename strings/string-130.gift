@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: a74e521c-80cc-492c-9bea-7f1696fe10e8
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('pqrtvs'.replace('rs', '10'))
+</code>
+{
+~pq1tvo
+=pqrtvs
+~pq1tvs
+~pq12ts2
+}
+

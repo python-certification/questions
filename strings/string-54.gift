@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: eec1137d-cac9-4d19-ad81-5b7a0ed4c5c2
+// Python versions: 3.10 3.11
+Given a string <code>example\="hello"</code> what is the output of <code>example.count('l')</code>? {
+=2
+~1
+~None
+~0
+}
+

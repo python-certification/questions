@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: cfa68928-113c-4e4d-96ff-497f308c5f3e
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print("xxyxyyxy".find("x"))
+</code>
+{
+~4
+=0
+~Error
+~True
+}
+

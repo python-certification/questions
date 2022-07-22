@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 33a394a7-141c-4241-bb10-3412fed8adfe
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+example \= "hello world"
+print("%s" % example[4\:7])
+</code>
+{
+=o w
+~world
+~he
+~rl
+}
+

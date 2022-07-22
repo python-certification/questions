@@ -1,8 +1,8 @@
 Suppose x is 6 and y is 4, x + y is same as ________ {
 ~x.__add(y)
 =x.__add__(y)
-x.__Add(y)
-x.__ADD(y)
+~x.__Add(y)
+~x.__ADD(y)
 }
 
 What will be the output of the following Python code snippet?
@@ -72,7 +72,7 @@ print('2.3'.isnumeric())
 =False
 ~None
 ~Error
-} 
+}
 
 What will be the output of the following Python statement?
 <br/><code>
@@ -126,10 +126,10 @@ print('Python Exercises'.istitle())
 
 What will be the output of the following Python code?
 <br/><code>
-print("Python \{\} and \{\}".format('fbb','bin'))
+print("Python \{\}and \{\}".format('fbb','bin'))
 </code>
 {
-~Python \{\} and \{\}
+~Python \{\}and \{\}
 =Python fbb and bin
 ~Error
 ~Python and
@@ -181,11 +181,11 @@ print('\{0\:.2\}'.format(2/3))
 
 What will be the output of the following Python code?
 <br/><code>
-print("Python \{name1\} and \{name2\}".format('fff','bin'))
+print("Python \{name1\}and \{name2\}".format('fff','bin'))
 </code>
 {
 ~Python fff and bin
-~Python \{name1\} and \{name2\}
+~Python \{name1\}and \{name2\}
 =Error
 ~Python and
 }
@@ -323,11 +323,11 @@ print("efghij".find("gh") \=\= "gh" in "efghij")
 
 What will be the output of the following Python code?
 <br/><code>
-print("Python \{0\} and \{1\}".format('fff', 'bin'))
+print("Python \{0\}and \{1\}".format('fff', 'bin'))
 </code>
 {
 =Python fff and bin
-~Python \{0\} and \{1\} fff bin
+~Python \{0\}and \{1\} fff bin
 ~Error
 ~Python 0 and 1
 }
@@ -595,10 +595,10 @@ Given a string <code>example\="hello"</code> what is the output of <code>example
 }
  
 To concatenate two strings to a third what statements are applicable? {
-~s3 = s1 . s2 
-~s3 = s1.add(s2)
-=s3 = s1.__add__(s2)
-~s3 = s1 * s2
+~s3 \= s1 . s2 
+~s3 \= s1.add(s2)
+=s3 \= s1.__add__(s2)
+~s3 \= s1 * s2
 }
 
 What will be the output of the following Python code?
@@ -656,7 +656,7 @@ print('pqqrppqpqq'.lstrip('pqq'))
  
 What will be the output of the following Python code?
 <br/><code>
-print("Python \{1\} and \{0\}".format('bin','fab'))
+print("Python \{1\}and \{0\}".format('bin','fab'))
 </code>
 {
 ~Python bin and fab
@@ -779,7 +779,7 @@ Suppose y is 345.3546, what is format(y, "10.3f") (_ indicates space). {
  
 What will be the output of the following Python code?
 <br/><code>
-print("Python \{0[0]\} and \{0[1]\}".format(('fff','bbb')))
+print("Python \{0[0]\}and \{0[1]\}".format(('fff','bbb')))
 </code>
 {
 =Python fff and bbb
@@ -819,11 +819,11 @@ What will be displayed by print(ord('b') - ord('a'));? {
  
 What will be the output of the following Python code?
 <br/><code>
-print("Python \{name1\} and \{name2\}".format(name1\='faa', name2\='bin'))
+print("Python \{name1\}and \{name2\}".format(name1\='faa', name2\='bin'))
 </code>
 {
 =Python faa and bin
-~Python \{name1\} and \{name2\}
+~Python \{name1\}and \{name2\}
 ~Error
 ~Python and
 }
@@ -863,7 +863,7 @@ print('\f'.isspace())
 
  What will be the output of the following Python code?
 <br/><code>
-print("Python \{0!r\} and \{0!s\}".format('fbb','bin'))
+print("Python \{0!r\}and \{0!s\}".format('fbb','bin'))
 </code>
 {
 ~Python fbb and fbb
@@ -973,9 +973,9 @@ print('pq\nrs\ntv'.splitlines())
 </code>
 {
 =['pq', 'rs', 'tv']
-~['pq\n', 'rs\n', 'tv\n']
-~['pq\n', 'rs\n', 'tv']
-~['pq', 'rs', 'tv\n']
+~['pq\\n', 'rs\\n', 'tv\\n']
+~['pq\\n', 'rs\\n', 'tv']
+~['pq', 'rs', 'tv\\n']
 }
 
 What will be the output of the following Python code?
@@ -991,7 +991,7 @@ print('x'.maketrans('XYZ','234'))
 
 What will be the output of the following Python code?
 <br/><code>
-print("Python \{0\} and \{1\}".format(('faa', 'bin')))
+print("Python \{0\}and \{1\}".format(('faa', 'bin')))
 </code>
 {
 ~Python faa and bin
@@ -1168,7 +1168,7 @@ print('pqppqqrppq'.lstrip('pqq'))
 
 What will be the output of the following Python code snippet?
 <br/><code>
-print('The sum of \{0\:b\} and \{1\:x\} is \{2\:o\}'.format(2. 12. 14))
+print('The sum of \{0\:b\}and \{1\:x\} is \{2\:o\}'.format(2. 12. 14))
 </code>
 {
 ~The sum of 2 and 12 is 14
@@ -1303,7 +1303,7 @@ print("abbcabcababb".count('bb'))
 
 What will be the output of the following Python code snippet?
 <br/><code>
-print('The sum of \{0\} and \{1\} is \{2\}'.format(5. 12. 17))
+print('The sum of \{0\}and \{1\} is \{2\}'.format(5. 12. 17))
 </code>
 {
 ~Error

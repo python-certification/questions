@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: a17d24fc-aca4-4642-8cd1-b93e5b33f165
+// Python versions: 3.10 3.11
+ 
+Suppose y is 345.3546, what is format(y, "10.3f") (_ indicates space). {
+~__345.355
+=___345.355
+~____345.355
+~_____345.354
+}
+

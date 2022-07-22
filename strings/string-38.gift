@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0224c76c-6b40-4073-a40c-b1be4d6ce99a
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('pqrs'.translate(\{'p'\:'2','q'\:'3','r'\:'4','s'\:'5'\}))
+</code>
+{
+=pqrs
+~2345
+~error
+~none of the mentioned
+}
+

@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: cf8dc782-1f33-4056-a617-492444206b05
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('wxyz'.translate('w'.maketrans('wxy',)))
+</code>
+{
+=xyzz
+~wxyz
+~xzyz
+~zxyz
+}
+

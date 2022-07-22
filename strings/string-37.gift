@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 101eecf0-858e-4ee9-843e-f094a70315cf
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print('*', "pqrst".center(6), '*', sep\='')
+</code>
+{
+~* pqrst *
+=*pqrst *
+~*pqrst*
+~* pqrst *
+}
+

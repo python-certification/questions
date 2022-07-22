@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 02534c88-765f-4554-988e-c8902f5b91dd
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('pen'.isidentifier())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+

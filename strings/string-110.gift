@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b8759789-b4d7-4bdb-8c9b-36c649c2eaf5
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('pq rs tu'.title())
+</code>
+{
+~Pq rs tu
+~Pq rs tU
+=Pq Rs Tu
+~None of the mentioned
+}
+

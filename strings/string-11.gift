@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: cf44d3f3-4c28-449a-8693-76b773909061
+// Python versions: 3.10 3.11
+Which of the following statement prints hello\example\test.txt? {
+~print("hello\example\test.txt")
+=print("hello\\example\\test.txt")
+~print("hello\"example\"test.txt")
+~print("hello"\example"\test.txt")
+}
+

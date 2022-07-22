@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 77f333d5-1bf5-4e28-9953-0e1be8dfb7e6
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print("mn\top\tqr".expandtabs())
+</code>
+{
+~mnop qr
+~mnopqr
+~mn\top\tqr
+=mn op qr
+}
+

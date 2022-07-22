@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9369ec70-2258-4a71-96c4-cfc43fbe4b35
+// Python versions: 3.10 3.11
+ 
+To return the length of string s what command do we execute? {
+=s.__len__()
+~len(s)
+~size(s)
+~s.size()
+}
+

@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: fc61baf4-96d6-4ffe-9ff5-b2a8609deed6
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print('Python!2@\#Tutorial'.istitle())
+</code>
+{
+=True
+~False
+~None
+~error
+}
+

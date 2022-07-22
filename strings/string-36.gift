@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0840fccf-28d2-414a-abf1-178803550ecb
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('y@ 2,'.islower())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+

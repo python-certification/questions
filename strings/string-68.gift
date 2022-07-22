@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7ce3e465-092f-4b97-b16c-87e1c1cf2a75
+// Python versions: 3.10 3.11
+ 
+Say s\="hello" what will be the return value of type(s)? {
+~int
+~bool
+=str
+~String
+}
+

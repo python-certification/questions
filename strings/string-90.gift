@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0015e83d-7f28-48df-b476-de69e64c37d4
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print('xy'.isalpha())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+

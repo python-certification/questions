@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d2628057-fd2a-40df-8021-60e03b826595
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print('\{0\:.2%\}'.format(2/5))
+</code>
+{
+~0.33
+~40.40%
+=40.00%
+~42.00%
+}
+

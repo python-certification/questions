@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 8c7dd7e7-2a68-4c13-b4a7-782a0c73ec61
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('pqrs'.translate(\{87\:88, 88\:89, 89\:90\}))
+</code>
+{
+~qrst
+=pqrs
+~error
+~none of the mentioned
+}
+

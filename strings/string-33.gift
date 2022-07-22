@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 120f1663-ae63-4622-adba-48a4e400d118
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('mnopqr22'.replace('op', '22'))
+</code>
+{
+~mn22qr
+=mn22qr22
+~mnopqr22
+~none of the mentioned
+}
+

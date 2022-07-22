@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9282dfdb-63ec-46ef-aec2-dd3a1d60a996
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('abbabbababaab'.replace('ab','10',0))
+</code>
+{
+=abbabbababaab
+~10b10b1010a10
+~12babbababaab
+~babbababaab12
+}
+

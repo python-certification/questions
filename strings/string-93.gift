@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ff455df4-5651-4329-b73b-3caa74934f10
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print("Python \{0\}and \{1\}".format(('faa', 'bin')))
+</code>
+{
+~Python faa and bin
+~Python ('faa', 'bin') and ('faa', 'bin')
+=Error
+~None of the mentioned
+}
+

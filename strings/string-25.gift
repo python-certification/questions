@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 80b108b5-1577-45c9-af7c-e5226e4bef20
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print("pqqrpqrprpqq".endswith("pqq"))
+</code>
+{
+~1
+=True
+~3
+~2
+}
+

@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 04a8a5d0-71fc-4d33-b063-fdda98924545
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('mnopqropstop'.split('op',0))
+</code>
+{
+=['mnopqropstop']
+~'mnopqropstop'
+~error
+~none of the mentioned
+}
+

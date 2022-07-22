@@ -1,0 +1,1967 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 346c2fc3-c745-40a4-a76d-7fa88c228dce
+// Python versions: 3.10 3.11
+Suppose x is 6 and y is 4, x + y is same as ________ {
+~x.__add(y)
+=x.__add__(y)
+~x.__Add(y)
+~x.__ADD(y)
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1e2a2e2a-f0f0-4262-910b-0413ff018974
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('0pq'.isdigit())
+</code>
+{
+~True
+=False
+~None
+~Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: bfc61ddb-39a5-48e5-adee-b3bba7feabe3
+// Python versions: 3.10 3.11
+The format function, when applied on a string returns ________ {
+~Error
+~int
+~bool
+=str
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 85281f1d-2ced-479e-9731-0e5cb0250225
+// Python versions: 3.10 3.11
+What is "Hello".replace("l", "e")? {
+=Heeeo
+~Heelo
+~Heleo
+~None
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d8d75d2d-1c2d-4c73-9d11-44933ddc3183
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('abbabbababaab'.replace('ab','10,100'))
+</code>
+{
+=10b10b1010a10
+~abbabbababaab
+~none of the mentioned
+~error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: a4734d4c-626a-4c4d-b034-27081c8f4550
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+max("who are you")
+</code>
+{
+~error
+~u
+~t
+=y
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b7fac7a3-c89c-4549-a2a2-98c9336c744f
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print('xy10'.isalnum())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0b330d9f-286e-471d-b318-ef48ce627555
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('2.3'.isnumeric())
+</code>
+{
+~True
+=False
+~None
+~Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b781c059-1137-4b89-ae9e-092fc750a175
+// Python versions: 3.10 3.11
+What will be the output of the following Python statement?
+<br/><code>
+"pqrs"[2\:]
+</code>
+{
+~p
+~pq
+=rs
+~sr
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: f4c1d1b8-c068-4046-8dd9-5ab9bc0dcd59
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+class Count\:
+&nbsp;&nbsp;def __init__(self, count \= 0)\:
+&nbsp;&nbsp;&nbsp;&nbsp;self.__count \= count
+x1 \= Count(2)
+x2 \= Count(2)
+print(id(x1)) \=\= id(x2), end \= " ")
+y1 \= "Good"
+y2 \= "Good"
+print(id(y1) \=\= id(y2))
+</code>
+{
+~True False
+~True True
+=False True
+~False False
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: cf44d3f3-4c28-449a-8693-76b773909061
+// Python versions: 3.10 3.11
+Which of the following statement prints hello\example\test.txt? {
+~print("hello\example\test.txt")
+=print("hello\\example\\test.txt")
+~print("hello\"example\"test.txt")
+~print("hello"\example"\test.txt")
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ba88dbfd-e462-4c0d-9a48-3c441b6cf2ae
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('Python Exercises'.istitle())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2d4cc974-b7e0-4c41-b5b0-023e6c1622c9
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print("Python \{\}and \{\}".format('fbb','bin'))
+</code>
+{
+~Python \{\}and \{\}
+=Python fbb and bin
+~Error
+~Python and
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 64b0a65a-8e9e-4c83-9f5c-34565c1c8b17
+// Python versions: 3.10 3.11
+What will be the output of the following Python statement?
+<br/><code>
+print('black' 'berry')
+</code>
+{
+~Error
+~Output equivalent to print 'black\berry'
+=blackberry
+~black berry
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0b94c9fc-2122-44c3-ae8e-eeb73888ca9c
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print("pqqrpqrprpqq".count('pqq',0,100))
+</code>
+{
+=2
+~0
+~1
+~error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0ee42e4c-4d5f-4d42-88e2-10921a04fdff
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print("pq\trs\ttu".expandtabs(4))
+</code>
+{
+=pq rs tu
+~pqrstu
+~pq\trs\ttu
+~pq rs tu
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 73228b7e-e0f0-41e6-9e6e-cd92584c44d8
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print('\{0\:.2\}'.format(2/3))
+</code>
+{
+~0.677777
+=0.67
+~0.6777\:.2
+~Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 075a4034-2b44-48b6-a7a9-37ee12ed82d3
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print("Python \{name1\}and \{name2\}".format('fff','bin'))
+</code>
+{
+~Python fff and bin
+~Python \{name1\}and \{name2\}
+=Error
+~Python and
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: bfe8fc40-150d-4cf0-b197-ddf59662551e
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('pqtv'.partition('rs'))
+</code>
+{
+~('pqtv')
+~('pqtv', 'rs', ")
+=('pqtv', '', '')
+~error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ca304035-c35f-4cf5-a1dd-f1e251c45837
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print('x Y'.isalpha())
+</code>
+{
+~True
+=False
+~None
+~Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 6af18904-ce01-4f6f-814b-f19fc718b7eb
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print("abbcabcacabb".count('abb',2,11))
+</code>
+{
+~2
+=0
+~1
+~error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: be664aad-8044-4060-9ac9-54a4ddec7e06
+// Python versions: 3.10 3.11
+ 
+What will be the output of the "hello" +1+2+3? {
+~hello123 
+~hello
+=Error
+~hello6
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: fc61baf4-96d6-4ffe-9ff5-b2a8609deed6
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print('Python!2@\#Tutorial'.istitle())
+</code>
+{
+=True
+~False
+~None
+~error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: aa768b64-81c1-4ea2-8313-5b83148ca9b2
+// Python versions: 3.10 3.11
+What will be the output of the following Python statement?(python 3.xx)
+<br/><code>
+print(format("Python","10s"), end \= '\#')
+print(format(100,"4d"), end \= '\#')
+print(format(900.666, "3.2f"))
+</code>
+{
+~Python\# 100\#900.66
+~Python\#100\# 900.67
+=Python \# 100\#900.67
+~Python\#100\#900.67
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 80b108b5-1577-45c9-af7c-e5226e4bef20
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print("pqqrpqrprpqq".endswith("pqq"))
+</code>
+{
+~1
+=True
+~3
+~2
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 872f2cfa-da94-4902-ae1f-cd57a7a97184
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("pqrstv".center())
+</code>
+{
+~rs
+~pqrstv
+=error
+~none of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 8c7dd7e7-2a68-4c13-b4a7-782a0c73ec61
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('pqrs'.translate(\{87\:88, 88\:89, 89\:90\}))
+</code>
+{
+~qrst
+=pqrs
+~error
+~none of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 008b79f4-3b8c-4023-85b4-621cdd361c86
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+example\="waterworld"
+example[\:\:-1].startswith("d")
+</code>
+{
+~terwarldwo
+=True
+~-1
+~None
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b60369c8-ac25-4c22-bd8d-2adaa436508c
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('__faa__'.isidentifier())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 60931b4c-1ab8-4fb5-a7ac-cfcbf0ef63dd
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print("efghij".find("gh") \=\= "gh" in "efghij")
+</code>
+{
+~True
+=False
+~Error
+~None of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: f0e5e626-9f77-4060-9b35-e495e54e89f4
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print("Python \{0\}and \{1\}".format('fff', 'bin'))
+</code>
+{
+=Python fff and bin
+~Python \{0\}and \{1\} fff bin
+~Error
+~Python 0 and 1
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d983ab8f-ca5c-4451-9547-ba99efdb6ba5
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+class X\:
+&nbsp;&nbsp;def __init__(self, param)\:
+&nbsp;&nbsp;&nbsp;&nbsp;self.o1 \= param
+class Y(X)\:
+&nbsp;&nbsp;def __init__(self, param)\:
+&nbsp;&nbsp;&nbsp;&nbsp;self.o2 \= param
+obj \= Y(22)
+print "%d %d" % (obj.o1, obj.o2)
+</code>
+{
+~None None
+~None 22
+~22 None
+=Error is generated
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 120f1663-ae63-4622-adba-48a4e400d118
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('mnopqr22'.replace('op', '22'))
+</code>
+{
+~mn22qr
+=mn22qr22
+~mnopqr22
+~none of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: bcfc04ed-9241-4911-8e09-88bc6daac4c4
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print (r"\nworld)
+</code>
+{
+~a new line and world
+=\nworld
+~the letter r and then world
+~error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 4f5b89e0-8556-4671-b342-d8c42d04c5ef
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('pqtv'.replace('rs','10'))
+</code>
+{
+=pqtv
+~10
+~error
+~none of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0840fccf-28d2-414a-abf1-178803550ecb
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('y@ 2,'.islower())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 101eecf0-858e-4ee9-843e-f094a70315cf
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print('*', "pqrst".center(6), '*', sep\='')
+</code>
+{
+~* pqrst *
+=*pqrst *
+~*pqrst*
+~* pqrst *
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0224c76c-6b40-4073-a40c-b1be4d6ce99a
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('pqrs'.translate(\{'p'\:'2','q'\:'3','r'\:'4','s'\:'5'\}))
+</code>
+{
+=pqrs
+~2345
+~error
+~none of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 919569b2-6c33-4f71-9e41-cbfbf817e505
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print("xyz. PQR".capitalize())
+</code>
+{
+~xyz. PQR
+~XYZ. PQR
+=Xyz. pqr
+~Xyz. Pqr
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e98b8bbe-8639-438d-a87b-5052537e090f
+// Python versions: 3.10 3.11
+ 
+If a class defines the __str__(self) method, for an object obj for the class, you can use which command to invoke the __str__ method. {
+~obj.__str__()
+~str(obj)
+~print obj
+=all of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 15cade9f-2f01-4b1f-97b2-8a110ca376a4
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print('zyx'.maketrans('xyz','234'))
+</code>
+{
+=\{120\: 50, 121\: 51, 122\: 52\}
+~\{97\: 49, 98\: 50, 99\: 51\}
+~\{100\: 50, 101\: 51, 102\: 52\}
+~234
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c91b6da7-e946-488d-a242-7a73b25561b7
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print('pqrstv'.partition('rs'))
+</code>
+{
+~('pq', 'tv')
+~('pqtv')
+=('pq', 'rs', 'tv')
+2
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: fee40cd5-caa4-4285-8ca8-36d78c01bd71
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print('2Xy@'.lower())
+</code>
+{
+~x
+=2xy@
+~xy
+~y
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 35f7ed4d-aa6e-4757-bfaf-be7d7f023f52
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print('wxyz'.partition('yz'))
+</code>
+{
+~error
+~('wx', 'yz')
+=('wx', 'yz', '')
+~none of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9d9d408a-b723-4fd0-aad7-028f4126436b
+// Python versions: 3.10 3.11
+What will be the output of the following Python statement?
+<br/><code>
+chr(ord('P'))
+</code>
+{
+=P
+~p
+~Error
+~b
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d569fa06-e615-405a-9069-d29da930c195
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('PythonExercises'.istitle())
+</code>
+{
+~True
+=False
+~None
+~Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ddbe1779-a4c6-46b3-ae7b-717ed4478fef
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print("pq\trs\ttv".expandtabs('+'))
+</code>
+{
+~pq+rs+tv
+~pq++++++++rs++++++++tv
+~pq rs tv
+=None of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3c969b44-95aa-4622-bf5c-627d75e96fe8
+// Python versions: 3.10 3.11
+ 
+The output of executing string.ascii_letters can also be achieved by\: {
+~string.ascii_lowercase_string.digits
+=string.ascii_lowercase+string.ascii_upercase
+~string.letters
+~string.lowercase_string.upercase
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 020dc7ca-bb8f-4b17-9dda-bb6ece987072
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+class Name\:
+&nbsp;&nbsp;def __init__(self, firstName, mi, lastName)\:
+&nbsp;&nbsp;&nbsp;&nbsp;self.firstName \= firstName
+&nbsp;&nbsp;&nbsp;&nbsp;self.mi \= mi
+&nbsp;&nbsp;&nbsp;&nbsp;self.lastName \= lastName
+firstName \= "Robin"
+name \= Name(firstName, 'F', "Smith")
+firstName \= "Jack"
+name.lastName \= "Roy"
+print(name.firstName, name.lastName)
+</code>
+{
+~Jack Roy
+=Robin Roy
+~Jack Smith
+~Robin Smith
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: a61f5ee1-194c-4b3b-98bd-3239086e6491
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("mnopqr".center(0))
+</code>
+{
+~op
+=mnopqr
+~error
+~none of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 545833b9-f41a-4f9c-87df-d0e53f967e62
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+str1\="redrose"
+str1[\:\:-1]
+</code>
+{
+=esorder
+~red
+~rose
+~redrose
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9c935935-c52b-4392-947b-b75edeacf8e4
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print("pqrstv".center(7,'1'))
+</code>
+{
+=1pqrstv
+~pqrstv1
+~pqrstv
+~error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 33a394a7-141c-4241-bb10-3412fed8adfe
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+example \= "hello world"
+print("%s" % example[4\:7])
+</code>
+{
+=o w
+~world
+~he
+~rl
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: eec1137d-cac9-4d19-ad81-5b7a0ed4c5c2
+// Python versions: 3.10 3.11
+Given a string <code>example\="hello"</code> what is the output of <code>example.count('l')</code>? {
+=2
+~1
+~None
+~0
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 24735bfb-5f3d-48bf-822e-620b9da57987
+// Python versions: 3.10 3.11
+ 
+To concatenate two strings to a third what statements are applicable? {
+~s3 \= s1 . s2 
+~s3 \= s1.add(s2)
+=s3 \= s1.__add__(s2)
+~s3 \= s1 * s2
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e71f3555-cf6a-482d-bfa3-a7c7b4f8968e
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print("abbcabcacabb".count('abb', -10, -1))
+</code>
+{
+~2
+=0
+~1
+~error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: dc3ecc8e-af47-404a-b4e5-05a538eee470
+// Python versions: 3.10 3.11
+ 
+To check whether string s1 contains another string s2, use _______ {
+=s1.__contains__(s2)
+~s2 in s1
+~s1.contains(s2)
+~si.in(s2)
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 8112c523-ab5e-4d64-9868-a03c4961d328
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+example \= "beautiful world"
+example[3] \= 'b'
+print example
+</code>
+{
+~snow
+~beautiful world
+=Error
+~beabtiful world
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b5d8e0e8-c9b2-4d96-8ce8-4d200ec0ce36
+// Python versions: 3.10 3.11
+ What will be the output of the following Python code snippet?
+<br/><code>
+print(''''''''.isspace())
+</code>
+{
+~True
+=False
+~None
+~Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c447abfb-5855-4092-8185-707469857f7a
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print('pqqrppqpqq'.lstrip('pqq'))
+</code>
+{
+~error
+=rppqpqq
+=r
+=pqr
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 652f9b27-452c-4043-b1c2-eb5dc0ed9c81
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("Python \{1\}and \{0\}".format('bin','fab'))
+</code>
+{
+~Python bin and fab
+=Python fab and bin
+=Error
+=None of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 04a8a5d0-71fc-4d33-b063-fdda98924545
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('mnopqropstop'.split('op',0))
+</code>
+{
+=['mnopqropstop']
+~'mnopqropstop'
+~error
+~none of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 621c6d56-cec4-4ff4-9958-6afd70d35237
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('\{\:,\}'.format(2223334445))
+</code>
+{
+=2,223,334,445
+~222,333,444,5
+~2223334445
+~Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 501eb435-f5d9-4fc7-a6ea-e87723b70e26
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('2@ f'.isprintable())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0ddfa653-3d0a-4a6a-9ab6-e6d6c43f34e9
+// Python versions: 3.10 3.11
+Suppose s is "\t\tWorld\n", what is s.strip()? {
+~\t\tworld\n
+~\t\tWorld\n
+~\t\tWORLD\n
+=World
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 886af10a-4d60-4a85-bbdc-87ce713c88c5
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("S", end\=' ')
+print("R", end\=' ')
+print("Q", end\=' ')
+print("P", end\=' ')
+</code>
+{
+~SRQP
+=S R Q P
+~P Q R S
+~p q r s
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 6279baa8-12f4-45b0-8336-a74f5275db88
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('\{\:,\}'.format('3334445556'))
+</code>
+{
+~3,334,445,556
+~333,444,555,6
+~3334445556
+=Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7ce3e465-092f-4b97-b16c-87e1c1cf2a75
+// Python versions: 3.10 3.11
+ 
+Say s\="hello" what will be the return value of type(s)? {
+~int
+~bool
+=str
+~String
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: a8a1e39f-bd1b-4d90-ba83-b79a771d6faf
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('mnopqropstop'.split('op'))
+</code>
+{
+~['mn', 'qr', 'st']
+=['mn', 'qr', 'st', '']
+~('mn', 'qr', 'st')
+~('mn', 'qr', 'st', '')
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3555f551-f733-4571-acf0-4c65d80014e1
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('Xy!4'.swapcase())
+</code>
+{
+~XY!@
+~xy12
+=xY!4
+~xY1@
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ce5b1c53-e9b2-4558-9f04-2abb9706d561
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('\{\:\#\}').format(3334445556)
+</code>
+{
+~3,334,445,556
+~333,444,555,6
+=3334445556
+~Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: a17d24fc-aca4-4642-8cd1-b93e5b33f165
+// Python versions: 3.10 3.11
+ 
+Suppose y is 345.3546, what is format(y, "10.3f") (_ indicates space). {
+~__345.355
+=___345.355
+~____345.355
+~_____345.354
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 17574b8c-c2b0-49df-bcff-be6d88869461
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("Python \{0[0]\}and \{0[1]\}".format(('fff','bbb')))
+</code>
+{
+=Python fff and bbb
+~Python ('fff', 'bbb') and ('fff', 'bbb')
+~Error
+~None of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 78294530-8a88-4288-9ae5-eec7d82077fa
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('mnopqropstop'.split('op',-1))
+</code>
+{
+~['mn', 'qr', 'st']
+=['mn', 'qr', 'st', '']
+~('mn', 'qr', 'st',)
+~['mn', 'qr', 'st']
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 42a7b467-7dd2-467a-b517-1ec538dfdbc0
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python statement?
+<br/><code>
+print(chr(ord('p')+1))
+</code>
+{
+~a
+=q
+~r
+~Q
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: f0c3219c-308e-49bf-9b8b-4264b9b35f19
+// Python versions: 3.10 3.11
+ 
+What will be displayed by print(ord('b') - ord('a'));? {
+=1
+~0
+~-1
+~2
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e7aedfc1-34ef-4f1e-be54-851031f4d773
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("Python \{name1\}and \{name2\}".format(name1\='faa', name2\='bin'))
+</code>
+{
+=Python faa and bin
+~Python \{name1\}and \{name2\}
+~Error
+~Python and
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 77f333d5-1bf5-4e28-9953-0e1be8dfb7e6
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print("mn\top\tqr".expandtabs())
+</code>
+{
+~mnop qr
+~mnopqr
+~mn\top\tqr
+=mn op qr
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 02534c88-765f-4554-988e-c8902f5b91dd
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('pen'.isidentifier())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ad0e30b3-8dd4-4246-a96e-b1fd0acb3c9d
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('\f'.isspace())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7e14a22f-df45-4c46-84ed-a044aad48840
+// Python versions: 3.10 3.11
+ What will be the output of the following Python code?
+<br/><code>
+print("Python \{0!r\}and \{0!s\}".format('fbb','bin'))
+</code>
+{
+~Python fbb and fbb
+=Python 'fbb' and fbb
+~Python fbb and 'bin'
+~Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 11774ca4-a66c-4313-8e3e-5ab677f0a68a
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python statement?
+<br/><code>
+print('x\95\x98')
+</code>
+{
+~Error
+~95<br/>98
+=x\95˜
+~\x95\x98
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c6929d55-4078-4a8f-a7c4-94b4d9c36824
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print('*', "pqrstv".center(7), '*')
+</code>
+{
+~* pqrstv*
+=* pqrstv *
+~*pqrstv*
+~* pqrstv *
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: cfa68928-113c-4e4d-96ff-497f308c5f3e
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print("xxyxyyxy".find("x"))
+</code>
+{
+~4
+=0
+~Error
+~True
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 347fd563-c9f8-4371-9770-0708d64a65f2
+// Python versions: 3.10 3.11
+ 
+What function do you use to read a string? {
+=input("Enter a string")
+~eval(input("Enter a string"))
+~enter("Enter a string")
+~eval(enter("Enter a string"))
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2163b0d9-86b6-460a-ba1b-571c3c99f470
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print("pqqrpqrprpqq".endswith("pqq",0,2))
+</code>
+{
+~0
+~1
+~True
+=False
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2e4a824b-9738-40ab-a93e-e376d147bcd0
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print('xyz'.encode())
+</code>
+{
+~xyz
+~'xyz'
+=b'xyz'
+~h'xyz'
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ee8f4da0-fbae-4714-b750-9840268e81c6
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("pqqrpqrprpqq".count('qq',1))
+</code>
+{
+=2
+~0
+~1
+~none of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b413c678-9167-496c-b26a-57ed283bf0b0
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print('*', "mnopqr".center(7), '*', sep\='')
+</code>
+{
+~* mnopqr* 
+=*mnopqr*
+=* mnopqr *
+=* mnopqr *
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0015e83d-7f28-48df-b476-de69e64c37d4
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print('xy'.isalpha())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 8c4fe6a4-d050-4490-a86c-ecbafa12b150
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('pq\nrs\ntv'.splitlines())
+</code>
+{
+=['pq', 'rs', 'tv']
+~['pq\\n', 'rs\\n', 'tv\\n']
+~['pq\\n', 'rs\\n', 'tv']
+~['pq', 'rs', 'tv\\n']
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: bf0d72ee-b5de-4229-98f9-704b8450c9e6
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print('x'.maketrans('XYZ','234'))
+</code>
+{
+=\{88\: 50, 89\: 51, 90\: 52\}
+~\{80\: 50, 81\: 51, 82\: 52\}
+~432
+~234
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ff455df4-5651-4329-b73b-3caa74934f10
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print("Python \{0\}and \{1\}".format(('faa', 'bin')))
+</code>
+{
+~Python faa and bin
+~Python ('faa', 'bin') and ('faa', 'bin')
+=Error
+~None of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e8659c27-9b60-4a16-8e8a-24a3e9e26b94
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print('pqrstv'.center(7, 1))
+</code>
+{
+~1pqrstv
+~pqrstv1
+~pqrstv
+=error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d2628057-fd2a-40df-8021-60e03b826595
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print('\{0\:.2%\}'.format(2/5))
+</code>
+{
+~0.33
+~40.40%
+=40.00%
+~42.00%
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: a030dcfb-19b0-4de3-a2a7-33baa05fe525
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+example \= "python"
+example.rfind("n")
+</code>
+{
+~4
+~3
+=5
+~0
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 450ad94c-7875-4a6a-b7b6-2aebc2701faa
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("mnopqr".find("op"))
+</code>
+{
+~True
+=2
+~3
+~None of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 79c1902e-ca32-4a4a-b731-adb6834e8a00
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+class test\:
+&nbsp;&nbsp;def __init__(sefl, id)\:
+&nbsp;&nbsp;&nbsp;&nbsp;self.id \= str(id)
+&nbsp;&nbsp;&nbsp;&nbsp;id\="144"
+x \= tester(12)
+print(x.id)
+</code>
+{
+~224
+~Error
+=12
+~None
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c2779088-5f48-437d-aad2-3ff3791e4a3c
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("abbcabcacabb".count('bb', 2))
+</code>
+{
+~2
+~0
+=1
+~none of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c3af0075-cebf-49c6-adbf-cc0a36bc5e3e
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('xy'.zfill(4))
+</code>
+{
+=00xy
+~x00y
+~xy00
+~x0y0
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9ca5f4cb-af99-4501-82e3-a19c94e7c19a
+// Python versions: 3.10 3.11
+To retrieve the character at index 3 from string s\="Hello" what command do we execute (multiple answers allowed)? {
+~s[]
+~s.getitem(3)
+=s.__getitem__(3)
+~s.getItem(3)
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 6ed12886-fe68-4ac4-a80d-e34a56f117fd
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+example \= "world"
+example.find("d")
+</code>
+{
+~Error
+~-1
+=4
+~0
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: cf8dc782-1f33-4056-a617-492444206b05
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('wxyz'.translate('w'.maketrans('wxy',)))
+</code>
+{
+=xyzz
+~wxyz
+~xzyz
+~zxyz
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c8119701-b81f-47cb-9dde-674c6f7e2b54
+// Python versions: 3.10 3.11
+<code>print(0xA + 0xB + 0xC)</code>\: {
+~0xA0xB0xC
+~Error
+~0x22
+=33
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1e941156-f123-4f97-be01-2b05de602e3b
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('mnopqropstop'.split('op',2))
+</code>
+{
+=['mn', 'qr', 'stop']
+~['mn', 'qropstop']
+~['qropstop','mn' ]
+~none of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ea32ef5b-d921-446d-b171-67585f9d6483
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('rs'.partition('rs'))
+</code>
+{
+~('rs')
+~(")
+~('rs', ", ")
+=('', 'rs', '')
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3dccfc16-4bad-43a4-b678-0016293f42fe
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print('''
+\tboo'''.lstrip())
+</code>
+{
+~\tboo
+=boo
+~\boo
+~none of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 19c5fc3c-958a-46f6-8c44-5efa931303d4
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print('pqppqqrppq'.lstrip('pqq'))
+</code>
+{
+=rppq
+~rq
+~rppqrqrp
+~none of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 34f2cb1a-5096-4cf4-b474-07ec1ae52ce7
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('The sum of \{0\:b\}and \{1\:x\} is \{2\:o\}'.format(2. 12. 14))
+</code>
+{
+~The sum of 2 and 12 is 14
+=The sum of 10 and c is 16
+~The sum of 10 and a is c
+~Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b8759789-b4d7-4bdb-8c9b-36c649c2eaf5
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('pq rs tu'.title())
+</code>
+{
+~Pq rs tu
+~Pq rs tU
+=Pq Rs Tu
+~None of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9bb44c61-65db-4140-8ea9-e71aaec6c1d2
+// Python versions: 3.10 3.11
+ 
+What is the default value of encoding in encode()? {
+~ascii
+~qwerty
+=utf-8
+~utf-16
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e814b8cf-afa6-493a-a29e-44e135de6837
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("mnopqr".center(10,'12'))
+</code>
+{
+~12mnopqr12
+~mnopqr1212
+~1212mnopqr
+=error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d2f3326c-c673-4996-a934-d2d39297c442
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("pqr XYZ".capitalize())
+</code>
+{
+~pqr xyz
+~PQR XYZ
+=Pqr xyz
+~Pqr Xyz
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 13c66763-5d76-4ca5-99b4-b291c45d789f
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('\{\:$\}'.format(2223334445))
+</code>
+{
+~2,223,334,445
+~222,333,444,5
+~2223334445
+=Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 837e5d32-eff0-4800-96d1-56a9ed862c57
+// Python versions: 3.10 3.11
+ 
+What arithmetic operators cannot be used with strings? {
+~+ 
+~*
+=_
+~All of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 90474c71-6780-4a15-acfa-2eb77ebe77be
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('xyz'.islower())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d0cc79ab-6383-44b3-9b1f-16076f1599ed
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print(''.isdigit())
+</code>
+{
+~True
+=False
+~None
+~Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: a8108f46-b5f4-4951-bdf3-9fc76967ac90
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print('mnopqrstuv'.partition('op'))
+</code>
+{
+~('mn', 'op', 'qr', 'st', 'uv')
+=('mn', 'op', 'qrstuv')
+~('mnopqr', 'st, 'uv')
+~error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 996e2bf9-ee41-4c45-be9a-a49f2e36c444
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('pq rs-tu'.title())
+</code>
+{
+~Pq rs-tu
+~Pq Rs-tu
+=Pq Rs-Tu
+~None of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d1eb6194-9928-40f8-a746-ff11c6e1ef36
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+print('xy,14'.isalnum())
+</code>
+{
+~True
+=False
+=None
+=Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 5235a6d0-dcec-49ec-9a0f-1095d2a44c4b
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("abbcabcababb".count('bb'))
+</code>
+{
+=2
+~0
+~error
+~none of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0216801a-58e6-46b0-9b65-352e4704a6d0
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('The sum of \{0\}and \{1\} is \{2\}'.format(5. 12. 17))
+</code>
+{
+~Error
+=The sum of 5 and 12 is 17
+~The sum of 0 and 1 is 2
+~None of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 6207465c-4bb5-4611-8cf3-8cd3ec9b2bfa
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('+88'.zfill(4))
+</code>
+{
+~0+88
+~0088
+=+088
+~++88
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 8839a475-639b-4a9a-b66d-5a38565e6d48
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python statement?
+<br/><code>
+"x" + "yz"
+</code>
+{
+~x 
+~yz
+~yzx
+=xyz
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9369ec70-2258-4a71-96c4-cfc43fbe4b35
+// Python versions: 3.10 3.11
+ 
+To return the length of string s what command do we execute? {
+=s.__len__()
+~len(s)
+~size(s)
+~s.size()
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9282dfdb-63ec-46ef-aec2-dd3a1d60a996
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('abbabbababaab'.replace('ab','10',0))
+</code>
+{
+=abbabbababaab
+~10b10b1010a10
+~12babbababaab
+~babbababaab12
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 4613dec1-1bee-4063-ba9a-6cc5457afa66
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+str1 \= 'python'
+str2 \= ','
+str3 \= 'string'
+str1[-1\:]
+</code>
+{
+~nthopy
+~python
+~h
+=n
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2f21aeaa-3104-4500-8eca-968e5e10d75c
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('str1'.isidentifier())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2b3acf0a-e380-421d-9fce-42bc043d447e
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('15'.isnumeric())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: a74e521c-80cc-492c-9bea-7f1696fe10e8
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('pqrtvs'.replace('rs', '10'))
+</code>
+{
+~pq1tvo
+=pqrtvs
+~pq1tvs
+~pq12ts2
+}

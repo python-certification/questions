@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 64b0a65a-8e9e-4c83-9f5c-34565c1c8b17
+// Python versions: 3.10 3.11
+What will be the output of the following Python statement?
+<br/><code>
+print('black' 'berry')
+</code>
+{
+~Error
+~Output equivalent to print 'black\berry'
+=blackberry
+~black berry
+}
+

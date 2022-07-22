@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9ca5f4cb-af99-4501-82e3-a19c94e7c19a
+// Python versions: 3.10 3.11
+To retrieve the character at index 3 from string s\="Hello" what command do we execute (multiple answers allowed)? {
+~s[]
+~s.getitem(3)
+=s.__getitem__(3)
+~s.getItem(3)
+}
+

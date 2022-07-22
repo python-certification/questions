@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 6279baa8-12f4-45b0-8336-a74f5275db88
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('\{\:,\}'.format('3334445556'))
+</code>
+{
+~3,334,445,556
+~333,444,555,6
+~3334445556
+=Error
+}
+

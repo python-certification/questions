@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 4f5b89e0-8556-4671-b342-d8c42d04c5ef
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('pqtv'.replace('rs','10'))
+</code>
+{
+=pqtv
+~10
+~error
+~none of the mentioned
+}
+

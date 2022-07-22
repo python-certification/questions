@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 008b79f4-3b8c-4023-85b4-621cdd361c86
+// Python versions: 3.10 3.11
+What will be the output of the following Python code?
+<br/><code>
+example\="waterworld"
+example[\:\:-1].startswith("d")
+</code>
+{
+~terwarldwo
+=True
+~-1
+~None
+}
+

@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ea32ef5b-d921-446d-b171-67585f9d6483
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('rs'.partition('rs'))
+</code>
+{
+~('rs')
+~(")
+~('rs', ", ")
+=('', 'rs', '')
+}
+

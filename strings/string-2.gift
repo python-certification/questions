@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1e2a2e2a-f0f0-4262-910b-0413ff018974
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet?
+<br/><code>
+print('0pq'.isdigit())
+</code>
+{
+~True
+=False
+~None
+~Error
+}
+

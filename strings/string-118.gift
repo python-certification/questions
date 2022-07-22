@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: a8108f46-b5f4-4951-bdf3-9fc76967ac90
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code?
+<br/><code>
+print('mnopqrstuv'.partition('op'))
+</code>
+{
+~('mn', 'op', 'qr', 'st', 'uv')
+=('mn', 'op', 'qrstuv')
+~('mnopqr', 'st, 'uv')
+~error
+}
+

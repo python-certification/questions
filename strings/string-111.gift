@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9bb44c61-65db-4140-8ea9-e71aaec6c1d2
+// Python versions: 3.10 3.11
+ 
+What is the default value of encoding in encode()? {
+~ascii
+~qwerty
+=utf-8
+~utf-16
+}
+

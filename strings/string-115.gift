@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 837e5d32-eff0-4800-96d1-56a9ed862c57
+// Python versions: 3.10 3.11
+ 
+What arithmetic operators cannot be used with strings? {
+~+ 
+~*
+=_
+~All of the mentioned
+}
+
