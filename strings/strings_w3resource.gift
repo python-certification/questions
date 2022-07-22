@@ -1,0 +1,1400 @@
+Suppose x is 6 and y is 4, x + y is same as ________ {
+~x.__add(y)
+=x.__add__(y)
+x.__Add(y)
+x.__ADD(y)
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+print('0pq'.isdigit())
+</code>
+{
+~True
+=False
+~None
+~Error
+}
+
+The format function, when applied on a string returns ________ {
+~Error
+~int
+~bool
+=str
+}
+
+What is "Hello".replace("l", "e")? {
+=Heeeo
+~Heelo
+~Heleo
+~None
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+print('abbabbababaab'.replace('ab','10,100'))
+</code>
+{
+=10b10b1010a10
+~abbabbababaab
+~none of the mentioned
+~error
+}
+
+What will be the output of the following Python code?
+<br/><code>
+max("who are you")
+</code>
+{
+~error
+~u
+~t
+=y
+}
+ 
+What will be the output of the following Python code?
+<br/><code>
+print('xy10'.isalnum())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+print('2.3'.isnumeric())
+</code>
+{
+~True
+=False
+~None
+~Error
+} 
+
+What will be the output of the following Python statement?
+<br/><code>
+"pqrs"[2\:]
+</code>
+{
+~p
+~pq
+=rs
+~sr
+}
+
+What will be the output of the following Python code?
+<br/><code>
+class Count\:
+&nbsp;&nbsp;def __init__(self, count \= 0)\:
+&nbsp;&nbsp;&nbsp;&nbsp;self.__count \= count
+
+x1 \= Count(2)
+x2 \= Count(2)
+print(id(x1)) \=\= id(x2), end \= " ")
+
+y1 \= "Good"
+y2 \= "Good"
+print(id(y1) \=\= id(y2))
+</code>
+{
+~True False
+~True True
+=False True
+~False False
+}
+
+Which of the following statement prints hello\example\test.txt? {
+~print("hello\example\test.txt")
+=print("hello\\example\\test.txt")
+~print("hello\"example\"test.txt")
+~print("hello"\example"\test.txt")
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+print('Python Exercises'.istitle())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print("Python \{\} and \{\}".format('fbb','bin'))
+</code>
+{
+~Python \{\} and \{\}
+=Python fbb and bin
+~Error
+~Python and
+}
+
+What will be the output of the following Python statement?
+<br/><code>
+print('black' 'berry')
+</code>
+{
+~Error
+~Output equivalent to print 'black\berry'
+=blackberry
+~black berry
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print("pqqrpqrprpqq".count('pqq',0,100))
+</code>
+{
+=2
+~0
+~1
+~error
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print("pq\trs\ttu".expandtabs(4))
+</code>
+{
+=pq rs tu
+~pqrstu
+~pq\trs\ttu
+~pq rs tu
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print('\{0\:.2\}'.format(2/3))
+</code>
+{
+~0.677777
+=0.67
+~0.6777\:.2
+~Error
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print("Python \{name1\} and \{name2\}".format('fff','bin'))
+</code>
+{
+~Python fff and bin
+~Python \{name1\} and \{name2\}
+=Error
+~Python and
+}
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('pqtv'.partition('rs'))
+</code>
+{
+~('pqtv')
+~('pqtv', 'rs', ")
+=('pqtv', '', '')
+~error
+}
+ 
+What will be the output of the following Python code?
+<br/><code>
+print('x Y'.isalpha())
+</code>
+{
+~True
+=False
+~None
+~Error
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print("abbcabcacabb".count('abb',2,11))
+</code>
+{
+~2
+=0
+~1
+~error
+}
+ 
+What will be the output of the "hello" +1+2+3? {
+~hello123 
+~hello
+=Error
+~hello6
+}
+ 
+What will be the output of the following Python code?
+<br/><code>
+print('Python!2@\#Tutorial'.istitle())
+</code>
+{
+=True
+~False
+~None
+~error
+}
+
+What will be the output of the following Python statement?(python 3.xx)
+<br/><code>
+print(format("Python","10s"), end \= '\#')
+print(format(100,"4d"), end \= '\#')
+print(format(900.666, "3.2f"))
+</code>
+{
+~Python\# 100\#900.66
+~Python\#100\# 900.67
+=Python \# 100\#900.67
+~Python\#100\#900.67
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print("pqqrpqrprpqq".endswith("pqq"))
+</code>
+{
+~1
+=True
+~3
+~2
+}
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("pqrstv".center())
+</code>
+{
+~rs
+~pqrstv
+=error
+~none of the mentioned
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+print('pqrs'.translate(\{87\:88, 88\:89, 89\:90\}))
+</code>
+{
+~qrst
+=pqrs
+~error
+~none of the mentioned
+}
+
+What will be the output of the following Python code?
+<br/><code>
+example\="waterworld"
+example[\:\:-1].startswith("d")
+</code>
+{
+~terwarldwo
+=True
+~-1
+~None
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+print('__faa__'.isidentifier())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print("efghij".find("gh") \=\= "gh" in "efghij")
+</code>
+{
+~True
+=False
+~Error
+~None of the mentioned
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print("Python \{0\} and \{1\}".format('fff', 'bin'))
+</code>
+{
+=Python fff and bin
+~Python \{0\} and \{1\} fff bin
+~Error
+~Python 0 and 1
+}
+
+What will be the output of the following Python code?
+<br/><code>
+class X\:
+&nbsp;&nbsp;def __init__(self, param)\:
+&nbsp;&nbsp;&nbsp;&nbsp;self.o1 \= param
+
+class Y(X)\:
+&nbsp;&nbsp;def __init__(self, param)\:
+&nbsp;&nbsp;&nbsp;&nbsp;self.o2 \= param
+
+obj \= Y(22)
+print "%d %d" % (obj.o1, obj.o2)
+</code>
+{
+~None None
+~None 22
+~22 None
+=Error is generated
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+print('mnopqr22'.replace('op', '22'))
+</code>
+{
+~mn22qr
+=mn22qr22
+~mnopqr22
+~none of the mentioned
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print (r"\nworld)
+</code>
+{
+~a new line and world
+=\nworld
+~the letter r and then world
+~error
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+print('pqtv'.replace('rs','10'))
+</code>
+{
+=pqtv
+~10
+~error
+~none of the mentioned
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+print('y@ 2,'.islower())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print('*', "pqrst".center(6), '*', sep\='')
+</code>
+{
+~* pqrst *
+=*pqrst *
+~*pqrst*
+~* pqrst *
+}
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('pqrs'.translate(\{'p'\:'2','q'\:'3','r'\:'4','s'\:'5'\}))
+</code>
+{
+=pqrs
+~2345
+~error
+~none of the mentioned
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print("xyz. PQR".capitalize())
+</code>
+{
+~xyz. PQR
+~XYZ. PQR
+=Xyz. pqr
+~Xyz. Pqr
+}
+ 
+If a class defines the __str__(self) method, for an object obj for the class, you can use which command to invoke the __str__ method. {
+~obj.__str__()
+~str(obj)
+~print obj
+=all of the mentioned
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print('zyx'.maketrans('xyz','234'))
+</code>
+{
+=\{120\: 50, 121\: 51, 122\: 52\}
+~\{97\: 49, 98\: 50, 99\: 51\}
+~\{100\: 50, 101\: 51, 102\: 52\}
+~234
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print('pqrstv'.partition('rs'))
+</code>
+{
+~('pq', 'tv')
+~('pqtv')
+=('pq', 'rs', 'tv')
+2
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print('2Xy@'.lower())
+</code>
+{
+~x
+=2xy@
+~xy
+~y
+}
+ 
+What will be the output of the following Python code?
+<br/><code>
+print('wxyz'.partition('yz'))
+</code>
+{
+~error
+~('wx', 'yz')
+=('wx', 'yz', '')
+~none of the mentioned
+}
+
+What will be the output of the following Python statement?
+<br/><code>
+chr(ord('P'))
+</code>
+{
+=P
+~p
+~Error
+~b
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+print('PythonExercises'.istitle())
+</code>
+{
+~True
+=False
+~None
+~Error
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print("pq\trs\ttv".expandtabs('+'))
+</code>
+{
+~pq+rs+tv
+~pq++++++++rs++++++++tv
+~pq rs tv
+=None of the mentioned
+}
+ 
+The output of executing string.ascii_letters can also be achieved by\: {
+~string.ascii_lowercase_string.digits
+=string.ascii_lowercase+string.ascii_upercase
+~string.letters
+~string.lowercase_string.upercase
+}
+
+What will be the output of the following Python code?
+<br/><code>
+class Name\:
+&nbsp;&nbsp;def __init__(self, firstName, mi, lastName)\:
+&nbsp;&nbsp;&nbsp;&nbsp;self.firstName \= firstName
+&nbsp;&nbsp;&nbsp;&nbsp;self.mi \= mi
+&nbsp;&nbsp;&nbsp;&nbsp;self.lastName \= lastName
+
+firstName \= "Robin"
+name \= Name(firstName, 'F', "Smith")
+firstName \= "Jack"
+name.lastName \= "Roy"
+print(name.firstName, name.lastName)
+</code>
+{
+~Jack Roy
+=Robin Roy
+~Jack Smith
+~Robin Smith
+}
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("mnopqr".center(0))
+</code>
+{
+~op
+=mnopqr
+~error
+~none of the mentioned
+}
+
+What will be the output of the following Python code?
+<br/><code>
+str1\="redrose"
+str1[\:\:-1]
+</code>
+{
+=esorder
+~red
+~rose
+~redrose
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print("pqrstv".center(7,'1'))
+</code>
+{
+=1pqrstv
+~pqrstv1
+~pqrstv
+~error
+}
+
+What will be the output of the following Python code?
+<br/><code>
+example \= "hello world"
+print("%s" % example[4\:7])
+</code>
+{
+=o w
+~world
+~he
+~rl
+}
+
+Given a string <code>example\="hello"</code> what is the output of <code>example.count('l')</code>? {
+=2
+~1
+~None
+~0
+}
+ 
+To concatenate two strings to a third what statements are applicable? {
+~s3 = s1 . s2 
+~s3 = s1.add(s2)
+=s3 = s1.__add__(s2)
+~s3 = s1 * s2
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print("abbcabcacabb".count('abb', -10, -1))
+</code>
+{
+~2
+=0
+~1
+~error
+}
+ 
+To check whether string s1 contains another string s2, use _______ {
+=s1.__contains__(s2)
+~s2 in s1
+~s1.contains(s2)
+~si.in(s2)
+}
+
+What will be the output of the following Python code?
+<br/><code>
+example \= "beautiful world"
+example[3] \= 'b'
+print example
+</code>
+{
+~snow
+~beautiful world
+=Error
+~beabtiful world
+}
+
+ What will be the output of the following Python code snippet?
+<br/><code>
+print(''''''''.isspace())
+</code>
+{
+~True
+=False
+~None
+~Error
+}
+ 
+What will be the output of the following Python code?
+<br/><code>
+print('pqqrppqpqq'.lstrip('pqq'))
+</code>
+{
+~error
+=rppqpqq
+=r
+=pqr
+}
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("Python \{1\} and \{0\}".format('bin','fab'))
+</code>
+{
+~Python bin and fab
+=Python fab and bin
+=Error
+=None of the mentioned
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+print('mnopqropstop'.split('op',0))
+</code>
+{
+=['mnopqropstop']
+~'mnopqropstop'
+~error
+~none of the mentioned
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+print('\{\:,\}'.format(2223334445))
+</code>
+{
+=2,223,334,445
+~222,333,444,5
+~2223334445
+~Error
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+print('2@ f'.isprintable())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+
+Suppose s is "\t\tWorld\n", what is s.strip()? {
+~\t\tworld\n
+~\t\tWorld\n
+~\t\tWORLD\n
+=World
+}
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("S", end\=' ')
+print("R", end\=' ')
+print("Q", end\=' ')
+print("P", end\=' ')
+</code>
+{
+~SRQP
+=S R Q P
+~P Q R S
+~p q r s
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+print('\{\:,\}'.format('3334445556'))
+</code>
+{
+~3,334,445,556
+~333,444,555,6
+~3334445556
+=Error
+}
+ 
+Say s\="hello" what will be the return value of type(s)? {
+~int
+~bool
+=str
+~String
+}
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('mnopqropstop'.split('op'))
+</code>
+{
+~['mn', 'qr', 'st']
+=['mn', 'qr', 'st', '']
+~('mn', 'qr', 'st')
+~('mn', 'qr', 'st', '')
+}
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('Xy!4'.swapcase())
+</code>
+{
+~XY!@
+~xy12
+=xY!4
+~xY1@
+}
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('\{\:\#\}').format(3334445556)
+</code>
+{
+~3,334,445,556
+~333,444,555,6
+=3334445556
+~Error
+}
+ 
+Suppose y is 345.3546, what is format(y, "10.3f") (_ indicates space). {
+~__345.355
+=___345.355
+~____345.355
+~_____345.354
+}
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("Python \{0[0]\} and \{0[1]\}".format(('fff','bbb')))
+</code>
+{
+=Python fff and bbb
+~Python ('fff', 'bbb') and ('fff', 'bbb')
+~Error
+~None of the mentioned
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+print('mnopqropstop'.split('op',-1))
+</code>
+{
+~['mn', 'qr', 'st']
+=['mn', 'qr', 'st', '']
+~('mn', 'qr', 'st',)
+~['mn', 'qr', 'st']
+}
+ 
+What will be the output of the following Python statement?
+<br/><code>
+print(chr(ord('p')+1))
+</code>
+{
+~a
+=q
+~r
+~Q
+}
+ 
+What will be displayed by print(ord('b') - ord('a'));? {
+=1
+~0
+~-1
+~2
+}
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("Python \{name1\} and \{name2\}".format(name1\='faa', name2\='bin'))
+</code>
+{
+=Python faa and bin
+~Python \{name1\} and \{name2\}
+~Error
+~Python and
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print("mn\top\tqr".expandtabs())
+</code>
+{
+~mnop qr
+~mnopqr
+~mn\top\tqr
+=mn op qr
+}
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('pen'.isidentifier())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+print('\f'.isspace())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+
+ What will be the output of the following Python code?
+<br/><code>
+print("Python \{0!r\} and \{0!s\}".format('fbb','bin'))
+</code>
+{
+~Python fbb and fbb
+=Python 'fbb' and fbb
+~Python fbb and 'bin'
+~Error
+}
+ 
+What will be the output of the following Python statement?
+<br/><code>
+print('x\95\x98')
+</code>
+{
+~Error
+~95<br/>98
+=x\95˜
+~\x95\x98
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print('*', "pqrstv".center(7), '*')
+</code>
+{
+~* pqrstv*
+=* pqrstv *
+~*pqrstv*
+~* pqrstv *
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print("xxyxyyxy".find("x"))
+</code>
+{
+~4
+=0
+~Error
+~True
+}
+ 
+What function do you use to read a string? {
+=input("Enter a string")
+~eval(input("Enter a string"))
+~enter("Enter a string")
+~eval(enter("Enter a string"))
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print("pqqrpqrprpqq".endswith("pqq",0,2))
+</code>
+{
+~0
+~1
+~True
+=False
+}
+ 
+What will be the output of the following Python code?
+<br/><code>
+print('xyz'.encode())
+</code>
+{
+~xyz
+~'xyz'
+=b'xyz'
+~h'xyz'
+}
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("pqqrpqrprpqq".count('qq',1))
+</code>
+{
+=2
+~0
+~1
+~none of the mentioned
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print('*', "mnopqr".center(7), '*', sep\='')
+</code>
+{
+~* mnopqr* 
+=*mnopqr*
+=* mnopqr *
+=* mnopqr *
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print('xy'.isalpha())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+print('pq\nrs\ntv'.splitlines())
+</code>
+{
+=['pq', 'rs', 'tv']
+~['pq\n', 'rs\n', 'tv\n']
+~['pq\n', 'rs\n', 'tv']
+~['pq', 'rs', 'tv\n']
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print('x'.maketrans('XYZ','234'))
+</code>
+{
+=\{88\: 50, 89\: 51, 90\: 52\}
+~\{80\: 50, 81\: 51, 82\: 52\}
+~432
+~234
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print("Python \{0\} and \{1\}".format(('faa', 'bin')))
+</code>
+{
+~Python faa and bin
+~Python ('faa', 'bin') and ('faa', 'bin')
+=Error
+~None of the mentioned
+}
+ 
+What will be the output of the following Python code?
+<br/><code>
+print('pqrstv'.center(7, 1))
+</code>
+{
+~1pqrstv
+~pqrstv1
+~pqrstv
+=error
+}
+ 
+What will be the output of the following Python code?
+<br/><code>
+print('\{0\:.2%\}'.format(2/5))
+</code>
+{
+~0.33
+~40.40%
+=40.00%
+~42.00%
+}
+
+What will be the output of the following Python code?
+<br/><code>
+example \= "python"
+example.rfind("n")
+</code>
+{
+~4
+~3
+=5
+~0
+}
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("mnopqr".find("op"))
+</code>
+{
+~True
+=2
+~3
+~None of the mentioned
+}
+ 
+What will be the output of the following Python code?
+<br/><code>
+class test\:
+&nbsp;&nbsp;def __init__(sefl, id)\:
+&nbsp;&nbsp;&nbsp;&nbsp;self.id \= str(id)
+&nbsp;&nbsp;&nbsp;&nbsp;id\="144"
+
+x \= tester(12)
+print(x.id)
+</code>
+{
+~224
+~Error
+=12
+~None
+}
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("abbcabcacabb".count('bb', 2))
+</code>
+{
+~2
+~0
+=1
+~none of the mentioned
+}
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('xy'.zfill(4))
+</code>
+{
+=00xy
+~x00y
+~xy00
+~x0y0
+}
+
+To retrieve the character at index 3 from string s\="Hello" what command do we execute (multiple answers allowed)? {
+~s[]
+~s.getitem(3)
+=s.__getitem__(3)
+~s.getItem(3)
+}
+ 
+What will be the output of the following Python code?
+<br/><code>
+example \= "world"
+example.find("d")
+</code>
+{
+~Error
+~-1
+=4
+~0
+}
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('wxyz'.translate('w'.maketrans('wxy',)))
+</code>
+{
+=xyzz
+~wxyz
+~xzyz
+~zxyz
+}
+
+<code>print(0xA + 0xB + 0xC)</code>\: {
+~0xA0xB0xC
+~Error
+~0x22
+=33
+}
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('mnopqropstop'.split('op',2))
+</code>
+{
+=['mn', 'qr', 'stop']
+~['mn', 'qropstop']
+~['qropstop','mn' ]
+~none of the mentioned
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+print('rs'.partition('rs'))
+</code>
+{
+~('rs')
+~(")
+~('rs', ", ")
+=('', 'rs', '')
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print('''
+\tboo'''.lstrip())
+</code>
+{
+~\tboo
+=boo
+~\boo
+~none of the mentioned
+}
+ 
+What will be the output of the following Python code?
+<br/><code>
+print('pqppqqrppq'.lstrip('pqq'))
+</code>
+{
+=rppq
+~rq
+~rppqrqrp
+~none of the mentioned
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+print('The sum of \{0\:b\} and \{1\:x\} is \{2\:o\}'.format(2. 12. 14))
+</code>
+{
+~The sum of 2 and 12 is 14
+=The sum of 10 and c is 16
+~The sum of 10 and a is c
+~Error
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+print('pq rs tu'.title())
+</code>
+{
+~Pq rs tu
+~Pq rs tU
+=Pq Rs Tu
+~None of the mentioned
+}
+ 
+What is the default value of encoding in encode()? {
+~ascii
+~qwerty
+=utf-8
+~utf-16
+}
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("mnopqr".center(10,'12'))
+</code>
+{
+~12mnopqr12
+~mnopqr1212
+~1212mnopqr
+=error
+}
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("pqr XYZ".capitalize())
+</code>
+{
+~pqr xyz
+~PQR XYZ
+=Pqr xyz
+~Pqr Xyz
+}
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('\{\:$\}'.format(2223334445))
+</code>
+{
+~2,223,334,445
+~222,333,444,5
+~2223334445
+=Error
+}
+ 
+What arithmetic operators cannot be used with strings? {
+~+ 
+~*
+=_
+~All of the mentioned
+}
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('xyz'.islower())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+print(''.isdigit())
+</code>
+{
+~True
+=False
+~None
+~Error
+}
+ 
+What will be the output of the following Python code?
+<br/><code>
+print('mnopqrstuv'.partition('op'))
+</code>
+{
+~('mn', 'op', 'qr', 'st', 'uv')
+=('mn', 'op', 'qrstuv')
+~('mnopqr', 'st, 'uv')
+~error
+}
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('pq rs-tu'.title())
+</code>
+{
+~Pq rs-tu
+~Pq Rs-tu
+=Pq Rs-Tu
+~None of the mentioned
+}
+
+What will be the output of the following Python code?
+<br/><code>
+print('xy,14'.isalnum())
+</code>
+{
+~True
+=False
+=None
+=Error
+}
+ 
+What will be the output of the following Python code?
+<br/><code>
+print("abbcabcababb".count('bb'))
+</code>
+{
+=2
+~0
+~error
+~none of the mentioned
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+print('The sum of \{0\} and \{1\} is \{2\}'.format(5. 12. 17))
+</code>
+{
+~Error
+=The sum of 5 and 12 is 17
+~The sum of 0 and 1 is 2
+~None of the mentioned
+}
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('+88'.zfill(4))
+</code>
+{
+~0+88
+~0088
+=+088
+~++88
+}
+ 
+What will be the output of the following Python statement?
+<br/><code>
+"x" + "yz"
+</code>
+{
+~x 
+~yz
+~yzx
+=xyz
+}
+ 
+To return the length of string s what command do we execute? {
+=s.__len__()
+~len(s)
+~size(s)
+~s.size()
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+print('abbabbababaab'.replace('ab','10',0))
+</code>
+{
+=abbabbababaab
+~10b10b1010a10
+~12babbababaab
+~babbababaab12
+}
+
+What will be the output of the following Python code?
+<br/><code>
+str1 \= 'python'
+str2 \= ','
+str3 \= 'string'
+str1[-1\:]
+</code>
+{
+~nthopy
+~python
+~h
+=n
+}
+ 
+What will be the output of the following Python code snippet?
+<br/><code>
+print('str1'.isidentifier())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+print('15'.isnumeric())
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+
+What will be the output of the following Python code snippet?
+<br/><code>
+print('pqrtvs'.replace('rs', '10'))
+</code>
+{
+~pq1tvo
+=pqrtvs
+~pq1tvs
+~pq12ts2
+}
