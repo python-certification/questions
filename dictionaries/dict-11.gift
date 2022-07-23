@@ -1,0 +1,23 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9e163ac4-0397-4aa1-913c-2d5bc90799ce
+// Python versions: 3.10 3.11
+What will be the output of the following Python code? 
+<br/><code>
+count\=\{\}
+count[(2,3,5)] \= 6
+count[(5,3,2)] \= 8
+count[(2,3)] \= 7
+count[(5,3,2)] \= 3
+tot \= 0
+for f in count\:
+&nbsp;&nbsp;tot\=tot+count[f]
+print(len(count)+tot)
+</code>
+{
+=25
+=17
+~19
+~Tuples can't be made keys of a dictionary
+}
+

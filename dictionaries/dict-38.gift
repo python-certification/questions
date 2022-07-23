@@ -1,0 +1,18 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: f20506fc-faca-4163-888f-3f9a5838ac3a
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet? 
+<br/><code>
+import collections
+y\=collections.Counter([3,3,4,5,5,5])
+print(y.most_common(2))
+</code>
+{
+~Counter(\{5\: 4, 4\: 4, 3\: 2\})
+~\{3\:2\}
+=[(5, 3), (3, 2)]
+~\{4\:3\}
+}
+

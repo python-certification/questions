@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d92cd6df-5ecd-4433-88a8-1cb8fd2ece10
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet? 
+<br/><code>
+f \= \{"jack"\:30,"john"\:35\}
+print(list(f.keys()))
+</code>
+{
+~["jack"\:30, "john"\:35]
+=['jack', 'john']
+~("jack", "john")
+~("jack"\:30, "john"\:35)
+}
+

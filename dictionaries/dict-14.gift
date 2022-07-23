@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 97c25397-f2a1-4561-b38a-3c0c732c2957
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+F\=\{1\:"X",2\:"Y",3\:"Z"\}
+print(F.get(1,4))
+</code>
+{
+~1
+~4
+=X
+~Invalid syntax for get method
+}
+

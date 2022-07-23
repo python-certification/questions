@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: be40e839-3607-4ccd-9f21-9954fd036169
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+x1 \= \{"jack"\:30, "john"\:35\}
+x2 \= \{"jack"\:355, "john"\:35\}
+print(x1 \=\= x2)
+</code>
+{
+=True
+~False
+=None
+=Error
+}
+

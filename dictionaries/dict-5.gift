@@ -1,0 +1,18 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7898d6bd-abbd-4fb4-ae9a-cbf6a466002a
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code? 
+<br/><code>
+x\=\{"x"\:1,"y"\:2,"z"\:3\}
+y\=dict(zip(x.values(),x.keys()))
+print(y)
+</code>
+{
+=\{1\: 'x', 2\: 'y', 3\: 'z'\}
+~An exception is thrown
+~\{'x'\: 'y'\: 'z'\: \}
+~\{1\: 'x', 2\: 'y', 3\: 'z'\}
+}
+

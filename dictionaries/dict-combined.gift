@@ -1,0 +1,870 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9dcce5dd-9aa0-4b7a-8b9d-8d2302408467
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+x\=\{1\:"P",2\:"Q",3\:"R"\}
+del x
+</code>
+{
+~method del doesn't exist for the dictionary
+~del deletes the values in the dictionary
+=del deletes the entire dictionary
+~del deletes the keys in the dictionary
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b38d8a13-f3fd-4f35-8fc0-eb09c459084b
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code? 
+<br/><code>
+x\=\{1\:"P",2\:"Q",3\:"R"\}
+y\=\{4\:"S",5\:"T"\}
+x.update(y)
+print(x)
+</code>
+{
+=\{1\: 'P', 2\: 'Q', 3\: 'R', 4\: 'S', 5\: 'T'\}
+~Method update() doesn't exist for dictionaries
+~\{1\: 'P', 2\: 'Q', 3\: 'R'\}
+~\{4\: 'S', 5\: 'T'\}
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 08540640-c52a-431a-adb9-8fa78e1427f6
+// Python versions: 3.10 3.11
+What will be the output of the following Python code? 
+<br/><code>
+import collections
+x\=dict()
+x\=collections.defaultdict(int)
+print(x[1])
+</code>
+{
+~1
+=0
+~An exception is thrown
+~' '
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b015b903-1268-461c-ad2c-6d9dcf67625a
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code? 
+<br/><code>
+import collections
+f\=collections.OrderedDict((str(p),p) for p in range(3))
+print(f)
+</code>
+{
+~\{'2'\:2, '0'\:0, '1'\:1\}
+=OrderedDict([('0', 0), ('1', 1), ('2', 2)])
+=An exception is thrown
+=' '
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7898d6bd-abbd-4fb4-ae9a-cbf6a466002a
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code? 
+<br/><code>
+x\=\{"x"\:1,"y"\:2,"z"\:3\}
+y\=dict(zip(x.values(),x.keys()))
+print(y)
+</code>
+{
+=\{1\: 'x', 2\: 'y', 3\: 'z'\}
+~An exception is thrown
+~\{'x'\: 'y'\: 'z'\: \}
+~\{1\: 'x', 2\: 'y', 3\: 'z'\}
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7f518128-bb46-4d9f-9f1d-bb7a1e1a4c42
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+total \= \{\}
+def insert(items)\:
+&nbsp;&nbsp;if items in total\:
+&nbsp;&nbsp;&nbsp;&nbsp;total[items] +\= 1
+&nbsp;&nbsp;else\:
+&nbsp;&nbsp;&nbsp;&nbsp;total[items] \= 1
+insert('Mango')
+insert('Pen')
+insert('Mango')
+print (len(total))
+</code>
+{
+~3
+=2
+~1
+~0
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 25158e62-01db-4b30-add9-736bc5f7e24f
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code? 
+<br/><code>
+x\=\{1\:"P",2\:"Q",3\:"R"\}
+x.clear()
+print(x)
+</code>
+{
+~None
+~\{ None\:None, None\:None, None\:None\}
+~\{1\:None, 2\:None, 3\:None\}
+=\{ \}
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1e3d527f-68e8-49e6-9e93-42a1ce2555d0
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet? 
+<br/><code>
+import collections
+x\=collections.Counter([3,3,4,4,4,5])
+x\=collections.Counter([3,3,4,5,5])
+print(x|y)
+</code>
+{
+~Counter(\{4\: 4, 3\: 3, 5\: 3\})
+=Counter(\{4\: 3, 3\: 2, 5\: 2\})
+~Counter(\{4\: 3\})
+~Counter(\{5\: 3\})
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2fc4ab30-c97b-405f-8451-c1042ee2405f
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+f\=\{1\:"P",2\:"Q",3\:"R"\}
+f.setdefault(4,"S")
+print(f)
+</code>
+{
+=\{1\: 'P', 2\: 'Q', 3\: 'R', 4\: 'S'\}
+~Error
+~None
+~[1,2,3,4]
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 4ebc1c42-dbb8-4b24-a22d-f3e4e761fe30
+// Python versions: 3.10 3.11
+Which of the statements about dictionary values if false? 
+{
+~More than one key can have the same value 
+~The values of the dictionary can be accessed as dict[key]
+=Values of a dictionary must be unique
+~Values of a dictionary can be a mixture of letters and numbers
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9e163ac4-0397-4aa1-913c-2d5bc90799ce
+// Python versions: 3.10 3.11
+What will be the output of the following Python code? 
+<br/><code>
+count\=\{\}
+count[(2,3,5)] \= 6
+count[(5,3,2)] \= 8
+count[(2,3)] \= 7
+count[(5,3,2)] \= 3
+tot \= 0
+for f in count\:
+&nbsp;&nbsp;tot\=tot+count[f]
+print(len(count)+tot)
+</code>
+{
+=25
+=17
+~19
+~Tuples can't be made keys of a dictionary
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7ab07748-d6de-4016-9980-41b39165fba8
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code? 
+<br/><code>
+x\=\{\}
+x[3]\=2
+x[2]\=[3,4,5]
+print(x[2][2])
+</code>
+{
+~[3,4,5]
+=5
+~3
+~An exception is thrown
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 08207b22-04d5-412f-b36d-47b285d68e53
+// Python versions: 3.10 3.11
+ 
+If a is a dictionary with some key-value pairs, what does a.popitem() do? 
+{
+=Removes an arbitrary element
+~Removes all the key-value pairs
+~Removes the key-value pair for the key given as an argument
+~Invalid method for dictionary
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 97c25397-f2a1-4561-b38a-3c0c732c2957
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+F\=\{1\:"X",2\:"Y",3\:"Z"\}
+print(F.get(1,4))
+</code>
+{
+~1
+~4
+=X
+~Invalid syntax for get method
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 58f8ac14-168e-4708-85c8-fddc8d32b645
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code? 
+<br/><code>
+F\=\{1\:"X",2\:"Y",3\:"Z"\}
+for i in f\:
+&nbsp;&nbsp;print(i,end\=" ")
+</code>
+{
+=1 2 3
+~'X' 'Y' 'Z'
+~1 'X' 2 'Y' 3 'Z'
+~Error, it should be\: for i in a.items()\:
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 098af598-c648-4b1f-8960-831443433476
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+numbers \= \{\}
+letters \= \{\}
+comb \= \{\}
+numbers[2] \= 90
+numbers[3] \= 9
+letters[5] \= 'A'
+comb['Numbers'] \= Numbers
+comb['Letters'] \= letters
+print(comb)
+</code>
+{
+~Error, dictionary in a dictionary can't exist
+~'Numbers'\: \{2\: 90, 3\: 9\}
+=\{'Numbers'\: \{2\: 90, 3\: 9\}, 'Letters'\: \{5\: 'A'\}\}
+~\{'Numbers'\: \{2\: 90\}, 'Letters'\: \{5\: 'A'\}\}
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 6afcaf21-8484-49fe-9fcc-6a9a78208ac6
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+d\=\{1\:"X",2\:"Y",3\:"Z"\}
+for a,b in d.items()\:
+&nbsp;&nbsp;print(a,b,end\=" ")
+</code>
+{
+=1 X 2 Y 3 Z
+~1 2 3
+~X Y Z
+~1\:"X" 2\:"Y" 3\:"Z"
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2fe35589-43da-42c4-9895-f8d868f4d7cd
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+x \= \{\}
+x[1] \= 1
+x['1'] \= 2
+x[1] \= x[1] + 1
+count \= 0
+for f in x\:
+&nbsp;&nbsp;count +\= x[f]
+print(count)
+</code>
+{
+~1
+~2
+=4
+~Error, the keys can't be a mixture of letters and numbers
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d92cd6df-5ecd-4433-88a8-1cb8fd2ece10
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet? 
+<br/><code>
+f \= \{"jack"\:30,"john"\:35\}
+print(list(f.keys()))
+</code>
+{
+~["jack"\:30, "john"\:35]
+=['jack', 'john']
+~("jack", "john")
+~("jack"\:30, "john"\:35)
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1e2dbcc8-f76a-4e6e-a319-87a2a36778bd
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code? 
+<br/><code>
+x\=\{2\:6,3\:4,4\:5\}
+print(x.pop(4.9))
+</code>
+{
+~3
+=5
+~4
+~Too many arguments for pop() method
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c3e9d37c-2500-4883-bbf3-e4dae6b5e291
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet? 
+<br/><code>
+x \= \{\}
+x[2] \= 2
+x['2'] \= 3
+x[2.0] \= 5
+count \= 0
+for f in x\:
+&nbsp;&nbsp;count +\= x[f]
+print(count)
+</code>
+{
+=8
+~6
+~5
+~An exception is thrown
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b63fd7aa-7321-42c9-a7e0-fbc98d54f283
+// Python versions: 3.10 3.11
+What will be the output of the following Python code? 
+<br/><code>
+x\=\{f\: f*f for f in range(5)\}
+print(x)
+</code>
+{
+=\{0\: 0, 1\: 1, 2\: 4, 3\: 9, 4\: 16\}
+~\{0\: 0, 1\: 1, 4\: 4, 9\: 9, 4\: 16\}
+~\{0\: 0, 1\: 1, 2\: 4, 3\: 9, 4\: 16, 5\: 25\}
+~Dictionary comprehension doesn't exist
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 116cf956-bb29-443f-9d9b-98c42dfd4e77
+// Python versions: 3.10 3.11
+What will be the output of the following Python code? 
+<br/><code>
+import collections
+f\=dict()
+f\=collections.defaultdict(lambda\: 7)
+print(f[4])
+</code>
+{
+~4
+~0
+=7
+~An exception is thrown
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 101836e9-3f3c-416e-97ad-a400de409a83
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code? 
+<br/><code>
+f\=\{\}
+print(all(f))
+</code>
+{
+~\{ \}
+~False
+=True
+~An exception is thrown
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 18253fc6-0239-4dbd-b2b3-3ffb85666754
+// Python versions: 3.10 3.11
+ 
+8.  Suppose x \= \{"jack"\:30, "henry"\:35\}. To obtain the number of entries in dictionary which command do we use? 
+{
+~x.size()
+=len(x)
+~size(x)
+~x.len()
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b096a760-14d1-4ad6-981d-dd9761d29541
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code? 
+<br/><code>
+x\=\{f\: 'X' + str(f) for f in range(5)\}
+print(x)
+</code>
+{
+~An exception is thrown
+=\{0\: 'X0', 1\: 'X1', 2\: 'X2', 3\: 'X3', 4\: 'X4'\}
+~\{0\: 'X', 1\: 'X', 2\: 'X', 3\: 'X', 4\: 'X'\}
+~\{0\: '0', 1\: '1', 2\: '2', 3\: '3', 4\: '4'\}
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: f2b05ca4-86dc-4899-9fdd-9f75e1dc9158
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+import collections
+x\=collections.Counter([2,2,3,4,4,5,5,5])
+print(x)
+</code>
+{
+~\{2,3,4,5\}
+~Counter(\{5, 4, 3, 2\})
+=Counter(\{5\: 3, 2\: 2, 4\: 2, 3\: 1\})
+~\{5\: 3, 2\: 3, 3\: 4, 3\: 2\}
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 55307556-ab6e-4299-8dfb-562d9c781718
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+import collections
+x\=collections.Counter([2,2,3,4])
+x\=collections.Counter([2,3,3,4,4,4])
+print(x&y)
+</code>
+{
+~Counter(\{2\: 15, 4\: 1, 3\: 1\})
+=Counter(\{2\: 1, 3\: 1, 4\: 1\})
+~Counter(\{4\: 2\})
+~Counter(\{4\: 1\})
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c276ae9d-73e4-4d99-a319-6e000cd06870
+// Python versions: 3.10 3.11
+What will be the output of the following Python code? 
+<br/><code>
+x\=\{1\:"P,2\:"Q,3\:"R"\}
+print(x.items())
+</code>
+{
+=dict_items([(1, 'P'), (2, 'Q'), (3, 'R')])
+~Syntax error
+~dict_items([(1,2,3)])
+~dict_items([('P'), ('Q'), ('R')])
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3a623dd0-6ded-4cda-8805-064cb06cd9e5
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+d \= \{"jack"\:30, "henry"\:35\}
+print(d)
+</code>
+{
+~"jack", 30, 35, and "henry"
+=\{'jack'\: 30, 'henry'\: 35\}
+~"jack" and "henry"
+~30 and 35
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 43af5747-bb7f-4164-9c34-77748e1de091
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+t \= \{1\:'J', 2\:'K, 3\:'L'\}
+t \= \{\}
+print(len(t))
+</code>
+{
+=0
+~None
+~An exception is thrown
+~3
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: be40e839-3607-4ccd-9f21-9954fd036169
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+x1 \= \{"jack"\:30, "john"\:35\}
+x2 \= \{"jack"\:355, "john"\:35\}
+print(x1 \=\= x2)
+</code>
+{
+=True
+~False
+=None
+=Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b91ce805-c325-4e9c-aceb-19c2ec40260e
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet? 
+<br/><code>
+f \= \{"peter"\:50, "henry"\:55\}
+print(f["peter"])
+</code>
+{
+~55
+=50
+~peter
+~henry
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ed0504b3-ec6e-4850-8164-8b2ab0c07190
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code? 
+<br/><code>
+x\=\{1\:"P",2\:"Q",3\:"R"\}
+print(x.get(7,6))
+</code>
+{
+~Error, invalid syntax
+=P
+=7
+~6
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b78b1239-2243-496d-b979-286a356b650d
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code? 
+<br/><code>
+f\=dict()
+f[1]
+</code>
+{
+~An exception is thrown since the dictionary is empty
+~' '
+~1
+=Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 5414cdf5-c146-4983-8c06-947ac1f2d2e2
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet? 
+<br/><code>
+x1 \= \{"jack"\:30, "john"\:35\}
+x2 \= \{"jack"\:355, "john"\:35\}
+print(x1 > x2)
+</code>
+{
+~True
+~False
+=Error
+~None
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0ab63560-2496-403a-9278-2cae9fd3509a
+// Python versions: 3.10 3.11
+ 
+Which of the following isn't true about dictionary keys? 
+{
+~More than one key isn't allowed
+~Keys must be immutable
+=Keys must be integers
+~When duplicate keys encountered, the last assignment wins
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: f20506fc-faca-4163-888f-3f9a5838ac3a
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet? 
+<br/><code>
+import collections
+y\=collections.Counter([3,3,4,5,5,5])
+print(y.most_common(2))
+</code>
+{
+~Counter(\{5\: 4, 4\: 4, 3\: 2\})
+~\{3\:2\}
+=[(5, 3), (3, 2)]
+~\{4\:3\}
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 98c58278-1d48-4682-a0c3-1d692ed77806
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code? 
+<br/><code>
+x\=\{1\:"P",2\:"Q",3\:"R"\}
+y\=x.copy()
+y[2]\="S"
+print(x)
+</code>
+{
+=\{1\: 'P', 2\: 'Q', 3\: 'R'\}
+~\{1\: 'P', 2\: 'S', 3\: 'R'\}
+~Error, copy() method doesn't exist for dictionaries
+~"None" is printed
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1e7cba0c-f0fc-473e-9f0a-9579facc110d
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+x \= \{\}
+x['x']\=2
+x['y']\=[3,4,5]
+print(x)
+</code>
+{
+=\{'x'\: 2, 'y'\: [3, 4, 5]\}
+~Exception is thrown
+~\{'x'\: [2], 'y'\: 3\}
+~\{'y'\: [2], 'x'\: [3]\}
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7d3cf873-0dd9-4469-a2ea-3fa0f64e07ab
+// Python versions: 3.10 3.11
+What will be the output of the following Python code? 
+<br/><code>
+x\=\{'Y'\:3,'X'\:5,'Z'\:7\}
+print(sorted(x))
+</code>
+{
+=['X', 'Y', 'Z']
+~['Y','Z','X']
+~[3,5,7]
+~[7,5,3]
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d1117bf4-4a78-41b9-8faa-0f7e7a85bafb
+// Python versions: 3.10 3.11
+Which of these about a dictionary is false? 
+{
+~The values of a dictionary can be accessed using keys
+=The keys of a dictionary can be accessed using values
+~Dictionaries aren't ordered
+~Dictionaries are mutable
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 70f79761-29a9-4dcd-8de9-e11a1c9d2c92
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+f\=\{1\:"X",2\:"Y",3\:"Z"\}
+print(f.setdefault(3))
+</code>
+{
+~\{1\: 'X', 2\: 'Y', 3\: 'Z'\}
+=Z
+~\{1\: 3, 2\: 3, 3\: 3\}
+~No method called setdefault() exists for dictionary
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 99c58821-651d-4063-ab87-4234c76c5739
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet? 
+<br/><code>
+t \= \{1\:'J', 2\:'K', 3\:'L'\}
+del t[2]
+t[2] \= 'M'
+del t[3]
+print(len(t))
+</code>
+{
+~Error as the key-value pair of 1\:'A' is already deleted
+~0
+=2
+~1
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 811a29e4-422f-4a98-9b27-1a94ffd01ab6
+// Python versions: 3.10 3.11
+ 
+Which of the following is not a declaration of the dictionary? 
+{
+~\{1\: 'A', 2\: 'B'\}
+~dict([[1,"A"],[2,"B"]])
+=\{1,"A",2"B"\}
+~\{ \}
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 98e107b1-79e0-4328-aaa8-d2324f6081d6
+// Python versions: 3.10 3.11
+ 
+Which of the following statements create a dictionary? 
+{
+~d \= \{\}
+~d \= \{"jack"\:30, "peter"\:35\}
+~d \= \{30\:"jack", 35\:"peter"\}
+=All of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 93d12528-6104-4b33-90d4-df4e2f371df8
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet? 
+<br/><code>
+x \= \{"jack"\:40, "henry"\:45\}
+print("jack" in x)
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 527918b6-849e-4693-9983-6a11aee62141
+// Python versions: 3.10 3.11
+What will be the output of the following Python code? 
+<br/><code>
+x\=\{2\:6,3\:4,4\:5\}
+x.pop(3)
+print(x)
+</code>
+{
+~\{2\: 6\}
+=\{2\: 6, 4\: 5\}
+~Error, syntax error for pop() method
+~\{2\: 6, 3\: 4\}
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 4c3946ed-cf58-4b92-8d2b-06eb87a84d66
+// Python versions: 3.10 3.11
+What will be the output of the following Python code? 
+<br/><code>
+f\=\{\}
+print(f.fromkeys([2,3,4],"check"))
+</code>
+{
+~Syntax error
+~"check"
+=\{2\: 'check', 3\: 'check', 4\: 'check'\}
+~\{2\:None,3\:None,4\:None\}
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 97276582-cd7d-4679-832e-66e56ed014ed
+// Python versions: 3.10 3.11
+Suppose x \= \{"jack"\:30, "henry"\:35\}, to delete the entry for "jack" what command do we use? 
+{
+~x.delete("jack"\:30)
+~x.delete("jack")
+=del x["jack"]
+~del x("jack"\:30)
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 69a4cb20-fb48-4372-9abc-d29d7f3c73ff
+// Python versions: 3.10 3.11
+ 
+If b is a dictionary, what does any(b) do? 
+{
+=Returns True if any key of the dictionary is true
+~Returns False if dictionary is empty
+~Returns True if all keys of the dictionary are true
+~Method any() doesn't exist for dictionary
+}

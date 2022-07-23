@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7d3cf873-0dd9-4469-a2ea-3fa0f64e07ab
+// Python versions: 3.10 3.11
+What will be the output of the following Python code? 
+<br/><code>
+x\=\{'Y'\:3,'X'\:5,'Z'\:7\}
+print(sorted(x))
+</code>
+{
+=['X', 'Y', 'Z']
+~['Y','Z','X']
+~[3,5,7]
+~[7,5,3]
+}
+

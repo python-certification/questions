@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 70f79761-29a9-4dcd-8de9-e11a1c9d2c92
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+f\=\{1\:"X",2\:"Y",3\:"Z"\}
+print(f.setdefault(3))
+</code>
+{
+~\{1\: 'X', 2\: 'Y', 3\: 'Z'\}
+=Z
+~\{1\: 3, 2\: 3, 3\: 3\}
+~No method called setdefault() exists for dictionary
+}
+

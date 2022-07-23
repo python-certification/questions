@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1e2dbcc8-f76a-4e6e-a319-87a2a36778bd
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code? 
+<br/><code>
+x\=\{2\:6,3\:4,4\:5\}
+print(x.pop(4.9))
+</code>
+{
+~3
+=5
+~4
+~Too many arguments for pop() method
+}
+

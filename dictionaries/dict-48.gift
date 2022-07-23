@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 527918b6-849e-4693-9983-6a11aee62141
+// Python versions: 3.10 3.11
+What will be the output of the following Python code? 
+<br/><code>
+x\=\{2\:6,3\:4,4\:5\}
+x.pop(3)
+print(x)
+</code>
+{
+~\{2\: 6\}
+=\{2\: 6, 4\: 5\}
+~Error, syntax error for pop() method
+~\{2\: 6, 3\: 4\}
+}
+

@@ -1,0 +1,19 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1e3d527f-68e8-49e6-9e93-42a1ce2555d0
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet? 
+<br/><code>
+import collections
+x\=collections.Counter([3,3,4,4,4,5])
+x\=collections.Counter([3,3,4,5,5])
+print(x|y)
+</code>
+{
+~Counter(\{4\: 4, 3\: 3, 5\: 3\})
+=Counter(\{4\: 3, 3\: 2, 5\: 2\})
+~Counter(\{4\: 3\})
+~Counter(\{5\: 3\})
+}
+

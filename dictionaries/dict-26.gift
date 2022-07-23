@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b096a760-14d1-4ad6-981d-dd9761d29541
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code? 
+<br/><code>
+x\=\{f\: 'X' + str(f) for f in range(5)\}
+print(x)
+</code>
+{
+~An exception is thrown
+=\{0\: 'X0', 1\: 'X1', 2\: 'X2', 3\: 'X3', 4\: 'X4'\}
+~\{0\: 'X', 1\: 'X', 2\: 'X', 3\: 'X', 4\: 'X'\}
+~\{0\: '0', 1\: '1', 2\: '2', 3\: '3', 4\: '4'\}
+}
+

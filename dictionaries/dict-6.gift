@@ -1,0 +1,24 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7f518128-bb46-4d9f-9f1d-bb7a1e1a4c42
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+total \= \{\}
+def insert(items)\:
+&nbsp;&nbsp;if items in total\:
+&nbsp;&nbsp;&nbsp;&nbsp;total[items] +\= 1
+&nbsp;&nbsp;else\:
+&nbsp;&nbsp;&nbsp;&nbsp;total[items] \= 1
+insert('Mango')
+insert('Pen')
+insert('Mango')
+print (len(total))
+</code>
+{
+~3
+=2
+~1
+~0
+}
+

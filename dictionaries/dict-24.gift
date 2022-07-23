@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 101836e9-3f3c-416e-97ad-a400de409a83
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code? 
+<br/><code>
+f\=\{\}
+print(all(f))
+</code>
+{
+~\{ \}
+~False
+=True
+~An exception is thrown
+}
+

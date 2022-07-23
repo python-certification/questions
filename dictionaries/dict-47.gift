@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 93d12528-6104-4b33-90d4-df4e2f371df8
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet? 
+<br/><code>
+x \= \{"jack"\:40, "henry"\:45\}
+print("jack" in x)
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+

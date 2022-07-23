@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 08207b22-04d5-412f-b36d-47b285d68e53
+// Python versions: 3.10 3.11
+ 
+If a is a dictionary with some key-value pairs, what does a.popitem() do? 
+{
+=Removes an arbitrary element
+~Removes all the key-value pairs
+~Removes the key-value pair for the key given as an argument
+~Invalid method for dictionary
+}
+

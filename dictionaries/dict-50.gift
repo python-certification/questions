@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 97276582-cd7d-4679-832e-66e56ed014ed
+// Python versions: 3.10 3.11
+Suppose x \= \{"jack"\:30, "henry"\:35\}, to delete the entry for "jack" what command do we use? 
+{
+~x.delete("jack"\:30)
+~x.delete("jack")
+=del x["jack"]
+~del x("jack"\:30)
+}
+

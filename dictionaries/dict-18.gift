@@ -1,0 +1,22 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2fe35589-43da-42c4-9895-f8d868f4d7cd
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+x \= \{\}
+x[1] \= 1
+x['1'] \= 2
+x[1] \= x[1] + 1
+count \= 0
+for f in x\:
+&nbsp;&nbsp;count +\= x[f]
+print(count)
+</code>
+{
+~1
+~2
+=4
+~Error, the keys can't be a mixture of letters and numbers
+}
+

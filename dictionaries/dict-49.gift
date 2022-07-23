@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 4c3946ed-cf58-4b92-8d2b-06eb87a84d66
+// Python versions: 3.10 3.11
+What will be the output of the following Python code? 
+<br/><code>
+f\=\{\}
+print(f.fromkeys([2,3,4],"check"))
+</code>
+{
+~Syntax error
+~"check"
+=\{2\: 'check', 3\: 'check', 4\: 'check'\}
+~\{2\:None,3\:None,4\:None\}
+}
+

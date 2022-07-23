@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b78b1239-2243-496d-b979-286a356b650d
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code? 
+<br/><code>
+f\=dict()
+f[1]
+</code>
+{
+~An exception is thrown since the dictionary is empty
+~' '
+~1
+=Error
+}
+

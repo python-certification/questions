@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 6afcaf21-8484-49fe-9fcc-6a9a78208ac6
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+d\=\{1\:"X",2\:"Y",3\:"Z"\}
+for a,b in d.items()\:
+&nbsp;&nbsp;print(a,b,end\=" ")
+</code>
+{
+=1 X 2 Y 3 Z
+~1 2 3
+~X Y Z
+~1\:"X" 2\:"Y" 3\:"Z"
+}
+

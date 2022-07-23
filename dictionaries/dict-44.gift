@@ -1,0 +1,20 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 99c58821-651d-4063-ab87-4234c76c5739
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet? 
+<br/><code>
+t \= \{1\:'J', 2\:'K', 3\:'L'\}
+del t[2]
+t[2] \= 'M'
+del t[3]
+print(len(t))
+</code>
+{
+~Error as the key-value pair of 1\:'A' is already deleted
+~0
+=2
+~1
+}
+

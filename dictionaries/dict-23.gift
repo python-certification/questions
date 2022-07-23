@@ -1,0 +1,18 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 116cf956-bb29-443f-9d9b-98c42dfd4e77
+// Python versions: 3.10 3.11
+What will be the output of the following Python code? 
+<br/><code>
+import collections
+f\=dict()
+f\=collections.defaultdict(lambda\: 7)
+print(f[4])
+</code>
+{
+~4
+~0
+=7
+~An exception is thrown
+}
+

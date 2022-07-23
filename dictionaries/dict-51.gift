@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 69a4cb20-fb48-4372-9abc-d29d7f3c73ff
+// Python versions: 3.10 3.11
+ 
+If b is a dictionary, what does any(b) do? 
+{
+=Returns True if any key of the dictionary is true
+~Returns False if dictionary is empty
+~Returns True if all keys of the dictionary are true
+~Method any() doesn't exist for dictionary
+}

@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 43af5747-bb7f-4164-9c34-77748e1de091
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+t \= \{1\:'J', 2\:'K, 3\:'L'\}
+t \= \{\}
+print(len(t))
+</code>
+{
+=0
+~None
+~An exception is thrown
+~3
+}
+

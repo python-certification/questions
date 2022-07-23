@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 18253fc6-0239-4dbd-b2b3-3ffb85666754
+// Python versions: 3.10 3.11
+ 
+8.  Suppose x \= \{"jack"\:30, "henry"\:35\}. To obtain the number of entries in dictionary which command do we use? 
+{
+~x.size()
+=len(x)
+~size(x)
+~x.len()
+}
+

@@ -1,0 +1,18 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1e7cba0c-f0fc-473e-9f0a-9579facc110d
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+x \= \{\}
+x['x']\=2
+x['y']\=[3,4,5]
+print(x)
+</code>
+{
+=\{'x'\: 2, 'y'\: [3, 4, 5]\}
+~Exception is thrown
+~\{'x'\: [2], 'y'\: 3\}
+~\{'y'\: [2], 'x'\: [3]\}
+}
+

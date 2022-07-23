@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 4ebc1c42-dbb8-4b24-a22d-f3e4e761fe30
+// Python versions: 3.10 3.11
+Which of the statements about dictionary values if false? 
+{
+~More than one key can have the same value 
+~The values of the dictionary can be accessed as dict[key]
+=Values of a dictionary must be unique
+~Values of a dictionary can be a mixture of letters and numbers
+}
+

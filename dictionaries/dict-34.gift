@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ed0504b3-ec6e-4850-8164-8b2ab0c07190
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code? 
+<br/><code>
+x\=\{1\:"P",2\:"Q",3\:"R"\}
+print(x.get(7,6))
+</code>
+{
+~Error, invalid syntax
+=P
+=7
+~6
+}
+

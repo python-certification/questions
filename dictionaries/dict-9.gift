@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2fc4ab30-c97b-405f-8451-c1042ee2405f
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+f\=\{1\:"P",2\:"Q",3\:"R"\}
+f.setdefault(4,"S")
+print(f)
+</code>
+{
+=\{1\: 'P', 2\: 'Q', 3\: 'R', 4\: 'S'\}
+~Error
+~None
+~[1,2,3,4]
+}
+

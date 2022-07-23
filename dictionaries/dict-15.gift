@@ -1,0 +1,18 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 58f8ac14-168e-4708-85c8-fddc8d32b645
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code? 
+<br/><code>
+F\=\{1\:"X",2\:"Y",3\:"Z"\}
+for i in f\:
+&nbsp;&nbsp;print(i,end\=" ")
+</code>
+{
+=1 2 3
+~'X' 'Y' 'Z'
+~1 'X' 2 'Y' 3 'Z'
+~Error, it should be\: for i in a.items()\:
+}
+

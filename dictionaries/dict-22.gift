@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b63fd7aa-7321-42c9-a7e0-fbc98d54f283
+// Python versions: 3.10 3.11
+What will be the output of the following Python code? 
+<br/><code>
+x\=\{f\: f*f for f in range(5)\}
+print(x)
+</code>
+{
+=\{0\: 0, 1\: 1, 2\: 4, 3\: 9, 4\: 16\}
+~\{0\: 0, 1\: 1, 4\: 4, 9\: 9, 4\: 16\}
+~\{0\: 0, 1\: 1, 2\: 4, 3\: 9, 4\: 16, 5\: 25\}
+~Dictionary comprehension doesn't exist
+}
+

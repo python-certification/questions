@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d1117bf4-4a78-41b9-8faa-0f7e7a85bafb
+// Python versions: 3.10 3.11
+Which of these about a dictionary is false? 
+{
+~The values of a dictionary can be accessed using keys
+=The keys of a dictionary can be accessed using values
+~Dictionaries aren't ordered
+~Dictionaries are mutable
+}
+

@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c276ae9d-73e4-4d99-a319-6e000cd06870
+// Python versions: 3.10 3.11
+What will be the output of the following Python code? 
+<br/><code>
+x\=\{1\:"P,2\:"Q,3\:"R"\}
+print(x.items())
+</code>
+{
+=dict_items([(1, 'P'), (2, 'Q'), (3, 'R')])
+~Syntax error
+~dict_items([(1,2,3)])
+~dict_items([('P'), ('Q'), ('R')])
+}
+

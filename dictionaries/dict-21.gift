@@ -1,0 +1,23 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c3e9d37c-2500-4883-bbf3-e4dae6b5e291
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet? 
+<br/><code>
+x \= \{\}
+x[2] \= 2
+x['2'] \= 3
+x[2.0] \= 5
+count \= 0
+for f in x\:
+&nbsp;&nbsp;count +\= x[f]
+print(count)
+</code>
+{
+=8
+~6
+~5
+~An exception is thrown
+}
+

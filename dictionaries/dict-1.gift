@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9dcce5dd-9aa0-4b7a-8b9d-8d2302408467
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+x\=\{1\:"P",2\:"Q",3\:"R"\}
+del x
+</code>
+{
+~method del doesn't exist for the dictionary
+~del deletes the values in the dictionary
+=del deletes the entire dictionary
+~del deletes the keys in the dictionary
+}
+

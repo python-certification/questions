@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0ab63560-2496-403a-9278-2cae9fd3509a
+// Python versions: 3.10 3.11
+ 
+Which of the following isn't true about dictionary keys? 
+{
+~More than one key isn't allowed
+~Keys must be immutable
+=Keys must be integers
+~When duplicate keys encountered, the last assignment wins
+}
+

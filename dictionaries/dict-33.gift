@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b91ce805-c325-4e9c-aceb-19c2ec40260e
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code snippet? 
+<br/><code>
+f \= \{"peter"\:50, "henry"\:55\}
+print(f["peter"])
+</code>
+{
+~55
+=50
+~peter
+~henry
+}
+

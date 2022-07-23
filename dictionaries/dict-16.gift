@@ -1,0 +1,23 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 098af598-c648-4b1f-8960-831443433476
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+numbers \= \{\}
+letters \= \{\}
+comb \= \{\}
+numbers[2] \= 90
+numbers[3] \= 9
+letters[5] \= 'A'
+comb['Numbers'] \= Numbers
+comb['Letters'] \= letters
+print(comb)
+</code>
+{
+~Error, dictionary in a dictionary can't exist
+~'Numbers'\: \{2\: 90, 3\: 9\}
+=\{'Numbers'\: \{2\: 90, 3\: 9\}, 'Letters'\: \{5\: 'A'\}\}
+~\{'Numbers'\: \{2\: 90\}, 'Letters'\: \{5\: 'A'\}\}
+}
+

@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 811a29e4-422f-4a98-9b27-1a94ffd01ab6
+// Python versions: 3.10 3.11
+ 
+Which of the following is not a declaration of the dictionary? 
+{
+~\{1\: 'A', 2\: 'B'\}
+~dict([[1,"A"],[2,"B"]])
+=\{1,"A",2"B"\}
+~\{ \}
+}
+

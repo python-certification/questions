@@ -1,0 +1,18 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 25158e62-01db-4b30-add9-736bc5f7e24f
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code? 
+<br/><code>
+x\=\{1\:"P",2\:"Q",3\:"R"\}
+x.clear()
+print(x)
+</code>
+{
+~None
+~\{ None\:None, None\:None, None\:None\}
+~\{1\:None, 2\:None, 3\:None\}
+=\{ \}
+}
+

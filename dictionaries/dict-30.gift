@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3a623dd0-6ded-4cda-8805-064cb06cd9e5
+// Python versions: 3.10 3.11
+What will be the output of the following Python code snippet? 
+<br/><code>
+d \= \{"jack"\:30, "henry"\:35\}
+print(d)
+</code>
+{
+~"jack", 30, 35, and "henry"
+=\{'jack'\: 30, 'henry'\: 35\}
+~"jack" and "henry"
+~30 and 35
+}
+

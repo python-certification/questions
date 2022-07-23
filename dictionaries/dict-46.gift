@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 98e107b1-79e0-4328-aaa8-d2324f6081d6
+// Python versions: 3.10 3.11
+ 
+Which of the following statements create a dictionary? 
+{
+~d \= \{\}
+~d \= \{"jack"\:30, "peter"\:35\}
+~d \= \{30\:"jack", 35\:"peter"\}
+=All of the mentioned
+}
+

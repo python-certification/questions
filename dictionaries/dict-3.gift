@@ -1,0 +1,18 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 08540640-c52a-431a-adb9-8fa78e1427f6
+// Python versions: 3.10 3.11
+What will be the output of the following Python code? 
+<br/><code>
+import collections
+x\=dict()
+x\=collections.defaultdict(int)
+print(x[1])
+</code>
+{
+~1
+=0
+~An exception is thrown
+~' '
+}
+

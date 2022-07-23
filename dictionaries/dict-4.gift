@@ -1,0 +1,18 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b015b903-1268-461c-ad2c-6d9dcf67625a
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code? 
+<br/><code>
+import collections
+f\=collections.OrderedDict((str(p),p) for p in range(3))
+print(f)
+</code>
+{
+~\{'2'\:2, '0'\:0, '1'\:1\}
+=OrderedDict([('0', 0), ('1', 1), ('2', 2)])
+=An exception is thrown
+=' '
+}
+

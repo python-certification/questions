@@ -1,0 +1,19 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b38d8a13-f3fd-4f35-8fc0-eb09c459084b
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code? 
+<br/><code>
+x\=\{1\:"P",2\:"Q",3\:"R"\}
+y\=\{4\:"S",5\:"T"\}
+x.update(y)
+print(x)
+</code>
+{
+=\{1\: 'P', 2\: 'Q', 3\: 'R', 4\: 'S', 5\: 'T'\}
+~Method update() doesn't exist for dictionaries
+~\{1\: 'P', 2\: 'Q', 3\: 'R'\}
+~\{4\: 'S', 5\: 'T'\}
+}
+
