@@ -68,10 +68,10 @@ What will be the output of the following Python code snippet?
 <br/><code>
 total \= \{\}
 def insert(items)\:
-  if items in total\:
-    total[items] +\= 1
-  else\:
-    total[items] \= 1
+&nbsp;&nbsp;if items in total\:
+&nbsp;&nbsp;&nbsp;&nbsp;total[items] +\= 1
+&nbsp;&nbsp;else\:
+&nbsp;&nbsp;&nbsp;&nbsp;total[items] \= 1
 insert('Mango')
 insert('Pen')
 insert('Mango')
