@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d422e20a-4bf3-4b3b-914a-2642f384869c
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+a\=[[2],[3]]
+print(" ".join(list(map(str,a))))
+</code>
+{
+=[2] [3]
+~[49] [50]
+~[[2]] [[3]]
+~Syntax error
+}
+

@@ -1,0 +1,21 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 23da2d66-355b-4da4-b419-6b5bc055241e
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following code? 
+<br/><code>
+import copy
+x\=[20,33,66,[80]]
+y\=copy.deepcopy(x)
+x[3][0]\=90
+x[1]\=35
+print(y)
+</code>
+{
+~[20,33,60,[90]] 
+~[20,33,60,[80]]
+=[20, 33, 60, [80]]
+~[20, 33, 60, [90]]
+}
+

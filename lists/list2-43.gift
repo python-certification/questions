@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 5c1c4d5b-e79a-4863-8ce6-60e3993568fa
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+&gt;&gt;&gt;"Welcome to Python".split()
+</code>
+{
+~("Welcome", "to", "Python")
+~\{"Welcome", "to", "Python"\}
+=['Welcome', 'to', 'Python']
+~"Welcome", "to", "Python"
+}
+

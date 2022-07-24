@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 273ed32a-f2e4-48ba-9403-0f4263d3c511
+// Python versions: 3.10 3.11
+How many elements are in a? 
+<br/><code>
+x \= [[a, b] for a in range(0, 2) for b in range(0, 2)]
+</code>
+{
+~[[0, 1], [0, 2], [2, 0], [0, 1]]
+=[[0, 0], [0, 1], [1, 0], [1, 1]]
+~[[0, 10], [0, 2], [0, 3], [0, 4]]
+~None
+}
+

@@ -1,0 +1,22 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 32fc4b88-4575-40a5-84cb-dc861919c3f1
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+def x(list)\:
+&nbsp;&nbsp;y \= list[0]
+&nbsp;&nbsp;for e in list\:
+&nbsp;&nbsp;&nbsp;&nbsp;if y < e\: y \= e
+&nbsp;&nbsp;&nbsp;&nbsp;return y
+values \= [[4, 5, 6, 2], [44, 7, 2, 3]]
+for row in values\:
+&nbsp;&nbsp;print(x(row), end \= " ")
+</code>
+{
+~3 44
+=4 44
+~5 44
+~6 7
+}
+

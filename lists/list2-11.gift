@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 8b990242-91a3-4331-bacc-f621794afcc8
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+p\="python"
+q\=list((f.upper(),len(f)) for f in p)
+print(q)
+</code>
+{
+~[('P', 0), ('Y', 0), ('T', 0), ('H', 0), ('O', 0), ('N', 0)]
+~[('PYTHON', 5)]
+=[('P', 1), ('Y', 1), ('T', 1), ('H', 1), ('O', 1), ('N', 1)]
+~Syntax error
+}
+

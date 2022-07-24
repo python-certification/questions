@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 31918eff-d151-4a1c-ac9f-2c713a49fe46
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+numbers \= [2, 4, 6]
+numbers.append([1,2,3,4])
+print(len(numbers))
+</code>
+{
+~6
+~5
+=4
+~22
+}
+

@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 018615ca-279b-4d6c-8963-bfaa24752acb
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+print(list(zip((2,3,4),('p'),('aaa','bbb'))))
+print(list(zip((3,5),('q','r'),('bb','aa'))))
+</code>
+{
+~[(2,3,4),('p'),('aaa','bbb')]<br/>[(2,4),('q','r'),('bb','aa')]
+~[(2, 'p', 'aaa'),(3,' ','bbb'),(4,' ',' ')]<br/>[(3, 'q', 'bb'), (5, 'r', 'aa')]
+=[(2, 'p', 'aaa')]<br/>[(3, 'q', 'bb'), (5, 'r', 'aa')]
+~Syntax error
+}
+

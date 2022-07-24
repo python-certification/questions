@@ -1,0 +1,18 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b46c14bc-a8f9-405e-9ba1-6a3fcc90404d
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+list1 \= [2, 5]
+list2 \= list1
+list1[0] \= 3
+print(list2)
+</code>
+{
+~[2, 5]
+~[5, 2]
+=[3, 5]
+~[5, 3]
+}
+

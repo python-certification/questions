@@ -1,0 +1,20 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2f19640a-1359-4608-bf78-fb69c2fff42f
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following code? 
+<br/><code>
+def addItem(list1)\:
+&nbsp;&nbsp;list1 +\= [1]
+my_list \= [2, 4, 6, 8]
+addItem(my_list)
+print(len(my_list))
+</code>
+{
+=5
+~1
+~4
+~8
+}
+

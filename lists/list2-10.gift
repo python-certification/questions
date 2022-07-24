@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: cee15b3d-c025-4a43-82e5-2b57c65f7d73
+// Python versions: 3.10 3.11
+ 
+Which of the following commands will create a list? 
+{
+~list1 \= []
+~list1 \= list()
+~list1 \= list([1, 2, 3])
+=all of the mentioned
+}
+

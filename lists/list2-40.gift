@@ -1,0 +1,27 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 201bf01e-89a6-4c00-8c34-358e0582b3e1
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following code? 
+<br/><code>
+names1 \= ['Ajoy', 'Jaya', 'Champoin', 'Dhiman']
+names2 \= names1
+names3 \= names1[\:]
+names2[0] \= 'Alicia'
+names3[1] \= 'Yen'
+sum \= 0
+for ls in (names1, names2, names3)\:
+&nbsp;&nbsp;if ls[0] \=\= 'Alicia'\:
+&nbsp;&nbsp;&nbsp;&nbsp;sum +\= 1
+&nbsp;&nbsp;if ls[1] \=\= 'Yen'\:
+&nbsp;&nbsp;&nbsp;&nbsp;sum +\= 10
+print(sum)
+</code>
+{
+~10
+~12
+=2
+~8
+}
+

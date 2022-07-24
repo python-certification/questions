@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: f53a2373-f07f-414c-9d88-7589ddaf76e9
+// Python versions: 3.10 3.11
+Suppose list1 is [4, 2, 2, 4, 5, 2, 1, 0], Which of the following is correct syntax for slicing operation? 
+{
+~print(list1[0])
+~print(list1[\:2])
+~print(list1[\:-2])
+=all of the mentioned
+}
+

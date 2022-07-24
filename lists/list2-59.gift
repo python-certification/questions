@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 73fb998d-e920-4608-a895-3bb32f258674
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following code? 
+<br/><code>
+fruits \= ['mango', 'apple', 'banana', 'cherry']
+fruits.insert(fruits.index('apple'),'berry')
+print(fruits)
+</code>
+{
+=['mango', 'berry', 'apple', 'banana', 'cherry']
+~['mango', 'berry', 'banana', 'cherry']
+~['mango', 'apple', 'berry', 'banana', 'cherry']
+~['mango', 'apple', 'berry', 'cherry' 'banana' ]
+}

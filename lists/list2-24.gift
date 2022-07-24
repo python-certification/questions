@@ -1,0 +1,22 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0c7ad8a7-7ad9-4a5a-b285-db667862dc5c
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following code? 
+<br/><code>
+values \= [[4, 5, 6, 2], [44, 7, 2, 3]]
+x \= values[0][0]
+for lst in values\:
+&nbsp;&nbsp;for element in lst\:
+&nbsp;&nbsp;&nbsp;&nbsp;if x > element\:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;x \= element
+print(x)
+</code>
+{
+=2
+~3
+~6
+~7
+}
+

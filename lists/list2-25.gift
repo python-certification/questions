@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 966ef346-e3c7-433a-813b-9d182d1f9a7d
+// Python versions: 3.10 3.11
+What is the maximum number of elements List can contain in Python? 
+{
+~10 million items
+~10 million on 32-bit system and 20 million on 64-bit system
+=There is no limit
+~20 million items
+~Another limit
+}
+

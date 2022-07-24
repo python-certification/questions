@@ -1,0 +1,22 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: bfc83799-deca-4799-8e39-2d12bd33dd29
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+d \= [[[2, 3], [4,5]], [[6, 7], [8,9]]]
+def abc(y)\:
+&nbsp;&nbsp;x \= y[0][0]
+&nbsp;&nbsp;for row in y\:
+&nbsp;&nbsp;&nbsp;&nbsp;for element in row\:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if x < element\: x \= element
+&nbsp;&nbsp;return x
+print(abc(d[0]))
+</code>
+{
+~2
+~4
+=5
+~6
+}
+

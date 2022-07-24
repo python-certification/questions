@@ -1,0 +1,22 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3f956f4f-9999-415a-97f4-36138d9742d2
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following code? 
+<br/><code>
+values \= [[4, 5, 6, 2], [44, 7, 2, 3]]
+x \= values[0][0]
+for row in range(0, len(values))\:
+&nbsp;&nbsp;for column in range(0, len(values[row]))\:
+&nbsp;&nbsp;&nbsp;&nbsp;if x < values[row][column]\:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;x \= values[row][column]
+print(x)
+</code>
+{
+~5
+~6
+=44
+~7
+}
+

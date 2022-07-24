@@ -1,0 +1,22 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 6717102c-4502-4402-a893-2775abc21fbe
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+def change(var, lst)\:
+&nbsp;&nbsp;var \= 1
+&nbsp;&nbsp;lst[0] \= 55
+x \= 4
+y \= [2,3,4]
+change(x,y)
+print(x)
+print(y)
+</code>
+{
+=4<br/>[55, 3, 4]
+~4<br/>[2, 3, 4]
+~4<br/>[2, 3, 55]
+~2<br/>[55, 3, 4]
+}
+

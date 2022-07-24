@@ -1,0 +1,19 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b6f0fdd8-fb4a-4dc7-b305-fac5663ca20f
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+x\="p@q@r@s"
+p\=list(x.parition("@"))
+print(p)
+q\=list(x.split("@",3))
+print(q)
+</code>
+{
+~['p','q','r','s']<br/>['p','q','r','s']
+~['p','@','q','@','r','@','s']<br/>['p','q','r','s']
+=['p','@','q@r@s']<br/>['p','q','r','s']
+~['p','@','q@r@s']<br/>['p','@','q','@','r','@','s']
+}
+

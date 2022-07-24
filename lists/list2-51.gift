@@ -1,0 +1,18 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 27b5a47a-0901-405f-855c-d6668389fd2b
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following code? 
+<br/><code>
+q\=[5,6,7,8]
+p\=list(filter(lambda x\:x%2,q))
+print(p)
+</code>
+{
+~[5,8]
+~[ ]
+=[5, 7]
+~Invalid arguments for filter function
+}
+

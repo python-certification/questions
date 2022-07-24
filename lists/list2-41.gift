@@ -1,0 +1,18 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 775e006e-3a82-4373-8766-be8587749ee9
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following code? 
+<br/><code>
+x\=[[]]*3
+x[1].append(5)
+print(x)
+</code>
+{
+~Syntax error
+~[[5], [], []]
+=[[5], [5], [5]]
+~[[],5, [], []]
+}
+

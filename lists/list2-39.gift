@@ -1,0 +1,18 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e464abe9-a380-4237-aedc-d1167f4a5313
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following code? 
+<br/><code>
+list1 \= [8, 7, 6, 5]
+list2 \= [1, 2, 3, 4]
+print(len(list1 + list2))
+</code>
+{
+~2
+=8
+~4
+~6
+}
+

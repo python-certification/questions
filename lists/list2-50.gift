@@ -1,0 +1,21 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b1c6469d-6664-4521-bb2c-b6a8030b13f3
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+def f(i, values \= [])\:
+&nbsp;&nbsp;values.append(i)
+&nbsp;&nbsp;return values
+f(2)
+f(4)
+v \= f(6)
+print(v)
+</code>
+{
+~['2, 4, 6']
+~[2] [ 2, 4] [2, 4, 6]
+=[2, 4, 6]
+~[2] [4] [6]
+}
+

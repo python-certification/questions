@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 21baafc2-7c97-45c6-888b-0ce349c03f49
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+x\=["Mango","Nail","Ox"]
+x.sort(key\=len)
+print(x)
+</code>
+{
+~['Mango', 'Nail', 'Ox']
+=['Ox', 'Nail', 'Mango']
+~['Ox', 'Mango', 'Nail' ]
+~Invalid syntax for sort()
+}
+

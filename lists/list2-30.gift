@@ -1,0 +1,15 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 4560421a-ceec-44cb-824d-5ca6557afe01
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+x\=[12,50,5]
+y\=x.copy()
+y is x
+</code>
+{
+~True
+=False
+}
+

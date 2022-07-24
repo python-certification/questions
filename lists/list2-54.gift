@@ -1,0 +1,19 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: edc1f4da-6012-4623-81dc-0d191419e9d9
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following code? 
+<br/><code>
+names1 \= ['Bertha', 'Davida', 'Monika']
+names2 \= [name.lower() for name in
+names1]
+print(names2[2][0])
+</code>
+{
+~b
+=m
+~d
+~None
+}
+

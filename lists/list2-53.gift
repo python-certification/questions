@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 95eacdd3-55b9-419f-bc0c-de597901966e
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+list1 \= [12, 3, 25]
+list2 \= [12, 3, 2]
+print(list1&gt;list2)
+</code>
+{
+~False
+=True
+~Error
+~None
+}
+

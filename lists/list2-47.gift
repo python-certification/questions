@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: febc629e-5477-4276-9cde-ba10950ab594
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+n \= ['One', 'Two', 'Three']
+for a, x in enumerate(n)\:
+&nbsp;&nbsp;print('\{\}\: \{\}'.format(a, x),end\=" ")
+</code>
+{
+~1\: 2\: 3\:
+~Exception is thrown
+~One Two Three
+=0\: One 1\: Two 2\: Three
+}
+

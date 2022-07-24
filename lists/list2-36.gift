@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: dce85902-8acb-4d4c-8998-04af5efca76a
+// Python versions: 3.10 3.11
+Suppose list1 is [3, 4, 15, 15,  25, 15], what is list1.index(15)? 
+{
+~0
+~5
+=2
+~3
+}
+

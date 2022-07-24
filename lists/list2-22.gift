@@ -1,0 +1,19 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 71a6bbab-bb91-4af7-9406-c4df63cf585f
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+def x(values)\:
+&nbsp;&nbsp;values[0] \= 45
+v \= [2, 4, 6]
+x(v)
+print(v)
+</code>
+{
+~[ 45, 6, 4,]
+~[45, 4]
+~[4, 6, 45 ]
+=[45, 4, 6]
+}
+

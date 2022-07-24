@@ -1,0 +1,19 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 851e6f1e-613e-4a94-858f-210c619f4301
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following code? 
+<br/><code>
+x\=[12,48,15]
+x.append([77])
+x.extend([40,60])
+print(x)
+</code>
+{
+~[12,48,15, [77]40,60]
+=[12, 48, 15, [77], 40, 60]
+~[12, 48, 15, 77,[ 40, 60]]
+~[12,48,15,77,[ 40, 60]]
+}
+

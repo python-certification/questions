@@ -1,0 +1,20 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1ada9324-e900-4035-8a55-26516c49821e
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+word1\="Pen"
+word2\="Pen"
+list1\=[0,1,2]
+list2\=[0,1,2]
+print(word1 is word2)
+print(list1 is list2)
+</code>
+{
+~True<br/>True
+~False<br/>True
+~False<br/>False
+=True<br/>False
+}
+

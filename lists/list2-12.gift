@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ce6b5f1a-c31b-463c-b332-691f7c501a3b
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+x \= [[[2,3],[4,5]], [[6,7], [8,9]]]
+print(x[1][0][0])
+</code>
+{
+~2
+~5
+~4
+=6
+}
+

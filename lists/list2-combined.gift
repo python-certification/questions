@@ -1,3 +1,7 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: f0274604-a36d-4cb9-bd23-dee20b618a3c
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 names1 \= ['Bertha',
@@ -14,6 +18,10 @@ else\:
 ~None
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: dc4fc60f-cbb0-4071-a3b2-a0da3730cbbb
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 x\=[2,3,4]
@@ -28,6 +36,10 @@ print(y)
 ~Syntax error
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 031d26f2-c793-4736-8801-4eaba6773dc3
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 f\= [[a,a+2,a+3] for a in range(0,3)]
@@ -39,6 +51,10 @@ f\= [[a,a+2,a+3] for a in range(0,3)]
 ~[0, 1, 2, 1, 2, 3, 2, 3, 4]
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 615caa47-6282-41b0-9e28-78d27e0fd03e
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 m \= [[2,3,4,5],
@@ -55,6 +71,10 @@ for i in range(0,4)\:
 =3 6 10 14
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d422e20a-4bf3-4b3b-914a-2642f384869c
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 a\=[[2],[3]]
@@ -67,6 +87,10 @@ print(" ".join(list(map(str,a))))
 ~Syntax error
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 000e2aa4-c1d8-45d7-a743-c19986011e23
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 v \= [[4, 5, 6, 2 ], [44, 7, 2, 3]]
@@ -83,6 +107,10 @@ for row in v\:
 ~The program prints two rows 3 6 5 2 followed by 44 6 2 3
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 49ac6505-07e5-42f8-b083-de0c87de3e5a
+// Python versions: 3.10 3.11
 What will be the output of the following Python code? 
 <br/><code>
 p \= [1, 3, 5, 7, 7, 1]
@@ -100,6 +128,11 @@ print(q)
 =4
 ~0
 }
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 851e6f1e-613e-4a94-858f-210c619f4301
+// Python versions: 3.10 3.11
  
 What will be the output of the following code? 
 <br/><code>
@@ -115,6 +148,10 @@ print(x)
 ~[12,48,15,77,[ 40, 60]]
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b93463d7-7126-4d87-829c-cbc3561398dc
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 my_List \= [2, 6, 6, 6, 6, 2]
@@ -132,6 +169,11 @@ print(indexOfMax)
 ~3
 ~4
 }
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: cee15b3d-c025-4a43-82e5-2b57c65f7d73
+// Python versions: 3.10 3.11
  
 Which of the following commands will create a list? 
 {
@@ -141,6 +183,10 @@ Which of the following commands will create a list?
 =all of the mentioned
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 8b990242-91a3-4331-bacc-f621794afcc8
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 p\="python"
@@ -154,6 +200,10 @@ print(q)
 ~Syntax error
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ce6b5f1a-c31b-463c-b332-691f7c501a3b
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 x \= [[[2,3],[4,5]], [[6,7], [8,9]]]
@@ -165,6 +215,11 @@ print(x[1][0][0])
 ~4
 =6
 }
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3f956f4f-9999-415a-97f4-36138d9742d2
+// Python versions: 3.10 3.11
  
 What will be the output of the following code? 
 <br/><code>
@@ -182,6 +237,11 @@ print(x)
 =44
 ~7
 }
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 8671db6a-2151-43b2-92ec-2db66f26e741
+// Python versions: 3.10 3.11
  
 What will be the output of the following code? 
 <br/><code>
@@ -199,6 +259,10 @@ print(animals)
 ~['Monkey', 'Tiger', 'Lion']
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 601c4a49-946a-4acc-9062-bcbd4a22bc65
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 x\=[[2,3],[4,5]]
@@ -211,6 +275,10 @@ print(sum(x,[]))
 ~[14]
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 6717102c-4502-4402-a893-2775abc21fbe
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 def change(var, lst)\:
@@ -229,6 +297,10 @@ print(y)
 ~2<br/>[55, 3, 4]
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ef5cb500-4879-4b94-9451-cc7d67d968c1
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 x\=[2,33,60,[88]]
@@ -244,6 +316,10 @@ print(y)
 ~[20,33,60,[88]]
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7c9bfb06-e666-472a-9ed1-8390266ce6f7
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 x \= y\= [2,4, 6]
@@ -257,6 +333,10 @@ print(x)
 ~[ 2, 4, 6]
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 32fc4b88-4575-40a5-84cb-dc861919c3f1
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 def x(list)\:
@@ -275,6 +355,10 @@ for row in values\:
 ~6 7
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c129ab90-46b4-4970-9e89-0a8767ba131b
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 m\=[4,5,7,2,3]
@@ -288,6 +372,10 @@ print(m)
 =[4,5,6,7,8]
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7df72dbd-a77d-464e-a166-0dd8db35de45
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 x\= [2, 3, 4, 5, 6]
@@ -303,6 +391,10 @@ for y in range(0, 5)\:
 =3 4 5 6 6
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 71a6bbab-bb91-4af7-9406-c4df63cf585f
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 def x(values)\:
@@ -318,6 +410,10 @@ print(v)
 =[45, 4, 6]
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 59f6f65b-331c-4cbb-a838-f50f4353f033
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 x\=170
@@ -330,6 +426,11 @@ print(y)
 =8
 ~Syntax error
 }
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 0c7ad8a7-7ad9-4a5a-b285-db667862dc5c
+// Python versions: 3.10 3.11
  
 What will be the output of the following code? 
 <br/><code>
@@ -348,6 +449,10 @@ print(x)
 ~7
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 966ef346-e3c7-433a-813b-9d182d1f9a7d
+// Python versions: 3.10 3.11
 What is the maximum number of elements List can contain in Python? 
 {
 ~10 million items
@@ -357,6 +462,10 @@ What is the maximum number of elements List can contain in Python?
 ~Another limit
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b446ab3c-e120-436f-8a6e-cd610af17917
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 p \= [[2,3], [4, 2.5], [0.7, 0.7]]
@@ -370,6 +479,10 @@ print(p)
 ~[[2, 3], [4, 2.5], [0.7, 0.7]]
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: f410dc4d-e507-48b3-9eaf-a0cd33c1c67e
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 p\=[2,3,4,5]
@@ -383,6 +496,10 @@ print(q)
 =[2, 5, 9, 14]
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 31918eff-d151-4a1c-ac9f-2c713a49fe46
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 numbers \= [2, 4, 6]
@@ -396,6 +513,10 @@ print(len(numbers))
 ~22
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 6d7890d8-3ad8-41f7-851d-61275b347839
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 def increment_items(L, increment)\:
@@ -414,6 +535,10 @@ print(values)
 ~None [1, 2, 3]
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 4560421a-ceec-44cb-824d-5ca6557afe01
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 x\=[12,50,5]
@@ -424,6 +549,11 @@ y is x
 ~True
 =False
 }
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 47f79bff-f293-45f5-ab84-69410d5f3626
+// Python versions: 3.10 3.11
  
 What will be the output of the following code? 
 <br/><code>
@@ -436,6 +566,11 @@ What will be the output of the following code?
 ~Error
 =n
 }
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 2f19640a-1359-4608-bf78-fb69c2fff42f
+// Python versions: 3.10 3.11
  
 What will be the output of the following code? 
 <br/><code>
@@ -452,6 +587,10 @@ print(len(my_list))
 ~8
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 4b0b7eb7-6f99-4fc2-875d-26ecb5917904
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 x\=[2,3,4,5]
@@ -465,6 +604,10 @@ print(y)
 ~[2,3,9,14]
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 273ed32a-f2e4-48ba-9403-0f4263d3c511
+// Python versions: 3.10 3.11
 How many elements are in a? 
 <br/><code>
 x \= [[a, b] for a in range(0, 2) for b in range(0, 2)]
@@ -476,6 +619,10 @@ x \= [[a, b] for a in range(0, 2) for b in range(0, 2)]
 ~None
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 442223dd-8c16-42e2-9ad7-7a966d511f8f
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 x\=list((50,)*4)
@@ -489,6 +636,10 @@ print(x)
 ~Syntax error
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: dce85902-8acb-4d4c-8998-04af5efca76a
+// Python versions: 3.10 3.11
 Suppose list1 is [3, 4, 15, 15,  25, 15], what is list1.index(15)? 
 {
 ~0
@@ -496,6 +647,11 @@ Suppose list1 is [3, 4, 15, 15,  25, 15], what is list1.index(15)?
 =2
 ~3
 }
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 316fcb38-6dfd-40f1-9947-338f3b933b91
+// Python versions: 3.10 3.11
  
 Suppose list1 \= [0.5 * x for x in range(0, 5)], list1 is\: 
 {
@@ -505,6 +661,10 @@ Suppose list1 \= [0.5 * x for x in range(0, 5)], list1 is\:
 ~[0.1, 0.2, 0.3, 0.4, 0.5]
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b6f0fdd8-fb4a-4dc7-b305-fac5663ca20f
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 x\="p@q@r@s"
@@ -519,6 +679,11 @@ print(q)
 =['p','@','q@r@s']<br/>['p','q','r','s']
 ~['p','@','q@r@s']<br/>['p','@','q','@','r','@','s']
 }
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e464abe9-a380-4237-aedc-d1167f4a5313
+// Python versions: 3.10 3.11
  
 What will be the output of the following code? 
 <br/><code>
@@ -532,6 +697,11 @@ print(len(list1 + list2))
 ~4
 ~6
 }
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 201bf01e-89a6-4c00-8c34-358e0582b3e1
+// Python versions: 3.10 3.11
  
 What will be the output of the following code? 
 <br/><code>
@@ -554,6 +724,11 @@ print(sum)
 =2
 ~8
 }
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 775e006e-3a82-4373-8766-be8587749ee9
+// Python versions: 3.10 3.11
  
 What will be the output of the following code? 
 <br/><code>
@@ -568,6 +743,10 @@ print(x)
 ~[[],5, [], []]
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: deb25e02-676f-499f-9073-617a564de939
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 my_List \= [1, 2, 3, 4, 5]
@@ -583,6 +762,10 @@ for i in range(1, 5)\:
 ~2 2 2 3 4 5 2 2 2 2 3 4 5 3 4 5 2 3 4 5
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 5c1c4d5b-e79a-4863-8ce6-60e3993568fa
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 &gt;&gt;&gt;"Welcome to Python".split()
@@ -594,6 +777,10 @@ What will be the output of the following code?
 ~"Welcome", "to", "Python"
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: f53a2373-f07f-414c-9d88-7589ddaf76e9
+// Python versions: 3.10 3.11
 Suppose list1 is [4, 2, 2, 4, 5, 2, 1, 0], Which of the following is correct syntax for slicing operation? 
 {
 ~print(list1[0])
@@ -602,6 +789,10 @@ Suppose list1 is [4, 2, 2, 4, 5, 2, 1, 0], Which of the following is correct syn
 =all of the mentioned
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b46c14bc-a8f9-405e-9ba1-6a3fcc90404d
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 list1 \= [2, 5]
@@ -615,6 +806,11 @@ print(list2)
 =[3, 5]
 ~[5, 3]
 }
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 23da2d66-355b-4da4-b419-6b5bc055241e
+// Python versions: 3.10 3.11
  
 What will be the output of the following code? 
 <br/><code>
@@ -632,6 +828,10 @@ print(y)
 ~[20, 33, 60, [90]]
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: febc629e-5477-4276-9cde-ba10950ab594
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 n \= ['One', 'Two', 'Three']
@@ -645,6 +845,10 @@ for a, x in enumerate(n)\:
 =0\: One 1\: Two 2\: Three
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1ada9324-e900-4035-8a55-26516c49821e
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 word1\="Pen"
@@ -661,6 +865,10 @@ print(list1 is list2)
 =True<br/>False
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 775f4c95-68d3-41fb-b941-61c5d83fbc0d
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 def unpack(p,q,r,s)\:
@@ -675,6 +883,10 @@ unpack(*a)
 =7
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b1c6469d-6664-4521-bb2c-b6a8030b13f3
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 def f(i, values \= [])\:
@@ -691,6 +903,11 @@ print(v)
 =[2, 4, 6]
 ~[2] [4] [6]
 }
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 27b5a47a-0901-405f-855c-d6668389fd2b
+// Python versions: 3.10 3.11
  
 What will be the output of the following code? 
 <br/><code>
@@ -705,6 +922,10 @@ print(p)
 ~Invalid arguments for filter function
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: bfc83799-deca-4799-8e39-2d12bd33dd29
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 d \= [[[2, 3], [4,5]], [[6, 7], [8,9]]]
@@ -723,6 +944,10 @@ print(abc(d[0]))
 ~6
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 95eacdd3-55b9-419f-bc0c-de597901966e
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 list1 \= [12, 3, 25]
@@ -735,6 +960,11 @@ print(list1&gt;list2)
 ~Error
 ~None
 }
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: edc1f4da-6012-4623-81dc-0d191419e9d9
+// Python versions: 3.10 3.11
  
 What will be the output of the following code? 
 <br/><code>
@@ -749,6 +979,11 @@ print(names2[2][0])
 ~d
 ~None
 }
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d73c06f1-81da-459c-bf86-c6062cc89f65
+// Python versions: 3.10 3.11
  
 To which of the following the "in" operator can be used to check if an item is in it? 
 {
@@ -758,6 +993,10 @@ To which of the following the "in" operator can be used to check if an item is i
 =All of the above
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 018615ca-279b-4d6c-8963-bfaa24752acb
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 print(list(zip((2,3,4),('p'),('aaa','bbb'))))
@@ -769,6 +1008,11 @@ print(list(zip((3,5),('q','r'),('bb','aa'))))
 =[(2, 'p', 'aaa')]<br/>[(3, 'q', 'bb'), (5, 'r', 'aa')]
 ~Syntax error
 }
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 78980a66-0ab7-43a0-8105-13750f7b707f
+// Python versions: 3.10 3.11
  
 What will be the output of the following code? 
 <br/><code>
@@ -789,6 +1033,10 @@ def example(L)\:
 ~Return a list containing the items from L starting from index 0, omitting every third item
 }
 
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 21baafc2-7c97-45c6-888b-0ce349c03f49
+// Python versions: 3.10 3.11
 What will be the output of the following code? 
 <br/><code>
 x\=["Mango","Nail","Ox"]
@@ -801,6 +1049,11 @@ print(x)
 ~['Ox', 'Mango', 'Nail' ]
 ~Invalid syntax for sort()
 }
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 73fb998d-e920-4608-a895-3bb32f258674
+// Python versions: 3.10 3.11
  
 What will be the output of the following code? 
 <br/><code>
@@ -813,4 +1066,9 @@ print(fruits)
 ~['mango', 'berry', 'banana', 'cherry']
 ~['mango', 'apple', 'berry', 'banana', 'cherry']
 ~['mango', 'apple', 'berry', 'cherry' 'banana' ]
+}
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c9a4075a-f781-483e-9c76-c48c08e4aab0
+// Python versions: 3.10 3.11
 }

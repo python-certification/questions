@@ -1,0 +1,18 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 775f4c95-68d3-41fb-b941-61c5d83fbc0d
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+def unpack(p,q,r,s)\:
+&nbsp;&nbsp;print(p+s)
+a \= [2,3,4,5]
+unpack(*a)
+</code>
+{
+~Error
+=[2,5]
+=[7]
+=7
+}
+

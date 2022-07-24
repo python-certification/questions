@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 4b0b7eb7-6f99-4fc2-875d-26ecb5917904
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+x\=[2,3,4,5]
+y\=[sum(x[0\:a+1]) for a in range(0,len(x))]
+print(y)
+</code>
+{
+~14
+~[2,5,7,9]
+=[2, 5, 9, 14]
+~[2,3,9,14]
+}
+

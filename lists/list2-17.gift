@@ -1,0 +1,19 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: ef5cb500-4879-4b94-9451-cc7d67d968c1
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+x\=[2,33,60,[88]]
+y\=list(x)
+x[3][0]\=90
+x[1]\=35
+print(y)
+</code>
+{
+~[20,33,60,[90]]
+~[20, 33, 60, [88]]
+=[20, 33, 60, [90]]
+~[20,33,60,[88]]
+}
+

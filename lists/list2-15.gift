@@ -1,0 +1,16 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 601c4a49-946a-4acc-9062-bcbd4a22bc65
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+x\=[[2,3],[4,5]]
+print(sum(x,[]))
+</code>
+{
+~[[3],[8]]
+=[2, 3, 4, 5]
+~Error
+~[14]
+}
+

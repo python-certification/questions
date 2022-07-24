@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: f410dc4d-e507-48b3-9eaf-a0cd33c1c67e
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+p\=[2,3,4,5]
+q\=[sum(p[0\:x+1]) for x in range(0,len(p))]
+print(q)
+</code>
+{
+~14
+~[2,3,5,7]
+~5
+=[2, 5, 9, 14]
+}
+

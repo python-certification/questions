@@ -1,0 +1,21 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 8671db6a-2151-43b2-92ec-2db66f26e741
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following code? 
+<br/><code>
+animals \= ['Monkey', 'Tiger', 'Lion']
+animals1 \= animals
+animals2 \= animals[\:]
+animals1[1] \= 'Fox'
+animals2[2] \= 'Deer'
+print(animals)
+</code>
+{
+~['Monkey', 'Fox', 'Deer']
+=['Monkey', 'Fox', 'Lion']
+~['Monkey', 'Fox', 'Tiger']
+~['Monkey', 'Tiger', 'Lion']
+}
+

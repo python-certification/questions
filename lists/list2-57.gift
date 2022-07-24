@@ -1,0 +1,24 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 78980a66-0ab7-43a0-8105-13750f7b707f
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following code? 
+<br/><code>
+def example(L)\:
+&nbsp;&nbsp;''' (list) -&gt; list
+&nbsp;&nbsp;'''
+&nbsp;&nbsp;i \= 0
+&nbsp;&nbsp;result \= []
+&nbsp;&nbsp;while i &lt; len(L)\:
+&nbsp;&nbsp;&nbsp;&nbsp;result.append(L[i])
+&nbsp;&nbsp;&nbsp;&nbsp;i \= i + 3
+&nbsp;&nbsp;return result
+</code>
+{
+=Return a list containing every third item from L starting at index 0
+~Return an empty list
+~Return a list containing every third index from L starting at index 0
+~Return a list containing the items from L starting from index 0, omitting every third item
+}
+

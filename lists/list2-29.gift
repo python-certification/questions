@@ -1,0 +1,22 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 6d7890d8-3ad8-41f7-851d-61275b347839
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+def increment_items(L, increment)\:
+&nbsp;&nbsp;i \= 0
+&nbsp;&nbsp;while i < len(L)\:
+&nbsp;&nbsp;&nbsp;&nbsp;L[i] \= L[i] + increment
+&nbsp;&nbsp;&nbsp;&nbsp;i \= i + 1
+values \= [2, 4, 6]
+print(increment_items(values, 2))
+print(values)
+</code>
+{
+=None [4, 6, 8]
+~[4,6,8] None
+~[1, 2, 3] [4,5,6]
+~None [1, 2, 3]
+}
+

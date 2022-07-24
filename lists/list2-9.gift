@@ -1,0 +1,22 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b93463d7-7126-4d87-829c-cbc3561398dc
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+my_List \= [2, 6, 6, 6, 6, 2]
+max \= my_List[0]
+indexOfMax \= 0
+for i in range(2, len(my_List))\:
+&nbsp;&nbsp;if my_List[i] > max\:
+&nbsp;&nbsp;&nbsp;&nbsp;max \= my_List[i]
+&nbsp;&nbsp;&nbsp;&nbsp;indexOfMax \= i
+print(indexOfMax)
+</code>
+{
+~1
+=2
+~3
+~4
+}
+

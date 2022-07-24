@@ -1,0 +1,19 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: deb25e02-676f-499f-9073-617a564de939
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+my_List \= [1, 2, 3, 4, 5]
+for i in range(1, 5)\:
+&nbsp;&nbsp;my_List[i - 1] \= my_List[i]
+&nbsp;&nbsp;for i in range(0, 5)\:
+&nbsp;&nbsp;&nbsp;&nbsp;print(my_List[i], end \= " ")
+</code>
+{
+~2 2 3 4 3 3 6 3 3 4 5 2 3 4 4 5 4 5 5
+~2 2 3 4 3 3 4 5 4 4 5 2 3 4 2 3 3 4 5
+=2 2 3 4 5 2 3 3 4 5 2 3 4 4 5 2 3 4 5 5
+~2 2 2 3 4 5 2 2 2 2 3 4 5 3 4 5 2 3 4 5
+}
+

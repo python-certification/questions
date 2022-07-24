@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 47f79bff-f293-45f5-ab84-69410d5f3626
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following code? 
+<br/><code>
+&gt;&gt;&gt;names \= ['Ajoy', 'Jaya', 'Champion', 'Dhiman']
+&gt;&gt;&gt;print (names[-1][-1])
+</code>
+{
+~A 
+~Dhiman
+~Error
+=n
+}
+

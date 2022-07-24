@@ -1,0 +1,20 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 000e2aa4-c1d8-45d7-a743-c19986011e23
+// Python versions: 3.10 3.11
+What will be the output of the following code? 
+<br/><code>
+v \= [[4, 5, 6, 2 ], [44, 7, 2, 3]]
+for row in v\:
+&nbsp;&nbsp;row.sort()
+&nbsp;&nbsp;for element in row\:
+&nbsp;&nbsp;&nbsp;&nbsp;print(element, end \= " ")
+&nbsp;&nbsp;print()
+</code>
+{
+~The program prints two rows 3 5 6 2 followed by 44 7 2 3
+~The program prints on row 3 6 5 2 44 7 3 2
+=The program prints two rows 2 4 5 6 followed by 2 3 7 44
+~The program prints two rows 3 6 5 2 followed by 44 6 2 3
+}
+

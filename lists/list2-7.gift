@@ -1,0 +1,22 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 49ac6505-07e5-42f8-b083-de0c87de3e5a
+// Python versions: 3.10 3.11
+What will be the output of the following Python code? 
+<br/><code>
+p \= [1, 3, 5, 7, 7, 1]
+q\=p[0]
+a\=0
+for a in range(1, len(p))\:
+&nbsp;&nbsp;if p[a] > q\:
+&nbsp;&nbsp;&nbsp;&nbsp;q \= p[a]
+&nbsp;&nbsp;&nbsp;&nbsp;q\= A
+print(q)
+</code>
+{
+~5
+~3
+=4
+~0
+}
+
