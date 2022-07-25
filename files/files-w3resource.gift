@@ -1,0 +1,380 @@
+To open a file c\:\text.txt for reading, we use _____________ 
+{
+~f \= open("c\:\test.txt", "r")
+=f \= open("c\:\\test.txt", "r")
+~f \= open(file \= "c\:\test.txt", "r")
+~f \= open(file \= "c\:\\test.txt", "r")
+}
+
+What will be the output of the following Python code? 
+<br/><code>
+import sys
+print(sys.stdout.write(' Hello\\n'))
+print(sys.stdout.write('World\\n'))
+</code>
+{
+~Compilation Error
+~Runtime Error
+= Hello<br/>7<br/>World<br/>6
+~Hello<br/>None<br/>World<br/>None
+}
+
+What is the use of seek() method in files? 
+{
+=sets the file's current position at the offset
+~sets the file's previous position at the offset
+~sets the file's current position within the file
+~none of the mentioned
+}
+
+To read the next line of the file from a file object f, we use ___________ 
+{
+~f.read(2)
+~f.read()
+=f.readline()
+~f.readlines()
+}
+
+Which function is used to write all the characters? 
+{
+=write()
+~writecharacters()
+~writeall()
+~writechar()
+}
+
+What is the use of "a" in file handling? 
+{
+~Read 
+~Write
+=Append
+~None of the mentioned
+}
+
+What is the correct syntax to remove() a file? 
+{
+=remove(file_name)
+~remove(new_file_name, current_file_name,)
+~remove(() , file_name))
+~none of the mentioned
+}
+
+To read the remaining lines of the file from a file object f, we use __________ 
+{
+~f.read(2)
+~f.read()
+~f.readline()
+=f.readlines()
+}
+
+What is the use of truncate() method in file? 
+{
+=truncates the file size
+~deletes the content of the file
+~deletes the file size
+~none of the mentioned
+}
+
+Which of the following mode will refer to binary data? 
+{
+~r
+~w
+~+
+=b
+}
+ 
+Which of the following is not a valid attribute of a file object (f)? 
+{
+~f.name 
+~f.closed
+~f.mode
+=f.size
+}
+
+How do you close a file object (fp)? 
+{
+~close(fp)
+~fclose(fp)
+=fp.close()
+~fp.__close__()
+} 
+
+What is the use of tell() method in python? 
+{
+=Inform you the current position within the file
+~Inform you the end position within the file
+~Inform you the file is opened or not
+~None of the mentioned
+}
+
+To open a file c\:\text.txt for appending data, we use ___________ 
+{
+=outfile \= open("c\:\\test.txt", "a")
+~outfile \= open("c\:\\test.txt", "rw")
+~outfile \= open(file \= "c\:\test.txt", "w")
+~outfile \= open(file \= "c\:\\test.txt", "w")
+}
+
+Correct syntax of file.writelines() is? 
+{
+~file.writelines(sequence)
+~fileObject.writelines()
+=fileObject.writelines(sequence)
+~none of the mentioned
+}
+
+How do you get the name of a file from a file object (f)? 
+{
+=f.name
+~f.file(name)
+~self.__name__(f)
+~f.__name__()
+}
+
+Which of the following are the modes of both writing and reading in binary format in file? 
+{
+=wb+
+~w
+~wb
+~w+
+}
+
+ What is the correct syntax of rename() a file? 
+{
+=rename(current_file_name, new_file_name)
+~rename(new_file_name, current_file_name,)
+~rename(()(current_file_name, new_file_name))
+~none of the mentioned
+}
+
+The readlines() method returns ____________ 
+{
+~str
+=a list of lines
+~a list of single characters
+~a list of integers
+}
+
+Which function is used to read all the characters? 
+{
+=read()
+~readcharacters()
+~readall()
+~readchar()
+}
+
+What is the correct syntax of open() function? 
+{
+~file \= open(file_name [, access_mode][, buffering])
+=file object \= open(file_name [, access_mode][, buffering])
+~file object \= open(file_name)
+~none of the mentioned
+}
+
+What will be the output of the following Python code? 
+<br/><code>
+import sys
+print('w3resource')
+name \= 'w3resource'
+while True\:
+&nbsp;&nbsp;c \= sys.stdin.read(1)
+&nbsp;&nbsp;if c\=\= '\\n'\:
+&nbsp;&nbsp;&nbsp;&nbsp;break
+&nbsp;&nbsp;name \= name + c
+print('w3resource', name)
+</code>
+{
+=w3resource
+~w3resource , w3resource
+~w3r
+~None of the mentioned
+}
+
+Which function is used to close a file in Python? 
+{
+=close()
+~stop()
+~end()
+~closefile()
+}
+
+To read two characters from a file object f, we use ____________ 
+{
+=f.read(2)
+~f.read()
+~f.readline()
+~f.readlines()
+}
+
+To read the entire remaining contents of the file as a string from a file object f, we use ___________ 
+{
+~f.read(2) 
+=f.read()
+=f.readline()
+=f.readlines()
+}
+
+Is it possible to create a text file in Python? 
+{
+=Yes
+~No
+~Machine dependent
+~All of the mentioned
+}
+
+Which function is used to write a list of string in a file? 
+{
+=writeline()
+~writelines()
+~writestatement()
+~writefullline()
+}
+
+Change the file position to an offset value from the starting position. 
+{
+=fp.seek(offset, 0)
+~fp.seek(offset, 1)
+~fp.seek(offset, 2)
+~none of the mentioned
+}
+
+How do you rename a file? 
+{
+~f.name \= 'new_name.txt'
+=os.rename(old_file, new_name)
+~os.set_name(old_file, new_name)
+}
+ 
+What will be the output of the following Python code? 
+<br/><code>
+ab \= open("abb.txt", "wb")
+print("Name of the file\: ", ab.name)
+ab.flush()
+ab.close()
+</code>
+{
+~Compilation Error
+~Runtime Error
+~No Output
+=Flushes the file when closing them
+}
+
+Correct syntax of file.readlines() is? 
+{
+=fileObject.readlines( sizehint );
+~fileObject.readlines();
+~fileObject.readlines(sequence)
+~none of the mentioned
+}
+
+Which function is used to read single line from file? 
+{
+~readline()
+=readlines()
+~readstatement()
+~readfullline()
+}
+
+To open a file c\:\text.txt for writing, we use ____________ 
+{
+~outfile \= open("c\:\test.txt", "w")
+=outfile \= open("c\:\\test.txt", "w")
+~outfile \= open(file \= "c\:\test.txt", "w")
+~outfile \= open(file \= "c\:\\test.txt", "w")
+}
+
+Which of the following statements are true? 
+{
+~When you open a file for reading an error occurs, if the file does not exist 
+~When you open a file for writing a new file is created, if the file does not exist
+~When you open a file for writing, the existing file is overwritten with the new file, if the file exists,
+=All of the mentioned
+}
+
+Which of the following is not a valid mode to open a file? 
+{
+~ab
+=rw
+~r+
+~w+
+}
+
+What is the use of "w" in file handling? 
+{
+~Read
+=Write
+~Append
+~None of the mentioned
+}
+
+Which one of the following is not attributes of file? 
+{
+~closed
+~softspace
+=rename
+~mode
+}
+
+ What is the difference between r+ and w+ modes? 
+{
+~No difference
+=In case of r+ the pointer is initially placed at the beginning of the file and the pointer is at the end for w+
+~In case of w+ the pointer is initially placed at the beginning of the file and the pointer is at the end for r+
+~Depends on the operating system
+}
+
+In file handling, what does this terms means "r, a"? 
+{
+=read, append
+~append, read
+~write, append
+~none of the mentioned
+}
+
+Which are the two built-in functions to read a line of text from standard input, which by default comes from the keyboard? 
+{
+=raw_input & Input
+~Input & Scan
+~Scan & Scanner
+~Scanner
+}
+
+What happens if no arguments are passed to the seek function? 
+{
+~file position is set to the start of file
+~file position is set to the end of file
+~file position remains unchanged
+=error
+}
+
+How do you get the current position within the file? 
+{
+~f.seek()
+=f.tell()
+~f.loc
+~f.pos
+} 
+
+What will be the output of the following Python code? 
+<br/><code>
+x \= None
+for y in range (3)\:
+&nbsp;&nbsp;with open("data.txt", "w") as x\:
+&nbsp;&nbsp;&nbsp;&nbsp;if y > 2\:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;break
+print(x.closed)
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+
+Command to delete a file. 
+{
+~del(fp)
+~fp.delete()
+=os.remove('file')
+~os.delete('file')
+}
