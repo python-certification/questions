@@ -1,0 +1,23 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7ecd5884-5f14-458c-8c24-b38a58dc86a1
+// Python versions: 3.10 3.11
+What will be the output of the following Python code? 
+<br/><code>
+import sys
+print('w3resource')
+name \= 'w3resource'
+while True\:
+&nbsp;&nbsp;c \= sys.stdin.read(1)
+&nbsp;&nbsp;if c\=\= '\\n'\:
+&nbsp;&nbsp;&nbsp;&nbsp;break
+&nbsp;&nbsp;name \= name + c
+print('w3resource', name)
+</code>
+{
+=w3resource
+~w3resource , w3resource
+~w3r
+~None of the mentioned
+}
+

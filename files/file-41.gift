@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: f917c12e-08d9-4e55-9892-e357283a16da
+// Python versions: 3.10 3.11
+What happens if no arguments are passed to the seek function? 
+{
+~file position is set to the start of file
+~file position is set to the end of file
+~file position remains unchanged
+=error
+}
+

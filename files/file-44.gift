@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9bb969fb-07d5-4a7d-a900-9ead286ff0c8
+// Python versions: 3.10 3.11
+Command to delete a file. 
+{
+~del(fp)
+~fp.delete()
+=os.remove('file')
+~os.delete('file')
+}

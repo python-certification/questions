@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 29790740-fef3-402e-9276-6d039028b9ec
+// Python versions: 3.10 3.11
+Which of the following mode will refer to binary data? 
+{
+~r
+~w
+~+
+=b
+}
+

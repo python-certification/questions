@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 84b541fa-fc33-4c96-b8e5-5b8670a8ede4
+// Python versions: 3.10 3.11
+What is the use of seek() method in files? 
+{
+=sets the file's current position at the offset
+~sets the file's previous position at the offset
+~sets the file's current position within the file
+~none of the mentioned
+}
+

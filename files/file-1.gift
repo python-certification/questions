@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7d8dfac3-07d0-4925-b449-841479eff7e8
+// Python versions: 3.10 3.11
+To open a file c\:\text.txt for reading, we use _____________ 
+{
+~f \= open("c\:\test.txt", "r")
+=f \= open("c\:\\test.txt", "r")
+~f \= open(file \= "c\:\test.txt", "r")
+~f \= open(file \= "c\:\\test.txt", "r")
+}
+

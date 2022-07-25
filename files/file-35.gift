@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 8e09c7f4-aa35-4f61-a005-e9604e62b3c4
+// Python versions: 3.10 3.11
+Which of the following is not a valid mode to open a file? 
+{
+~ab
+=rw
+~r+
+~w+
+}
+

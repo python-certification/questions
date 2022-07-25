@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3b1466a6-d15e-4a6a-8d52-5595eff9d7d2
+// Python versions: 3.10 3.11
+To open a file c\:\text.txt for writing, we use ____________ 
+{
+~outfile \= open("c\:\test.txt", "w")
+=outfile \= open("c\:\\test.txt", "w")
+~outfile \= open(file \= "c\:\test.txt", "w")
+~outfile \= open(file \= "c\:\\test.txt", "w")
+}
+

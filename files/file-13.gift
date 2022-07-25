@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 34c007cb-2122-4331-8f22-4ad08a14b227
+// Python versions: 3.10 3.11
+What is the use of tell() method in python? 
+{
+=Inform you the current position within the file
+~Inform you the end position within the file
+~Inform you the file is opened or not
+~None of the mentioned
+}
+

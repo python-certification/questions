@@ -1,0 +1,17 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7b222cf7-4a33-4147-9b72-8ac6ee478ef9
+// Python versions: 3.10 3.11
+What will be the output of the following Python code? 
+<br/><code>
+import sys
+print(sys.stdout.write(' Hello\\n'))
+print(sys.stdout.write('World\\n'))
+</code>
+{
+~Compilation Error
+~Runtime Error
+= Hello<br/>7<br/>World<br/>6
+~Hello<br/>None<br/>World<br/>None
+}
+

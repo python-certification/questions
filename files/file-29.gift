@@ -1,0 +1,11 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7fa42e86-ee40-4c14-a8a8-e390846b94d0
+// Python versions: 3.10 3.11
+How do you rename a file? 
+{
+~f.name \= 'new_name.txt'
+=os.rename(old_file, new_name)
+~os.set_name(old_file, new_name)
+}
+

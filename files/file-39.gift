@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e7b73b48-7261-40a8-b5ed-fd6e5845c321
+// Python versions: 3.10 3.11
+In file handling, what does this terms means "r, a"? 
+{
+=read, append
+~append, read
+~write, append
+~none of the mentioned
+}
+

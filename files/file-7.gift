@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9b835624-e950-4e4d-ae91-1ea8294b7b63
+// Python versions: 3.10 3.11
+What is the correct syntax to remove() a file? 
+{
+=remove(file_name)
+~remove(new_file_name, current_file_name,)
+~remove(() , file_name))
+~none of the mentioned
+}
+

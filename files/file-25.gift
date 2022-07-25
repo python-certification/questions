@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 28008f49-89e0-46e4-98f5-d475e53be00d
+// Python versions: 3.10 3.11
+To read the entire remaining contents of the file as a string from a file object f, we use ___________ 
+{
+~f.read(2) 
+=f.read()
+=f.readline()
+=f.readlines()
+}
+

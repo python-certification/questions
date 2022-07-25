@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 69324f89-82c6-4a0c-b390-01c295a0e8b9
+// Python versions: 3.10 3.11
+Correct syntax of file.writelines() is? 
+{
+~file.writelines(sequence)
+~fileObject.writelines()
+=fileObject.writelines(sequence)
+~none of the mentioned
+}
+

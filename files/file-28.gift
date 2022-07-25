@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: bd1e0044-fa8c-4a44-8f64-26ef8f3d30dd
+// Python versions: 3.10 3.11
+Change the file position to an offset value from the starting position. 
+{
+=fp.seek(offset, 0)
+~fp.seek(offset, 1)
+~fp.seek(offset, 2)
+~none of the mentioned
+}
+

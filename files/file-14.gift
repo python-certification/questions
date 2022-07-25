@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1ad466b2-bc74-4041-b7e5-7969ad8def2f
+// Python versions: 3.10 3.11
+To open a file c\:\text.txt for appending data, we use ___________ 
+{
+=outfile \= open("c\:\\test.txt", "a")
+~outfile \= open("c\:\\test.txt", "rw")
+~outfile \= open(file \= "c\:\test.txt", "w")
+~outfile \= open(file \= "c\:\\test.txt", "w")
+}
+

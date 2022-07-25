@@ -1,0 +1,13 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 445be420-a485-46ed-8da5-82da0cc53727
+// Python versions: 3.10 3.11
+ 
+Which of the following is not a valid attribute of a file object (f)? 
+{
+~f.name 
+~f.closed
+~f.mode
+=f.size
+}
+

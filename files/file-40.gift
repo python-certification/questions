@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 01331a92-a1db-4627-b73c-a0c03c2b3926
+// Python versions: 3.10 3.11
+Which are the two built-in functions to read a line of text from standard input, which by default comes from the keyboard? 
+{
+=raw_input & Input
+~Input & Scan
+~Scan & Scanner
+~Scanner
+}
+

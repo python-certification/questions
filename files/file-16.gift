@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: a7dceb27-c855-43de-a732-eca2687bcc15
+// Python versions: 3.10 3.11
+How do you get the name of a file from a file object (f)? 
+{
+=f.name
+~f.file(name)
+~self.__name__(f)
+~f.__name__()
+}
+

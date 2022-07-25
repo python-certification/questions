@@ -1,0 +1,558 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7d8dfac3-07d0-4925-b449-841479eff7e8
+// Python versions: 3.10 3.11
+To open a file c\:\text.txt for reading, we use _____________ 
+{
+~f \= open("c\:\test.txt", "r")
+=f \= open("c\:\\test.txt", "r")
+~f \= open(file \= "c\:\test.txt", "r")
+~f \= open(file \= "c\:\\test.txt", "r")
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7b222cf7-4a33-4147-9b72-8ac6ee478ef9
+// Python versions: 3.10 3.11
+What will be the output of the following Python code? 
+<br/><code>
+import sys
+print(sys.stdout.write(' Hello\\n'))
+print(sys.stdout.write('World\\n'))
+</code>
+{
+~Compilation Error
+~Runtime Error
+= Hello<br/>7<br/>World<br/>6
+~Hello<br/>None<br/>World<br/>None
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 84b541fa-fc33-4c96-b8e5-5b8670a8ede4
+// Python versions: 3.10 3.11
+What is the use of seek() method in files? 
+{
+=sets the file's current position at the offset
+~sets the file's previous position at the offset
+~sets the file's current position within the file
+~none of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b6daf4bd-7425-4ebb-917a-67837ce784fc
+// Python versions: 3.10 3.11
+To read the next line of the file from a file object f, we use ___________ 
+{
+~f.read(2)
+~f.read()
+=f.readline()
+~f.readlines()
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3bd67853-bcca-43e7-a741-af908ed11d92
+// Python versions: 3.10 3.11
+Which function is used to write all the characters? 
+{
+=write()
+~writecharacters()
+~writeall()
+~writechar()
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e65ed57d-03fa-471f-b9fd-5b83af048f28
+// Python versions: 3.10 3.11
+What is the use of "a" in file handling? 
+{
+~Read 
+~Write
+=Append
+~None of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9b835624-e950-4e4d-ae91-1ea8294b7b63
+// Python versions: 3.10 3.11
+What is the correct syntax to remove() a file? 
+{
+=remove(file_name)
+~remove(new_file_name, current_file_name,)
+~remove(() , file_name))
+~none of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 95d4df25-84cd-4cd1-914e-aba8c67516d7
+// Python versions: 3.10 3.11
+To read the remaining lines of the file from a file object f, we use __________ 
+{
+~f.read(2)
+~f.read()
+~f.readline()
+=f.readlines()
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 40c3f4f7-34a2-42e7-aea2-bd5268f44320
+// Python versions: 3.10 3.11
+What is the use of truncate() method in file? 
+{
+=truncates the file size
+~deletes the content of the file
+~deletes the file size
+~none of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 29790740-fef3-402e-9276-6d039028b9ec
+// Python versions: 3.10 3.11
+Which of the following mode will refer to binary data? 
+{
+~r
+~w
+~+
+=b
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 445be420-a485-46ed-8da5-82da0cc53727
+// Python versions: 3.10 3.11
+ 
+Which of the following is not a valid attribute of a file object (f)? 
+{
+~f.name 
+~f.closed
+~f.mode
+=f.size
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7851cdb0-24b5-4fc0-9670-1d4fb53a79d9
+// Python versions: 3.10 3.11
+How do you close a file object (fp)? 
+{
+~close(fp)
+~fclose(fp)
+=fp.close()
+~fp.__close__()
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 34c007cb-2122-4331-8f22-4ad08a14b227
+// Python versions: 3.10 3.11
+What is the use of tell() method in python? 
+{
+=Inform you the current position within the file
+~Inform you the end position within the file
+~Inform you the file is opened or not
+~None of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 1ad466b2-bc74-4041-b7e5-7969ad8def2f
+// Python versions: 3.10 3.11
+To open a file c\:\text.txt for appending data, we use ___________ 
+{
+=outfile \= open("c\:\\test.txt", "a")
+~outfile \= open("c\:\\test.txt", "rw")
+~outfile \= open(file \= "c\:\test.txt", "w")
+~outfile \= open(file \= "c\:\\test.txt", "w")
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 69324f89-82c6-4a0c-b390-01c295a0e8b9
+// Python versions: 3.10 3.11
+Correct syntax of file.writelines() is? 
+{
+~file.writelines(sequence)
+~fileObject.writelines()
+=fileObject.writelines(sequence)
+~none of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: a7dceb27-c855-43de-a732-eca2687bcc15
+// Python versions: 3.10 3.11
+How do you get the name of a file from a file object (f)? 
+{
+=f.name
+~f.file(name)
+~self.__name__(f)
+~f.__name__()
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d5f33de2-e3b6-4714-8767-cddb8b97bdfd
+// Python versions: 3.10 3.11
+Which of the following are the modes of both writing and reading in binary format in file? 
+{
+=wb+
+~w
+~wb
+~w+
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 618e059d-358f-4fd4-87bd-78503d0e8670
+// Python versions: 3.10 3.11
+ What is the correct syntax of rename() a file? 
+{
+=rename(current_file_name, new_file_name)
+~rename(new_file_name, current_file_name,)
+~rename(()(current_file_name, new_file_name))
+~none of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 031c2404-83c7-4151-8e7b-dc350ac5d0f6
+// Python versions: 3.10 3.11
+The readlines() method returns ____________ 
+{
+~str
+=a list of lines
+~a list of single characters
+~a list of integers
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: df7eccab-83ad-4bb7-81f2-7feb1baf2ea2
+// Python versions: 3.10 3.11
+Which function is used to read all the characters? 
+{
+=read()
+~readcharacters()
+~readall()
+~readchar()
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: a6e91af7-08fd-4a6a-89d3-aebbff194708
+// Python versions: 3.10 3.11
+What is the correct syntax of open() function? 
+{
+~file \= open(file_name [, access_mode][, buffering])
+=file object \= open(file_name [, access_mode][, buffering])
+~file object \= open(file_name)
+~none of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7ecd5884-5f14-458c-8c24-b38a58dc86a1
+// Python versions: 3.10 3.11
+What will be the output of the following Python code? 
+<br/><code>
+import sys
+print('w3resource')
+name \= 'w3resource'
+while True\:
+&nbsp;&nbsp;c \= sys.stdin.read(1)
+&nbsp;&nbsp;if c\=\= '\\n'\:
+&nbsp;&nbsp;&nbsp;&nbsp;break
+&nbsp;&nbsp;name \= name + c
+print('w3resource', name)
+</code>
+{
+=w3resource
+~w3resource , w3resource
+~w3r
+~None of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: c0008a58-2575-4630-8071-197cc74875a7
+// Python versions: 3.10 3.11
+Which function is used to close a file in Python? 
+{
+=close()
+~stop()
+~end()
+~closefile()
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 76f665fd-1a37-4690-b784-99db851f8a6b
+// Python versions: 3.10 3.11
+To read two characters from a file object f, we use ____________ 
+{
+=f.read(2)
+~f.read()
+~f.readline()
+~f.readlines()
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 28008f49-89e0-46e4-98f5-d475e53be00d
+// Python versions: 3.10 3.11
+To read the entire remaining contents of the file as a string from a file object f, we use ___________ 
+{
+~f.read(2) 
+=f.read()
+=f.readline()
+=f.readlines()
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e60e2fa7-70ad-44c6-93d3-d86078544c62
+// Python versions: 3.10 3.11
+Is it possible to create a text file in Python? 
+{
+=Yes
+~No
+~Machine dependent
+~All of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 87bacabb-966a-4864-b77f-0ea3b6ecf033
+// Python versions: 3.10 3.11
+Which function is used to write a list of string in a file? 
+{
+=writeline()
+~writelines()
+~writestatement()
+~writefullline()
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: bd1e0044-fa8c-4a44-8f64-26ef8f3d30dd
+// Python versions: 3.10 3.11
+Change the file position to an offset value from the starting position. 
+{
+=fp.seek(offset, 0)
+~fp.seek(offset, 1)
+~fp.seek(offset, 2)
+~none of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7fa42e86-ee40-4c14-a8a8-e390846b94d0
+// Python versions: 3.10 3.11
+How do you rename a file? 
+{
+~f.name \= 'new_name.txt'
+=os.rename(old_file, new_name)
+~os.set_name(old_file, new_name)
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 24cc942a-5bb2-47bb-8ad4-2ae91b577840
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code? 
+<br/><code>
+ab \= open("abb.txt", "wb")
+print("Name of the file\: ", ab.name)
+ab.flush()
+ab.close()
+</code>
+{
+~Compilation Error
+~Runtime Error
+~No Output
+=Flushes the file when closing them
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 99667ff2-074a-4972-85ff-2ad7fab9ef07
+// Python versions: 3.10 3.11
+Correct syntax of file.readlines() is? 
+{
+=fileObject.readlines( sizehint );
+~fileObject.readlines();
+~fileObject.readlines(sequence)
+~none of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3e18faca-2ef8-450a-abcd-81a3f991783c
+// Python versions: 3.10 3.11
+Which function is used to read single line from file? 
+{
+~readline()
+=readlines()
+~readstatement()
+~readfullline()
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3b1466a6-d15e-4a6a-8d52-5595eff9d7d2
+// Python versions: 3.10 3.11
+To open a file c\:\text.txt for writing, we use ____________ 
+{
+~outfile \= open("c\:\test.txt", "w")
+=outfile \= open("c\:\\test.txt", "w")
+~outfile \= open(file \= "c\:\test.txt", "w")
+~outfile \= open(file \= "c\:\\test.txt", "w")
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 82bd15aa-c3ed-4a58-8d56-a97632059d26
+// Python versions: 3.10 3.11
+Which of the following statements are true? 
+{
+~When you open a file for reading an error occurs, if the file does not exist 
+~When you open a file for writing a new file is created, if the file does not exist
+~When you open a file for writing, the existing file is overwritten with the new file, if the file exists,
+=All of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 8e09c7f4-aa35-4f61-a005-e9604e62b3c4
+// Python versions: 3.10 3.11
+Which of the following is not a valid mode to open a file? 
+{
+~ab
+=rw
+~r+
+~w+
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 946f8976-64a9-40c1-811f-485a6d22566d
+// Python versions: 3.10 3.11
+What is the use of "w" in file handling? 
+{
+~Read
+=Write
+~Append
+~None of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b39ed544-8fb8-43ff-961b-f9ebdcd77b2d
+// Python versions: 3.10 3.11
+Which one of the following is not attributes of file? 
+{
+~closed
+~softspace
+=rename
+~mode
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 23a434a8-d9e9-4aaa-abe6-de2f06cc162f
+// Python versions: 3.10 3.11
+ What is the difference between r+ and w+ modes? 
+{
+~No difference
+=In case of r+ the pointer is initially placed at the beginning of the file and the pointer is at the end for w+
+~In case of w+ the pointer is initially placed at the beginning of the file and the pointer is at the end for r+
+~Depends on the operating system
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e7b73b48-7261-40a8-b5ed-fd6e5845c321
+// Python versions: 3.10 3.11
+In file handling, what does this terms means "r, a"? 
+{
+=read, append
+~append, read
+~write, append
+~none of the mentioned
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 01331a92-a1db-4627-b73c-a0c03c2b3926
+// Python versions: 3.10 3.11
+Which are the two built-in functions to read a line of text from standard input, which by default comes from the keyboard? 
+{
+=raw_input & Input
+~Input & Scan
+~Scan & Scanner
+~Scanner
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: f917c12e-08d9-4e55-9892-e357283a16da
+// Python versions: 3.10 3.11
+What happens if no arguments are passed to the seek function? 
+{
+~file position is set to the start of file
+~file position is set to the end of file
+~file position remains unchanged
+=error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 954aa88b-4fde-41a5-9f57-b6678efeb1e8
+// Python versions: 3.10 3.11
+How do you get the current position within the file? 
+{
+~f.seek()
+=f.tell()
+~f.loc
+~f.pos
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e8cd82ef-a956-4e9c-81df-d70f26982cf8
+// Python versions: 3.10 3.11
+What will be the output of the following Python code? 
+<br/><code>
+x \= None
+for y in range (3)\:
+&nbsp;&nbsp;with open("data.txt", "w") as x\:
+&nbsp;&nbsp;&nbsp;&nbsp;if y > 2\:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;break
+print(x.closed)
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 9bb969fb-07d5-4a7d-a900-9ead286ff0c8
+// Python versions: 3.10 3.11
+Command to delete a file. 
+{
+~del(fp)
+~fp.delete()
+=os.remove('file')
+~os.delete('file')
+}

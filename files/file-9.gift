@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 40c3f4f7-34a2-42e7-aea2-bd5268f44320
+// Python versions: 3.10 3.11
+What is the use of truncate() method in file? 
+{
+=truncates the file size
+~deletes the content of the file
+~deletes the file size
+~none of the mentioned
+}
+

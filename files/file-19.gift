@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 031c2404-83c7-4151-8e7b-dc350ac5d0f6
+// Python versions: 3.10 3.11
+The readlines() method returns ____________ 
+{
+~str
+=a list of lines
+~a list of single characters
+~a list of integers
+}
+

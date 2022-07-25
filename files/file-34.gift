@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 82bd15aa-c3ed-4a58-8d56-a97632059d26
+// Python versions: 3.10 3.11
+Which of the following statements are true? 
+{
+~When you open a file for reading an error occurs, if the file does not exist 
+~When you open a file for writing a new file is created, if the file does not exist
+~When you open a file for writing, the existing file is overwritten with the new file, if the file exists,
+=All of the mentioned
+}
+

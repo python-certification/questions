@@ -1,0 +1,20 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: e8cd82ef-a956-4e9c-81df-d70f26982cf8
+// Python versions: 3.10 3.11
+What will be the output of the following Python code? 
+<br/><code>
+x \= None
+for y in range (3)\:
+&nbsp;&nbsp;with open("data.txt", "w") as x\:
+&nbsp;&nbsp;&nbsp;&nbsp;if y > 2\:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;break
+print(x.closed)
+</code>
+{
+=True
+~False
+~None
+~Error
+}
+

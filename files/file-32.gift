@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3e18faca-2ef8-450a-abcd-81a3f991783c
+// Python versions: 3.10 3.11
+Which function is used to read single line from file? 
+{
+~readline()
+=readlines()
+~readstatement()
+~readfullline()
+}
+

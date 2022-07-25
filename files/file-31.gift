@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 99667ff2-074a-4972-85ff-2ad7fab9ef07
+// Python versions: 3.10 3.11
+Correct syntax of file.readlines() is? 
+{
+=fileObject.readlines( sizehint );
+~fileObject.readlines();
+~fileObject.readlines(sequence)
+~none of the mentioned
+}
+

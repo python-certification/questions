@@ -97,7 +97,7 @@ How do you close a file object (fp)?
 ~fclose(fp)
 =fp.close()
 ~fp.__close__()
-} 
+}
 
 What is the use of tell() method in python? 
 {
@@ -353,7 +353,7 @@ How do you get the current position within the file?
 =f.tell()
 ~f.loc
 ~f.pos
-} 
+}
 
 What will be the output of the following Python code? 
 <br/><code>

@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: a6e91af7-08fd-4a6a-89d3-aebbff194708
+// Python versions: 3.10 3.11
+What is the correct syntax of open() function? 
+{
+~file \= open(file_name [, access_mode][, buffering])
+=file object \= open(file_name [, access_mode][, buffering])
+~file object \= open(file_name)
+~none of the mentioned
+}
+

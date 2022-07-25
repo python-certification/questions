@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 95d4df25-84cd-4cd1-914e-aba8c67516d7
+// Python versions: 3.10 3.11
+To read the remaining lines of the file from a file object f, we use __________ 
+{
+~f.read(2)
+~f.read()
+~f.readline()
+=f.readlines()
+}
+

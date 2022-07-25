@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 87bacabb-966a-4864-b77f-0ea3b6ecf033
+// Python versions: 3.10 3.11
+Which function is used to write a list of string in a file? 
+{
+=writeline()
+~writelines()
+~writestatement()
+~writefullline()
+}
+

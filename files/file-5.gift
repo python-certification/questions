@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 3bd67853-bcca-43e7-a741-af908ed11d92
+// Python versions: 3.10 3.11
+Which function is used to write all the characters? 
+{
+=write()
+~writecharacters()
+~writeall()
+~writechar()
+}
+

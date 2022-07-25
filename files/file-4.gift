@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: b6daf4bd-7425-4ebb-917a-67837ce784fc
+// Python versions: 3.10 3.11
+To read the next line of the file from a file object f, we use ___________ 
+{
+~f.read(2)
+~f.read()
+=f.readline()
+~f.readlines()
+}
+

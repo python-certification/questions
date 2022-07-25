@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: d5f33de2-e3b6-4714-8767-cddb8b97bdfd
+// Python versions: 3.10 3.11
+Which of the following are the modes of both writing and reading in binary format in file? 
+{
+=wb+
+~w
+~wb
+~w+
+}
+

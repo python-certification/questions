@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: df7eccab-83ad-4bb7-81f2-7feb1baf2ea2
+// Python versions: 3.10 3.11
+Which function is used to read all the characters? 
+{
+=read()
+~readcharacters()
+~readall()
+~readchar()
+}
+

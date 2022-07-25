@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 7851cdb0-24b5-4fc0-9670-1d4fb53a79d9
+// Python versions: 3.10 3.11
+How do you close a file object (fp)? 
+{
+~close(fp)
+~fclose(fp)
+=fp.close()
+~fp.__close__()
+}
+

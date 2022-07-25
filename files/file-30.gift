@@ -1,0 +1,19 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 24cc942a-5bb2-47bb-8ad4-2ae91b577840
+// Python versions: 3.10 3.11
+ 
+What will be the output of the following Python code? 
+<br/><code>
+ab \= open("abb.txt", "wb")
+print("Name of the file\: ", ab.name)
+ab.flush()
+ab.close()
+</code>
+{
+~Compilation Error
+~Runtime Error
+~No Output
+=Flushes the file when closing them
+}
+

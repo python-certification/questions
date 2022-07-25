@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 23a434a8-d9e9-4aaa-abe6-de2f06cc162f
+// Python versions: 3.10 3.11
+ What is the difference between r+ and w+ modes? 
+{
+~No difference
+=In case of r+ the pointer is initially placed at the beginning of the file and the pointer is at the end for w+
+~In case of w+ the pointer is initially placed at the beginning of the file and the pointer is at the end for r+
+~Depends on the operating system
+}
+

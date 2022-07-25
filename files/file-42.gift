@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 954aa88b-4fde-41a5-9f57-b6678efeb1e8
+// Python versions: 3.10 3.11
+How do you get the current position within the file? 
+{
+~f.seek()
+=f.tell()
+~f.loc
+~f.pos
+}
+

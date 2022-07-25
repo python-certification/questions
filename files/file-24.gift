@@ -1,0 +1,12 @@
+// Origin: https://www.w3resource.com
+// License: Creative Commons Attribution 4.0 International
+// ID: 76f665fd-1a37-4690-b784-99db851f8a6b
+// Python versions: 3.10 3.11
+To read two characters from a file object f, we use ____________ 
+{
+=f.read(2)
+~f.read()
+~f.readline()
+~f.readlines()
+}
+
