@@ -2,7 +2,7 @@
 // License: Creative Commons Attribution 4.0 International
 // ID: 3cfd3da2-c5c8-48cc-8075-82d56ca639d3
 // Python versions: 3.10 3.11
-Is the following Python code valid?
+What will be the output of the following Python code?
 <br/><code>
 x\=\{2,3,4\}
 y\=\{2,3,4,5\}
@@ -10,8 +10,8 @@ z\=x.issuperset(y)
 print(z)
 </code>
 {
-~False
-=True
+=False
+~True
 ~Syntax error for issuperset() method
 ~Error, no method called issuperset() exists
 }
