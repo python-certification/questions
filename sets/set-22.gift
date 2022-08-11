@@ -7,7 +7,7 @@ The output of the following code is\: class<'set'>
 type(\{\})
 </code>
 {
-=True
-~False
+~True
+=False
 }
 
