@@ -11,7 +11,7 @@ x.add(3)
 {
 ~Yes, now a is \{3,3,4,5\}
 =No, frozen set is immutable
-=No, invalid syntax for add method
-=Yes, now a is \{3,4,5\}
+~No, invalid syntax for add method
+~Yes, now a is \{3,4,5\}
 }
 
