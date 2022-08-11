@@ -6,7 +6,7 @@
 Which of the following is an invalid statement?
 {
 ~a_b_c \= 100
-~abc =\ 100, 'python'
+~abc \= 100, 'python'
 =a b c \= 1 00
 ~a, b, c \= 1, 0, 0
 }
